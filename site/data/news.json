@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-12T07:27:58Z",
- "added_this_run": 0,
- "total_items": 339,
+ "fetched_at": "2026-10-12T07:43:03Z",
+ "added_this_run": 1,
+ "total_items": 340,
  "earliest": "2020-10-20",
  "errors": [],
  "per_source": {
@@ -15,7 +15,7 @@
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 0
+   "new": 1
   },
   "gnews-grid": {
    "in_feed": 10,
@@ -34,18 +34,32 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 79,
+   "in_feed": 78,
    "new": 0
   }
  },
  "by_month": {
-  "2026-10": 286,
+  "2026-10": 287,
   "2026-09": 51,
   "2020-12": 1,
   "2020-10": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Sharon AI pushes ahead with IPO after Firmus implosion - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM1JTeHdPbzJZZTJvcHJGR3ZhcG5qVVo3N1VMSEF1TlRHa3Q2WXdKekZwN0xEVnRZbHNwNTFiR1V4Y04tS0cwd1VLV0hTVTExM1g3T0ptNngxcFkzSWRBOEVVeHdFWFRhN1B6bVMySkZHNkR0MVUxcTg2WXY2NlJ4VnVoMDcyN01TNEZTajQtcnFPZWxWaEFqRW1oXzRLdlNpYURJR1ZiN0FTX25pbDVtSVp0b1FfRlVPWHdScVdpWTBEamZvd29FSEJTUzVzU3pxdHhyaWlIVnZVQ2pkWV81M3hubHZzRlhJTDR3Z0YyaG01a1gtbVU3ZENkYmVaN3NpTWlWUUVVeU9tdXM?oc=5",
+   "summary": "Sharon AI pushes ahead with IPO after Firmus implosion    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-12T06:11:31Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "Sharon AI"
+   ],
+   "states": [],
+   "first_seen": "2026-10-12T07:43:03Z"
+  },
   {
    "title": "Firmus : The tech world believes in second chances, but does Oliver Curtis deserve a third? - SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOHZrenprTFRiMHkwa29VeW54VWxkbXNKRFdUbXZuRjlwLVVUWnh3Um90VmxVdzc3cEFuQm05VXVtOUdXT0xXb1NUTzJDa1NzejdXTldNWkR3NG9ySHhVcVlubk9HNFdlY2xoNnZ6a3IzaFBTQTA0NHVEZk5XdEE0dzFZTExqWXlXeUhZeHlFRVQzWnBOZVA3cksweEx0NFVVRHRfS0NoUXNweXB2UFdMMGJkNzZVaXJlLWhPZ1pRNVB3cE43aXpxY3FVbjZTS0JLQ2hheGJFWU1USEk?oc=5",
