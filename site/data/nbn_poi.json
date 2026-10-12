@@ -1,0 +1,1091 @@
+[
+ {
+  "poi_id": "9CVI",
+  "name": "Civic",
+  "state": "ACT",
+  "lat": -35.27376,
+  "lng": 149.13163,
+  "address": "50 Mort Street, Braddon ACT 2612",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "9QBN",
+  "name": "Queanbeyan",
+  "state": "NSW",
+  "lat": -35.35361,
+  "lng": 149.23189,
+  "address": "36 Lowe St, Queanbeyan NSW 2620",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2ALB",
+  "name": "Albury",
+  "state": "NSW",
+  "lat": -36.08194,
+  "lng": 146.91488,
+  "address": "475 Kiewa St, Albury NSW 2640",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2SYA",
+  "name": "Asquith Depot",
+  "state": "NSW",
+  "lat": -33.6957,
+  "lng": 151.10987,
+  "address": "3 Kelray Place, Asquith NSW 2077",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2BLV",
+  "name": "Berkeley Vale",
+  "state": "NSW",
+  "lat": -33.34911,
+  "lng": 151.43602,
+  "address": "3-5 Pindarri Ave, Berkeley Vale NSW 2261",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2BLK",
+  "name": "Blacktown",
+  "state": "NSW",
+  "lat": -33.77027,
+  "lng": 150.90826,
+  "address": "17 Flushcombe Rd, Blacktown NSW 2148",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CBT",
+  "name": "Campbelltown",
+  "state": "NSW",
+  "lat": -34.068,
+  "lng": 150.81187,
+  "address": "253 Queen St, Campbelltown NSW 2560",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CAM",
+  "name": "Campsie",
+  "state": "NSW",
+  "lat": -33.91586,
+  "lng": 151.10954,
+  "address": "395 Canterbury Rd, Campsie NSW 2194",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CRR",
+  "name": "Carramar",
+  "state": "NSW",
+  "lat": -33.88823,
+  "lng": 150.96885,
+  "address": "6-12 The Horsley Dr, Carramar NSW 2163",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CAS",
+  "name": "Castle Hill",
+  "state": "NSW",
+  "lat": -33.73203,
+  "lng": 151.00514,
+  "address": "4 Castle Pl, Castle Hill NSW 2154",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CHA",
+  "name": "Chatswood",
+  "state": "NSW",
+  "lat": -33.79758,
+  "lng": 151.18051,
+  "address": "1 Thomas St, Chatswood NSW 2067",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CYS",
+  "name": "City South",
+  "state": "NSW",
+  "lat": -33.87569,
+  "lng": 151.20862,
+  "address": "225 Castlereagh St, Sydney NSW 2000",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2CFS",
+  "name": "Coffs Harbour",
+  "state": "NSW",
+  "lat": -30.29652,
+  "lng": 153.11317,
+  "address": "3 Moonee St, Coffs Harbour NSW 2450",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2DAL",
+  "name": "Dalley",
+  "state": "NSW",
+  "lat": -33.86289,
+  "lng": 151.20829,
+  "address": "6-10 Underwood St (cnr Dalley St), Sydney NSW 2000",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2DBB",
+  "name": "Dubbo",
+  "state": "NSW",
+  "lat": -32.24625,
+  "lng": 148.602,
+  "address": "100 Macquarie St, Dubbo NSW 2830",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2SYB",
+  "name": "Eastern Creek Depot",
+  "state": "NSW",
+  "lat": -33.81435,
+  "lng": 150.83605,
+  "address": "6 Roberts Road, Eastern Creek NSW 2766",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2EDG",
+  "name": "Edgecliff",
+  "state": "NSW",
+  "lat": -33.87948,
+  "lng": 151.23853,
+  "address": "295 New South Head Rd, Edgecliff NSW 2027",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2FRE",
+  "name": "Frenchs Forest",
+  "state": "NSW",
+  "lat": -33.75234,
+  "lng": 151.22502,
+  "address": "510 Warringah Rd, Frenchs Forest NSW 2086",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2GBE",
+  "name": "Glebe",
+  "state": "NSW",
+  "lat": -33.88066,
+  "lng": 151.18851,
+  "address": "120-126 St Johns Rd, Glebe NSW 2037",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2GOS",
+  "name": "Gosford",
+  "state": "NSW",
+  "lat": -33.43001,
+  "lng": 151.34154,
+  "address": "21-23 Mann St, Gosford NSW 2250",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2GRN",
+  "name": "Grafton",
+  "state": "NSW",
+  "lat": -29.691,
+  "lng": 152.934,
+  "address": "131 Pound St, Grafton NSW 2460 (NOTE: source gist had wrong Newcastle coords; corrected to approx Grafton exchange)",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2HAM",
+  "name": "Hamilton",
+  "state": "NSW",
+  "lat": -32.92602,
+  "lng": 151.74864,
+  "address": "117 Lawson St, Hamilton NSW 2303",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2KNS",
+  "name": "Kensington",
+  "state": "NSW",
+  "lat": -33.91017,
+  "lng": 151.22033,
+  "address": "115 Todman Ave, Kensington NSW 2033",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2LAK",
+  "name": "Lakemba",
+  "state": "NSW",
+  "lat": -33.92071,
+  "lng": 151.07625,
+  "address": "18 Croydon Rd, Lakemba NSW 2195",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2LID",
+  "name": "Lidcombe",
+  "state": "NSW",
+  "lat": -33.86473,
+  "lng": 151.04407,
+  "address": "1 Taylor St, Lidcombe NSW 2141",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2LIV",
+  "name": "Liverpool",
+  "state": "NSW",
+  "lat": -33.92605,
+  "lng": 150.9241,
+  "address": "40 Terminus St, Liverpool NSW 2170",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2MAI",
+  "name": "Maitland",
+  "state": "NSW",
+  "lat": -32.74993,
+  "lng": 151.58691,
+  "address": "123 George St, East Maitland NSW 2323",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2MYF",
+  "name": "Mayfield",
+  "state": "NSW",
+  "lat": -32.89644,
+  "lng": 151.73495,
+  "address": "314 Maitland Rd, Mayfield NSW 2304",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2MIR",
+  "name": "Miranda",
+  "state": "NSW",
+  "lat": -34.03443,
+  "lng": 151.10178,
+  "address": "576 Kingsway, Miranda NSW 2228",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2MOS",
+  "name": "Mosman",
+  "state": "NSW",
+  "lat": -33.82917,
+  "lng": 151.24482,
+  "address": "850 Military Rd, Mosman NSW 2088",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2NEW",
+  "name": "Newtown",
+  "state": "NSW",
+  "lat": -33.89615,
+  "lng": 151.17918,
+  "address": "2-4 Mary St, Newtown NSW 2042",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2NWR",
+  "name": "Nowra-Bomaderry",
+  "state": "NSW",
+  "lat": -34.87584,
+  "lng": 150.60092,
+  "address": "71 Worrigee St, Nowra NSW 2541",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2PAR",
+  "name": "Parramatta",
+  "state": "NSW",
+  "lat": -33.81403,
+  "lng": 151.00239,
+  "address": "91-93 Marsden St, Parramatta NSW 2151",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2PEA",
+  "name": "Peakhurst",
+  "state": "NSW",
+  "lat": -33.95274,
+  "lng": 151.06523,
+  "address": "41-43 Baumans Rd, Peakhurst NSW 2210",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2PEN",
+  "name": "Pendle Hill",
+  "state": "NSW",
+  "lat": -33.80471,
+  "lng": 150.96033,
+  "address": "209 Dunmore St, Pendle Hill NSW 2145",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2PTH",
+  "name": "Penrith",
+  "state": "NSW",
+  "lat": -33.75289,
+  "lng": 150.69902,
+  "address": "90-92 Henry Street, Penrith NSW 2750",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2ROC",
+  "name": "Rockdale",
+  "state": "NSW",
+  "lat": -33.94843,
+  "lng": 151.13921,
+  "address": "395-405 Princes Hwy, Rockdale NSW 2216",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2RYD",
+  "name": "Ryde",
+  "state": "NSW",
+  "lat": -33.81357,
+  "lng": 151.10526,
+  "address": "116 Blaxland Rd, Ryde NSW 2112",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2STL",
+  "name": "St Leonards",
+  "state": "NSW",
+  "lat": -33.82361,
+  "lng": 151.19597,
+  "address": "524 Pacific Hwy, St Leonards NSW 2065",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2TAM",
+  "name": "Tamworth",
+  "state": "NSW",
+  "lat": -31.09167,
+  "lng": 150.93155,
+  "address": "23 Fitzroy St, Tamworth NSW 2340",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2WAG",
+  "name": "Wagga Wagga",
+  "state": "NSW",
+  "lat": -35.10636,
+  "lng": 147.37102,
+  "address": "226 Tarcutta St, Wagga Wagga NSW 2650",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2WIN",
+  "name": "Windsor",
+  "state": "NSW",
+  "lat": -33.61336,
+  "lng": 150.81282,
+  "address": "22 Brabyn St, Windsor NSW 2756",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "2WLG",
+  "name": "Wollongong",
+  "state": "NSW",
+  "lat": -34.42542,
+  "lng": 150.88995,
+  "address": "296-298 Crown St, Wollongong NSW 2500",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "8DRW",
+  "name": "Darwin",
+  "state": "NT",
+  "lat": -12.45857,
+  "lng": 130.83653,
+  "address": "99 Smith St, Darwin NT 0800",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4BNA",
+  "name": "Acacia Ridge Depot",
+  "state": "QLD",
+  "lat": -27.59726,
+  "lng": 153.03663,
+  "address": "470 Bradman St, Acacia Ridge QLD 4110",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4APL",
+  "name": "Aspley",
+  "state": "QLD",
+  "lat": -27.3575,
+  "lng": 153.02261,
+  "address": "728 Zillmere Rd, Aspley QLD 4034",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4BNB",
+  "name": "Aspley Depot",
+  "state": "QLD",
+  "lat": -27.35477,
+  "lng": 153.02881,
+  "address": "16/605 Zillmere Road, Aspley QLD 4034",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4BBE",
+  "name": "Bundaberg",
+  "state": "QLD",
+  "lat": -24.86594,
+  "lng": 152.34815,
+  "address": "157 Bourbong St, Bundaberg QLD 4670",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4BDB",
+  "name": "Bundamba",
+  "state": "QLD",
+  "lat": -27.60611,
+  "lng": 152.81832,
+  "address": "2 Taylor St, Bundamba QLD 4304",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4CAB",
+  "name": "Caboolture",
+  "state": "QLD",
+  "lat": -27.08539,
+  "lng": 152.9517,
+  "address": "36 King St, Caboolture QLD 4510",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4CAI",
+  "name": "Cairns",
+  "state": "QLD",
+  "lat": -16.92391,
+  "lng": 145.77292,
+  "address": "82-86 Shields St, Cairns QLD 4870",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4CPH",
+  "name": "Camp Hill",
+  "state": "QLD",
+  "lat": -27.49337,
+  "lng": 153.07691,
+  "address": "593 Old Cleveland Rd, Camp Hill QLD 4152",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4EMP",
+  "name": "Eight Mile",
+  "state": "QLD",
+  "lat": -27.59022,
+  "lng": 153.10604,
+  "address": "23 Millers Rd, Eight Mile Plains QLD 4113",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4GDN",
+  "name": "Goodna",
+  "state": "QLD",
+  "lat": -27.60591,
+  "lng": 152.88969,
+  "address": "16 Stuart St, Goodna QLD 4300",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4IPS",
+  "name": "Ipswich",
+  "state": "QLD",
+  "lat": -27.61485,
+  "lng": 152.76109,
+  "address": "76 Brisbane St, Ipswich QLD 4305",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4MKY",
+  "name": "Mackay",
+  "state": "QLD",
+  "lat": -21.13953,
+  "lng": 149.18648,
+  "address": "35 River St, Mackay QLD 4740",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4MRA",
+  "name": "Merrimac",
+  "state": "QLD",
+  "lat": -28.04908,
+  "lng": 153.42689,
+  "address": "199 Sunshine Blvd, Mermaid Waters QLD 4218",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4NBR",
+  "name": "Nambour",
+  "state": "QLD",
+  "lat": -26.62781,
+  "lng": 152.96016,
+  "address": "137-145 Currie St, Nambour QLD 4560",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4NER",
+  "name": "Nerang",
+  "state": "QLD",
+  "lat": -27.99434,
+  "lng": 153.3437,
+  "address": "31 Nerang-Broadbeach Rd, Nerang QLD 4211",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4KLG",
+  "name": "Petrie",
+  "state": "QLD",
+  "lat": -27.26935,
+  "lng": 152.97726,
+  "address": "6 Dayboro Rd, Petrie QLD 4502",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4ROT",
+  "name": "Rockhampton",
+  "state": "QLD",
+  "lat": -23.37814,
+  "lng": 150.51274,
+  "address": "12 Denham St, Rockhampton QLD 4700",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4SLA",
+  "name": "Slacks Creek",
+  "state": "QLD",
+  "lat": -27.63818,
+  "lng": 153.11821,
+  "address": "257 Kingston Rd, Logan Central QLD 4114",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4SOP",
+  "name": "Southport",
+  "state": "QLD",
+  "lat": -27.96736,
+  "lng": 153.41376,
+  "address": "41 Nerang Rd, Southport QLD 4215",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4TOB",
+  "name": "Toowoomba",
+  "state": "QLD",
+  "lat": -27.56219,
+  "lng": 151.95679,
+  "address": "157 Hume St, Toowoomba QLD 4350",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4TNS",
+  "name": "Townsville",
+  "state": "QLD",
+  "lat": -19.25812,
+  "lng": 146.81715,
+  "address": "22 Sturt St, Townsville QLD 4810",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "4WOB",
+  "name": "Woolloongabba",
+  "state": "QLD",
+  "lat": -27.48403,
+  "lng": 153.03646,
+  "address": "820 Main St, Kangaroo Point QLD 4169",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5EDW",
+  "name": "Edwardstown",
+  "state": "SA",
+  "lat": -34.96189,
+  "lng": 138.57207,
+  "address": "688 South Rd, Glandore SA 5037",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5EZB",
+  "name": "Elizabeth",
+  "state": "SA",
+  "lat": -34.72217,
+  "lng": 138.66848,
+  "address": "24-26 Philip Hwy, Elizabeth SA 5112",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5ADB",
+  "name": "Greenfields Depot",
+  "state": "SA",
+  "lat": -34.79334,
+  "lng": 138.60344,
+  "address": "8-12 George St, Green Fields SA 5107",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5ADA",
+  "name": "Lonsdale Depot",
+  "state": "SA",
+  "lat": -35.11644,
+  "lng": 138.4996,
+  "address": "73 O'Sullivan Beach Road, Lonsdale SA 5160",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5MOD",
+  "name": "Modbury",
+  "state": "SA",
+  "lat": -34.82939,
+  "lng": 138.68723,
+  "address": "130-134 Reservoir Rd, Modbury SA 5092",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5PTA",
+  "name": "Port Augusta",
+  "state": "SA",
+  "lat": -32.49114,
+  "lng": 137.76237,
+  "address": "5 Mackay St, Port Augusta SA 5700",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5PRO",
+  "name": "Prospect",
+  "state": "SA",
+  "lat": -34.89175,
+  "lng": 138.60224,
+  "address": "73-77 Ballville St, Prospect SA 5082",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5CPK",
+  "name": "St Marys",
+  "state": "SA",
+  "lat": -34.99178,
+  "lng": 138.58505,
+  "address": "184 Daws Rd, Daw Park SA 5041",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "5STI",
+  "name": "Stirling",
+  "state": "SA",
+  "lat": -35.00656,
+  "lng": 138.71665,
+  "address": "42 Mount Barker Road, Stirling SA 5152",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "7HOB",
+  "name": "Hobart",
+  "state": "TAS",
+  "lat": -42.88676,
+  "lng": 147.32718,
+  "address": "2 Heathfield Ave, Hobart TAS 7000",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "7LAU",
+  "name": "Launceston",
+  "state": "TAS",
+  "lat": -41.43513,
+  "lng": 147.13742,
+  "address": "51 St John St, Launceston TAS 7250",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3BRA",
+  "name": "Ballarat",
+  "state": "VIC",
+  "lat": -37.56486,
+  "lng": 143.85459,
+  "address": "105-111 Doveton St S, Ballarat VIC 3350",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3BEN",
+  "name": "Bendigo",
+  "state": "VIC",
+  "lat": -36.76145,
+  "lng": 144.27615,
+  "address": "38 Short St, Bendigo VIC 3550",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3CAU",
+  "name": "Caulfield",
+  "state": "VIC",
+  "lat": -37.87601,
+  "lng": 145.04676,
+  "address": "78 Waverley Rd, Caulfield VIC 3145",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3CTA",
+  "name": "Cheltenham",
+  "state": "VIC",
+  "lat": -37.96428,
+  "lng": 145.05554,
+  "address": "315 Charman Rd, Cheltenham VIC 3192",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3CBN",
+  "name": "Cranbourne",
+  "state": "VIC",
+  "lat": -38.10416,
+  "lng": 145.28271,
+  "address": "196 High St, Cranbourne VIC 3977",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3DAD",
+  "name": "Dandenong",
+  "state": "VIC",
+  "lat": -37.98698,
+  "lng": 145.21615,
+  "address": "149 Walker Street, Dandenong VIC 3175",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3EXH",
+  "name": "Exhibition",
+  "state": "VIC",
+  "lat": -37.80873,
+  "lng": 144.96969,
+  "address": "5/300 Exhibition St, Melbourne VIC 3000",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3FSR",
+  "name": "Footscray",
+  "state": "VIC",
+  "lat": -37.80292,
+  "lng": 144.89939,
+  "address": "82 Napier St, Footscray VIC 3011",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3GEE",
+  "name": "Geelong",
+  "state": "VIC",
+  "lat": -38.14905,
+  "lng": 144.35575,
+  "address": "17-19 Little Ryrie St, Geelong VIC 3220",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3HAW",
+  "name": "Hawthorn",
+  "state": "VIC",
+  "lat": -37.8222,
+  "lng": 145.03648,
+  "address": "375 Burwood Rd, Hawthorn VIC 3122",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3HRS",
+  "name": "Horsham",
+  "state": "VIC",
+  "lat": -36.71336,
+  "lng": 142.20022,
+  "address": "25 Mclachlan St, Horsham VIC 3400",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3KAL",
+  "name": "Karingal",
+  "state": "VIC",
+  "lat": -38.15343,
+  "lng": 145.16178,
+  "address": "228 Karingal Dr, Karingal VIC 3199",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3KEW",
+  "name": "Kew",
+  "state": "VIC",
+  "lat": -37.80832,
+  "lng": 145.02908,
+  "address": "106-108 Denmark St, Kew VIC 3101",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3KEY",
+  "name": "Keysborough",
+  "state": "VIC",
+  "lat": -37.99309,
+  "lng": 145.16724,
+  "address": "363 Cheltenham Rd, Keysborough VIC 3173",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3KGP",
+  "name": "Kings Park",
+  "state": "VIC",
+  "lat": -37.7428,
+  "lng": 144.79936,
+  "address": "1 Victoria Cres, St Albans VIC 3021",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3LIL",
+  "name": "Lilydale",
+  "state": "VIC",
+  "lat": -37.75836,
+  "lng": 145.35269,
+  "address": "20 Hardy St, Lilydale VIC 3140",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3MTE",
+  "name": "Mount Eliza",
+  "state": "VIC",
+  "lat": -38.18337,
+  "lng": 145.09064,
+  "address": "63 Mount Eliza Way, Mount Eliza VIC 3930",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3NBA",
+  "name": "North Balwyn",
+  "state": "VIC",
+  "lat": -37.79171,
+  "lng": 145.09283,
+  "address": "269 Doncaster Rd, Balwyn North VIC 3104",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3MEA",
+  "name": "Nunawading Depot",
+  "state": "VIC",
+  "lat": -37.82115,
+  "lng": 145.16695,
+  "address": "60 Terracotta Drive, Nunawading VIC 3131",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3MEB",
+  "name": "Port Melbourne Depot",
+  "state": "VIC",
+  "lat": -37.8257,
+  "lng": 144.90551,
+  "address": "282 Lorimer St, Port Melbourne VIC 3207",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3RES",
+  "name": "Reservoir",
+  "state": "VIC",
+  "lat": -37.71342,
+  "lng": 145.00783,
+  "address": "917 High St, Reservoir VIC 3073",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3RWO",
+  "name": "Ringwood",
+  "state": "VIC",
+  "lat": -37.81487,
+  "lng": 145.22668,
+  "address": "13 Ringwood St, Ringwood VIC 3134",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3SHP",
+  "name": "Shepparton",
+  "state": "VIC",
+  "lat": -36.38036,
+  "lng": 145.3998,
+  "address": "307-331 Wyndham St, Shepparton VIC 3630",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3SMR",
+  "name": "South Morang",
+  "state": "VIC",
+  "lat": -37.65775,
+  "lng": 145.07594,
+  "address": "153 Centenary Dr, Mill Park VIC 3082",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3STK",
+  "name": "St Kilda",
+  "state": "VIC",
+  "lat": -37.86421,
+  "lng": 144.98408,
+  "address": "62 Inkerman St, St Kilda VIC 3182",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3TNB",
+  "name": "Thornbury",
+  "state": "VIC",
+  "lat": -37.75824,
+  "lng": 145.00039,
+  "address": "739-741 High St, Thornbury VIC 3071",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3TAG",
+  "name": "Traralgon",
+  "state": "VIC",
+  "lat": -38.19495,
+  "lng": 146.53725,
+  "address": "7 Kay St, Traralgon VIC 3844",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3TMN",
+  "name": "Tullamarine",
+  "state": "VIC",
+  "lat": -37.7051,
+  "lng": 144.88357,
+  "address": "143-145 Melrose Dr, Tullamarine VIC 3043",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3WER",
+  "name": "Werribee",
+  "state": "VIC",
+  "lat": -37.89578,
+  "lng": 144.65911,
+  "address": "51-55 Market Rd, Werribee VIC 3030",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "3WHL",
+  "name": "Wheelers Hill",
+  "state": "VIC",
+  "lat": -37.90246,
+  "lng": 145.16103,
+  "address": "535 Springvale Rd, Wheelers Hill VIC 3150",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6APP",
+  "name": "Applecross",
+  "state": "WA",
+  "lat": -32.01636,
+  "lng": 115.83841,
+  "address": "101 Ardross St, Applecross WA 6153",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6BSD",
+  "name": "Bassendean",
+  "state": "WA",
+  "lat": -31.90486,
+  "lng": 115.94931,
+  "address": "1 Wilson St, Bassendean WA 6054",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6PEB",
+  "name": "Bentley Depot",
+  "state": "WA",
+  "lat": -31.99951,
+  "lng": 115.92489,
+  "address": "47 Charles Street, Bentley WA 6102",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6CAN",
+  "name": "Cannington",
+  "state": "WA",
+  "lat": -32.01722,
+  "lng": 115.93225,
+  "address": "1329 Albany Hwy, Cannington WA 6107",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6DBL",
+  "name": "Doubleview",
+  "state": "WA",
+  "lat": -31.89862,
+  "lng": 115.7867,
+  "address": "298 Scarborough Beach Road, Doubleview WA 6018",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6GLT",
+  "name": "Geraldton",
+  "state": "WA",
+  "lat": -28.77355,
+  "lng": 114.61033,
+  "address": "15 Chapman Rd, Geraldton WA 6530",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6HIL",
+  "name": "Hilton",
+  "state": "WA",
+  "lat": -32.06278,
+  "lng": 115.79154,
+  "address": "10-16 Chamberlain St, Hilton WA 6163",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6KAT",
+  "name": "Katanning",
+  "state": "WA",
+  "lat": -33.68954,
+  "lng": 117.55592,
+  "address": "6 Richardson Street, Katanning WA 6317",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6KEL",
+  "name": "Kelmscott",
+  "state": "WA",
+  "lat": -32.1133,
+  "lng": 116.01376,
+  "address": "2291 Albany Hwy, Kelmscott WA 6111",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6MLO",
+  "name": "Mullaloo",
+  "state": "WA",
+  "lat": -31.78997,
+  "lng": 115.75653,
+  "address": "1 Coral St, Craigie WA 6025",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6PNJ",
+  "name": "Pinjarra",
+  "state": "WA",
+  "lat": -32.62718,
+  "lng": 115.87373,
+  "address": "13 Murray Street, Pinjarra WA 6208",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6CGE",
+  "name": "South Coogee",
+  "state": "WA",
+  "lat": -32.17552,
+  "lng": 115.79447,
+  "address": "1022 Rockingham Rd, Wattleup WA 6166",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6SUB",
+  "name": "Subiaco",
+  "state": "WA",
+  "lat": -31.94979,
+  "lng": 115.82445,
+  "address": "172 Rokeby Rd, Subiaco WA 6008",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ },
+ {
+  "poi_id": "6PEA",
+  "name": "Wangara Depot",
+  "state": "WA",
+  "lat": -31.79175,
+  "lng": 115.84529,
+  "address": "5 Prosperity Ave, Wangara WA 6065",
+  "source": "nbn.rinseout.org (POI list) + community geocode gist; verify before relying"
+ }
+]

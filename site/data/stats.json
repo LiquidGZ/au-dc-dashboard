@@ -1,0 +1,1769 @@
+{
+ "operators": [
+  {
+   "operator_id": "cdc",
+   "name": "CDC Data Centres",
+   "has_profile": true,
+   "category": "Government-focused",
+   "operational_mw": 550.0,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 810.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 4.0,
+   "facility_count": 12,
+   "by_stage": {
+    "Operational": 5,
+    "Under Construction": 4,
+    "Approved": 1,
+    "Planning": 2,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 697.0,
+    "Under Construction": 1143.0,
+    "Approved": 84.0,
+    "Planning": 1592.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 3516.0,
+   "share_of_tracked_operational": 35.9
+  },
+  {
+   "operator_id": "airtrunk",
+   "name": "AirTrunk",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 435.0,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 2400.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 12.0,
+   "facility_count": 8,
+   "by_stage": {
+    "Operational": 3,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 4,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 564.0,
+    "Under Construction": 400.0,
+    "Approved": 0.0,
+    "Planning": 2234.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 3198.0,
+   "share_of_tracked_operational": 28.4
+  },
+  {
+   "operator_id": "nextdc",
+   "name": "NEXTDC",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 288.0,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 537.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 9.75,
+   "facility_count": 23,
+   "by_stage": {
+    "Operational": 15,
+    "Under Construction": 4,
+    "Approved": 1,
+    "Planning": 3,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 562.15,
+    "Under Construction": 366.4,
+    "Approved": 150.0,
+    "Planning": 698.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 1776.5,
+   "share_of_tracked_operational": 18.8
+  },
+  {
+   "operator_id": "equinix",
+   "name": "Equinix",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 54.0,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 55.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": 1.1,
+   "facility_count": 7,
+   "by_stage": {
+    "Operational": 7,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 109.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 109.0,
+   "share_of_tracked_operational": 3.5
+  },
+  {
+   "operator_id": "digital-realty",
+   "name": "Digital Realty",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 50.0,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 270.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 3,
+   "by_stage": {
+    "Operational": 2,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 250.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 70.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 320.0,
+   "share_of_tracked_operational": 3.3
+  },
+  {
+   "operator_id": "digico",
+   "name": "DigiCo Infrastructure REIT",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 42.5,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 88.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 2.12,
+   "facility_count": 3,
+   "by_stage": {
+    "Operational": 3,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 103.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 103.0,
+   "share_of_tracked_operational": 2.8
+  },
+  {
+   "operator_id": "stack-infrastructure",
+   "name": "STACK Infrastructure",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 36.0,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 290.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 1.3,
+   "facility_count": 5,
+   "by_stage": {
+    "Operational": 2,
+    "Under Construction": 2,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 204.0,
+    "Under Construction": 280.0,
+    "Approved": 0.0,
+    "Planning": 450.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 934.0,
+   "share_of_tracked_operational": 2.3
+  },
+  {
+   "operator_id": "fujitsu-au-dc-next-capital",
+   "name": "Fujitsu DCs (Next Capital)",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 25.0,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 75.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 0.2,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 1.6
+  },
+  {
+   "operator_id": null,
+   "name": "Cloud Carrier",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": 15.0,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 285.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 1.0
+  },
+  {
+   "operator_id": "centuria-resetdata",
+   "name": "Centuria / ResetData",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": 14.5,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 250.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 0.3,
+   "facility_count": 2,
+   "by_stage": {
+    "Operational": 2,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 41.5,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 41.5,
+   "share_of_tracked_operational": 0.9
+  },
+  {
+   "operator_id": "dci-data-centers",
+   "name": "DCI Data Centers",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 11.0,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 84.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": 0.47,
+   "facility_count": 3,
+   "by_stage": {
+    "Operational": 2,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 75.0,
+    "Under Construction": 20.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 95.0,
+   "share_of_tracked_operational": 0.7
+  },
+  {
+   "operator_id": null,
+   "name": "DC Alliance",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": 6.0,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 2.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 8.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 8.0,
+   "share_of_tracked_operational": 0.4
+  },
+  {
+   "operator_id": "greensquaredc",
+   "name": "GreenSquareDC",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": 4.0,
+   "operational_basis": "operator-reported",
+   "pipeline_mw": 106.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 1.1,
+   "facility_count": 3,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 1
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 100.0,
+    "Approved": 0.0,
+    "Planning": 240.0,
+    "Withdrawn": 120.0
+   },
+   "fullbuild_mw": 460.0,
+   "share_of_tracked_operational": 0.3
+  },
+  {
+   "operator_id": "macquarie-data-centres",
+   "name": "Macquarie Data Centres",
+   "has_profile": true,
+   "category": "Government-focused",
+   "operational_mw": 3.0,
+   "operational_basis": "sum of disclosed sites",
+   "pipeline_mw": 47.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 0.35,
+   "facility_count": 4,
+   "by_stage": {
+    "Operational": 3,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 66.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 200.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 266.0,
+   "share_of_tracked_operational": 0.2
+  },
+  {
+   "operator_id": null,
+   "name": "Undisclosed",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 3400.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 3,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 3,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Zerra DC",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 2160.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 2,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 2,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Beetaloo Digital",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 2000.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "firmus",
+   "name": "Firmus Technologies",
+   "has_profile": true,
+   "category": "AI/GPU cloud",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1600.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 73.3,
+   "facility_count": 4,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 1,
+    "Planning": 2,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 104.0,
+    "Approved": 288.0,
+    "Planning": 652.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 1044.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "zerra-dc",
+   "name": "Zerra DC",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1440.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 31.9,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Akaysha Energy consortium (proponent)",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1000.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Energy North",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1000.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Undisclosed data centre developer",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1000.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Gingerah Energy",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1000.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Quinbrook Infrastructure Partners",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 800.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 1,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 800.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 800.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "IREN",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 800.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 800.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 800.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "iren",
+   "name": "IREN",
+   "has_profile": true,
+   "category": "AI/GPU cloud",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 800.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Keppel Data Centres",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 720.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 2,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "goodman",
+   "name": "Goodman Group",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 590.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 5.5,
+   "facility_count": 6,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 2,
+    "Planning": 2,
+    "Withdrawn": 1
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 61.0,
+    "Approved": 203.0,
+    "Planning": 500.0,
+    "Withdrawn": 90.0
+   },
+   "fullbuild_mw": 854.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "stockland",
+   "name": "Stockland",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 518.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 1.5,
+   "facility_count": 6,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 2,
+    "Planning": 4,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 134.3,
+    "Planning": 678.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 812.3,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "hyperdc",
+   "name": "HyperDC",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 400.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 400.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 400.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "DoverDC",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 320.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 2,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 1,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 120.0,
+    "Planning": 200.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 320.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "aws",
+   "name": "AWS",
+   "has_profile": true,
+   "category": "Hyperscaler (self-build)",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 193.6,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 20.0,
+   "facility_count": 5,
+   "by_stage": {
+    "Operational": 2,
+    "Under Construction": 1,
+    "Approved": 1,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 40.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 40.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Lehr Consultants International (proponent)",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 193.6,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 1,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 193.6,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 193.6,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "microsoft",
+   "name": "Microsoft",
+   "has_profile": true,
+   "category": "Hyperscaler (self-build)",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 190.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": 25.0,
+   "facility_count": 6,
+   "by_stage": {
+    "Operational": 2,
+    "Under Construction": 3,
+    "Approved": 1,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 190.0,
+    "Approved": 96.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 286.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "ispt",
+   "name": "ISPT",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 170.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 170.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 170.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Not appointed (PGIM Real Estate as developer)",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 80.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 80.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 80.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Vantage Data Centers",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 64.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 64.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 64.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Doma Infrastructure Group",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 62.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 62.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 62.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "telstra-infraco",
+   "name": "Telstra InfraCo",
+   "has_profile": true,
+   "category": "Telco/Carrier",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 62.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Markham Real Estate Partners",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 38.0,
+   "pipeline_basis": "planned minus operational (sites)",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 38.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 38.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "AIMS Capital Management",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "leading-edge-dc",
+   "name": "Leading Edge DC",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": 0.02,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Inligo Digital Australia",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "interactive",
+   "name": "Interactive",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "polaris",
+   "name": "Polaris",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Northern Concept Swanb Pty Ltd",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "SharonAI",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": null,
+   "name": "Australian Data Centres (ADC)",
+   "has_profile": false,
+   "category": null,
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "infratil",
+   "name": "Infratil",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "hmc-capital",
+   "name": "HMC Capital",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "google",
+   "name": "Google Cloud",
+   "has_profile": true,
+   "category": "Hyperscaler (self-build)",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": 1.0,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "oracle",
+   "name": "Oracle",
+   "has_profile": true,
+   "category": "Hyperscaler (self-build)",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "vocus",
+   "name": "Vocus",
+   "has_profile": true,
+   "category": "Telco/Carrier",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": 5.25,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "edge-centres",
+   "name": "Edge Centres",
+   "has_profile": true,
+   "category": "Colocation/Wholesale",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "blackstone",
+   "name": "Blackstone",
+   "has_profile": true,
+   "category": "Developer/Investor",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": 24.0,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "sharon-ai",
+   "name": "Sharon AI",
+   "has_profile": true,
+   "category": "AI/GPU cloud",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": null,
+   "pipeline_basis": "not disclosed",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
+   "share_of_tracked_operational": 0.0
+  }
+ ],
+ "tracked_operational_mw_total": 1534.0,
+ "by_state": {
+  "ACT": {
+   "count": 10,
+   "by_stage": {
+    "Operational": 7,
+    "Under Construction": 2,
+    "Approved": 1,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 121.4,
+    "Under Construction": 67.0,
+    "Approved": 84.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "operational_mw": 121.4,
+   "planned_mw": 272.4,
+   "fullbuild_mw": 272.4,
+   "other_basis_mw": 0.0
+  },
+  "NSW": {
+   "count": 55,
+   "by_stage": {
+    "Operational": 21,
+    "Under Construction": 9,
+    "Approved": 6,
+    "Planning": 18,
+    "Withdrawn": 1
+   },
+   "mw_by_stage": {
+    "Operational": 1235.5,
+    "Under Construction": 1687.0,
+    "Approved": 626.9,
+    "Planning": 5728.0,
+    "Withdrawn": 90.0
+   },
+   "operational_mw": 421.5,
+   "planned_mw": 11664.4,
+   "fullbuild_mw": 9367.4,
+   "other_basis_mw": 2300.0
+  },
+  "NT": {
+   "count": 5,
+   "by_stage": {
+    "Operational": 1,
+    "Under Construction": 2,
+    "Approved": 0,
+    "Planning": 2,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 7.0,
+    "Under Construction": 6.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "operational_mw": 1.0,
+   "planned_mw": 3013.0,
+   "fullbuild_mw": 13.0,
+   "other_basis_mw": 3000.0
+  },
+  "QLD": {
+   "count": 11,
+   "by_stage": {
+    "Operational": 6,
+    "Under Construction": 1,
+    "Approved": 1,
+    "Planning": 3,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 15.25,
+    "Under Construction": 6.0,
+    "Approved": 800.0,
+    "Planning": 6.0,
+    "Withdrawn": 0.0
+   },
+   "operational_mw": 15.25,
+   "planned_mw": 2986.25,
+   "fullbuild_mw": 827.25,
+   "other_basis_mw": 2160.0
+  },
+  "SA": {
+   "count": 6,
+   "by_stage": {
+    "Operational": 3,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 3,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 30.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 1400.0,
+    "Withdrawn": 0.0
+   },
+   "operational_mw": 5.0,
+   "planned_mw": 2430.0,
+   "fullbuild_mw": 1430.0,
+   "other_basis_mw": 1000.0
+  },
+  "TAS": {
+   "count": 3,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 1,
+    "Approved": 1,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 104.0,
+    "Approved": 288.0,
+    "Planning": 52.0,
+    "Withdrawn": 0.0
+   },
+   "operational_mw": 0.0,
+   "planned_mw": 444.0,
+   "fullbuild_mw": 444.0,
+   "other_basis_mw": 0.0
+  },
+  "VIC": {
+   "count": 35,
+   "by_stage": {
+    "Operational": 13,
+    "Under Construction": 6,
+    "Approved": 3,
+    "Planning": 13,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 1208.5,
+    "Under Construction": 720.4,
+    "Approved": 310.0,
+    "Planning": 1624.0,
+    "Withdrawn": 0.0
+   },
+   "operational_mw": 286.25,
+   "planned_mw": 6982.9,
+   "fullbuild_mw": 3862.9,
+   "other_basis_mw": 3120.0
+  },
+  "WA": {
+   "count": 9,
+   "by_stage": {
+    "Operational": 5,
+    "Under Construction": 1,
+    "Approved": 0,
+    "Planning": 2,
+    "Withdrawn": 1
+   },
+   "mw_by_stage": {
+    "Operational": 62.0,
+    "Under Construction": 200.0,
+    "Approved": 0.0,
+    "Planning": 192.0,
+    "Withdrawn": 120.0
+   },
+   "operational_mw": 24.0,
+   "planned_mw": 1574.0,
+   "fullbuild_mw": 574.0,
+   "other_basis_mw": 1000.0
+  }
+ },
+ "by_stage": {
+  "Operational": {
+   "count": 56,
+   "planned_mw": 2679.65
+  },
+  "Under Construction": {
+   "count": 22,
+   "planned_mw": 2790.4
+  },
+  "Approved": {
+   "count": 12,
+   "planned_mw": 2108.9
+  },
+  "Planning": {
+   "count": 42,
+   "planned_mw": 9002.0
+  },
+  "Withdrawn": {
+   "count": 2,
+   "planned_mw": 210.0
+  }
+ },
+ "facility_count": 134,
+ "other_basis_mw_total": 12580.0,
+ "disclosed_operational_mw_sites": 874.4,
+ "planned_mw_sites": 29367.0
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "source_id": "gnews-dc-au",
+  "name": "Google News: \"data centre\" Australia",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%22data+centre%22+australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "enabled": true
+ },
+ {
+  "source_id": "gnews-dc-au-2",
+  "name": "Google News: \"data center\" Australia",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%22data+center%22+australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "enabled": true
+ },
+ {
+  "source_id": "gnews-operators",
+  "name": "Google News: key operators",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=(AirTrunk+OR+NEXTDC+OR+%22CDC+Data+Centres%22+OR+%22Firmus%22+OR+%22DigiCo%22+OR+%22Macquarie+Data+Centres%22)+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "enabled": true
+ },
+ {
+  "source_id": "gnews-grid",
+  "name": "Google News: data centre grid / AEMO / planning",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%22data+centre%22+(AEMO+OR+Transgrid+OR+%22planning+approval%22+OR+%22State+Significant%22+OR+AusNet+OR+Powerlink)+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "enabled": true
+ },
+ {
+  "source_id": "gnews-zh",
+  "name": "Google News 中文：澳洲 数据中心",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%E6%B3%B3%E6%B4%B2+%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83+when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+  "language": "zh",
+  "filter_keywords": [],
+  "enabled": true
+ },
+ {
+  "source_id": "dcd",
+  "name": "Data Center Dynamics (filtered to Australia)",
+  "type": "rss",
+  "url": "https://www.datacenterdynamics.com/en/rss/",
+  "language": "en",
+  "filter_keywords": [
+   "Australia",
+   "Sydney",
+   "Melbourne",
+   "Brisbane",
+   "Perth",
+   "Canberra",
+   "AirTrunk",
+   "NEXTDC",
+   "CDC Data Centres",
+   "Firmus"
+  ],
+  "enabled": true
+ },
+ {
+  "source_id": "itnews",
+  "name": "iTnews (filtered)",
+  "type": "rss",
+  "url": "https://www.itnews.com.au/RSS/rss.ashx",
+  "language": "en",
+  "filter_keywords": [
+   "data centre",
+   "data center",
+   "AirTrunk",
+   "NEXTDC",
+   "CDC",
+   "hyperscale"
+  ],
+  "enabled": true
+ },
+ {
+  "source_id": "afr",
+  "name": "AFR (Google News site query)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=site%3Aafr.com+%22data+centre%22+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "enabled": true
+ }
+]

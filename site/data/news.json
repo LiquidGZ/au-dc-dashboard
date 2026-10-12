@@ -1,0 +1,875 @@
+{
+ "fetched_at": "2026-10-07T00:00:00Z",
+ "added_this_run": 59,
+ "errors": [],
+ "note": "Seeded from a manual sector sweep on 7 Oct 2026; the daily GitHub Action merges live RSS items on top.",
+ "items": [
+  {
+   "title": "Firmus and CDC end 1.6GW Project Southgate collaboration, deploy just 42MW",
+   "link": "https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-1-6gw-project-southgate-collaboration-deploy-just-42mw/",
+   "summary": "Firmus and CDC wind up their 1.6GW Tasmanian Project Southgate partnership after delivering only 42MW of capacity.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-10-06T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies",
+    "CDC Data Centres"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Australia's Firmus to allocate half of IPO to existing investors",
+   "link": "https://www.itnews.com.au/news/australias-firmus-to-allocate-half-of-ipo-to-existing-investors-629422",
+   "summary": "Firmus will reserve about half of its ASX float to existing shareholders ahead of one of Australia's largest ever listings.",
+   "publisher": "iTnews",
+   "published": "2026-10-06T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Stockland wins approval for 49MW, 10-storey Macquarie Park data centre",
+   "link": "https://w.media/stockland-wins-approval-for-49mw-10-storey-macquarie-park-data-centre/",
+   "summary": "Stockland secures approval for a AU$630m, 49MW ten-storey data centre with eight data halls in Sydney's Macquarie Park.",
+   "publisher": "W.Media",
+   "published": "2026-10-05T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Stockland"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Monash rejects Centuria data centre plans as Victoria tightens planning rules",
+   "link": "https://w.media/monash-rejects-centuria-data-centre-plans-as-victoria-tightens-planning-rules/",
+   "summary": "Monash Council knocks back Centuria's AU$137m, 38MW Melbourne data centre over power demand and noise as Victoria tightens rules.",
+   "publisher": "W.Media",
+   "published": "2026-10-05T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Centuria / ResetData"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Microsoft Wins Govt Approval for $902M Sydney Data Centre After Goodman Retreat",
+   "link": "https://www.mingtiandi.com/real-estate/data-centres/microsoft-wins-approval-for-902m-sydney-data-centre/",
+   "summary": "Microsoft lands NSW approval for a $902m Sydney data centre shortly after Goodman withdrew a neighbouring proposal.",
+   "publisher": "Mingtiandi",
+   "published": "2026-10-05T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Microsoft",
+    "Goodman Group"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Microsoft gets approval for AU$1.26bn, 96MW Sydney data centre",
+   "link": "https://w.media/microsoft-gets-approval-for-au1-26bn-96mw-sydney-data-centre/",
+   "summary": "Microsoft clears NSW planning for a AU$1.26bn, 96MW western Sydney data centre after resolving Blacktown biodiversity issues.",
+   "publisher": "W.Media",
+   "published": "2026-10-02T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Microsoft"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "South Australia launches AI Royal Commission setting broad economic and social remits",
+   "link": "https://w.media/south-australia-launches-ai-royal-commission-setting-broad-economic-and-social-remits/",
+   "summary": "South Australia establishes a Royal Commission into AI covering the economy, workforce, public services and society.",
+   "publisher": "W.Media",
+   "published": "2026-10-01T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Firmus Targets $30 Billion Valuation in One of Australia's Biggest Ever IPOs",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports",
+   "summary": "AI data centre developer Firmus is reported to be seeking a valuation near $30bn in one of Australia's largest ever floats.",
+   "publisher": "Bloomberg",
+   "published": "2026-10-01T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga",
+   "link": "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/",
+   "summary": "CDC moves ahead with a gigawatt-scale hyperscale campus at Wagga Wagga in regional New South Wales.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-30T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "CDC Data Centres"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "CDC wins approval for AU$203.5m Beard 2 data centre in Canberra",
+   "link": "https://w.media/cdc-wins-approval-for-au203-5m-beard-2-data-centre-in-canberra/",
+   "summary": "CDC gains conditional approval for a three-storey Beard campus building in the ACT adding 12 data halls and 84MW.",
+   "publisher": "W.Media",
+   "published": "2026-09-30T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "CDC Data Centres"
+   ],
+   "states": [
+    "ACT"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Nine things we learned from the Data Center Investment Summit Australia",
+   "link": "https://w.media/nine-things-we-learned-from-the-data-center-investment-summit-australia/",
+   "summary": "Takeaways from the inaugural DCIS Australia on power access, renewable mandates, community consent and shifting customer models.",
+   "publisher": "W.Media",
+   "published": "2026-09-30T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+   "summary": "A 400MW data centre campus is lodged for planning assessment on Melbourne's outskirts in Victoria.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-29T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Queensland council questions height, impacts of Swanbank data centre",
+   "link": "https://w.media/queensland-council-questions-height-impacts-of-swanbank-data-centre/",
+   "summary": "Ipswich City Council seeks more information on a 10-storey Swanbank data centre's height, environmental impacts and parking.",
+   "publisher": "W.Media",
+   "published": "2026-09-29T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "AWS says state permits block renewable diesel for backup generators",
+   "link": "https://w.media/aws-says-state-permits-block-renewable-diesel-for-backup-generators/",
+   "summary": "AWS says Australian state environmental permits prevent it switching data centre backup generators to renewable diesel.",
+   "publisher": "W.Media",
+   "published": "2026-09-29T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "AWS"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Firmus expands Meta AI infrastructure deal into Southeast Asia",
+   "link": "https://w.media/firmus-expands-meta-ai-infrastructure-deal-into-southeast-asia/",
+   "summary": "Firmus widens its Meta partnership beyond Australia, contracting GPU compute capacity at new Southeast Asian AI facilities.",
+   "publisher": "W.Media",
+   "published": "2026-09-29T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
+   "summary": "Goodman pulls its planning application for a 90MW Sydney data centre campus after winning approval nearby.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-28T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Goodman Group"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "SubCo plans three subsea cables in Indo-Pacific",
+   "link": "https://www.datacenterdynamics.com/en/news/subco-plans-three-subea-cables-in-indo-pacific/",
+   "summary": "SUBCO unveils three new Indo-Pacific subsea cable systems linking Australia to regional and transpacific landing points.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-28T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA",
+    "NT"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Sharon AI to lease capacity from Australia's GreenSquareDC",
+   "link": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/",
+   "summary": "Sharon AI becomes the anchor tenant at GreenSquareDC's SYD1 campus, planning roughly 8,200 Nvidia Blackwell Ultra GPUs.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-28T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "GreenSquareDC"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Hydro weighs 444MW Firmus load as Tasmania nears energy balance",
+   "link": "https://w.media/hydro-weighs-444mw-firmus-load-as-tasmania-nears-energy-balance/",
+   "summary": "Hydro Tasmania assesses a long-term supply deal for about 444MW of Firmus demand as the state approaches energy balance.",
+   "publisher": "W.Media",
+   "published": "2026-09-28T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Firmus backs tougher data centre rules in Tasmania, wants project-by-project assessment",
+   "link": "https://w.media/firmus-backs-tougher-data-centre-rules-in-tasmania-wants-project-by-project-assessment/",
+   "summary": "Firmus supports stricter Tasmanian transparency and environmental standards but argues for case-by-case project assessment.",
+   "publisher": "W.Media",
+   "published": "2026-09-28T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Anger as 15-metre power poles pop up in street for data centre",
+   "link": "https://www.abc.net.au/news/2026-09-28/anger-as-15-metre-power-poles-pop-up-in-street-for-data-centre/107205060",
+   "summary": "Residents object to 15-metre transmission poles installed through suburban streets to serve a nearby data centre expansion.",
+   "publisher": "ABC News",
+   "published": "2026-09-28T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Google, Microsoft back Australian data centre rules with flexible clean energy demands",
+   "link": "https://w.media/google-microsoft-back-australian-data-centre-rules-with-flexible-clean-energy-demands/",
+   "summary": "Google and Microsoft support nationally consistent data centre regulation but push for outcomes-based energy and water rules.",
+   "publisher": "W.Media",
+   "published": "2026-09-27T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Google Cloud",
+    "Microsoft"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
+   "link": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
+   "summary": "Vocus commits to a 4,000km terrestrial fibre route connecting Brisbane to Darwin for data centre and subsea cable traffic.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-25T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Vocus"
+   ],
+   "states": [
+    "QLD",
+    "NT"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Northern Territory challenges Australia's proposed data centre energy rules",
+   "link": "https://w.media/northern-territory-challenges-proposed-australias-data-centre-energy-rules/",
+   "summary": "The NT Government opposes a national renewable-offset mandate for large data centres, favouring dedicated gas-fired supply.",
+   "publisher": "W.Media",
+   "published": "2026-09-25T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NT"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
+   "link": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
+   "summary": "Victoria's draft framework would force data centre operators to procure their own renewable generation and fund grid upgrades.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-24T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "AEMC opens consultation on data centre network cost recovery",
+   "link": "https://w.media/aemc-opens-consultation-on-data-centre-network-cost-recovery/",
+   "summary": "The AEMC consults on rule changes making data centres and other large loads directly bear the network costs they trigger.",
+   "publisher": "W.Media",
+   "published": "2026-09-24T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "CDC Pitches $10.5B New South Wales Data Centre as Australian Sovereign Compute Hub",
+   "link": "https://www.mingtiandi.com/real-estate/data-centres/cdc-proposes-10-5b-new-south-wales-data-centre/",
+   "summary": "CDC frames a $10.5bn NSW campus as sovereign compute infrastructure for Australian government and defence workloads.",
+   "publisher": "Mingtiandi",
+   "published": "2026-09-24T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "CDC Data Centres"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Data centre funding surges to record $35b this year despite AI 'bubble' risks",
+   "link": "https://www.abc.net.au/news/2026-09-23/data-centre-financing-australia/107180740",
+   "summary": "Australian data centre operators raised a record $35bn in 2026, about 85 per cent of it debt, even as AI bubble warnings grow.",
+   "publisher": "ABC News",
+   "published": "2026-09-23T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "NEXTDC",
+    "AirTrunk",
+    "CDC Data Centres"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "New restrictions on data centre water use, proximity to schools under Victorian strategy",
+   "link": "https://www.abc.net.au/news/2026-09-22/victorian-data-centres-policy-renewable-energy-mandates/107178138",
+   "summary": "Victoria's data centre action plan sets recycled water requirements, residential buffers and renewable energy obligations.",
+   "publisher": "ABC News",
+   "published": "2026-09-22T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "CDC plans AUD 15bn, 1.4GW data centre campus near Wagga Wagga",
+   "link": "https://w.media/cdc-plans-aud-15bn-1-4gw-data-centre-campus-near-wagga-wagga/",
+   "summary": "CDC proposes a four-building, 1.4GW hyperscale campus near Wagga Wagga requiring about AU$15bn of investment.",
+   "publisher": "W.Media",
+   "published": "2026-09-22T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "CDC Data Centres"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "AirTrunk proposes AUD 3.7bn NSW data centre with AUD 37m community offer",
+   "link": "https://w.media/airtrunk-proposes-aud-3-7bn-nsw-data-centre-with-aud-37m-community-offer/",
+   "summary": "AirTrunk lodges a AU$3.7bn Hunter region hyperscale facility with AU$37m of community infrastructure and energy commitments.",
+   "publisher": "W.Media",
+   "published": "2026-09-21T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "AirTrunk"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "AirTrunk, CDC call for national data centre rules with greater accountability",
+   "link": "https://w.media/airtrunk-cdc-call-for-national-data-centre-rules-with-greater-accountability/",
+   "summary": "Senate inquiry submissions from AirTrunk and CDC urge clearer national data centre rules, public reporting and project screening.",
+   "publisher": "W.Media",
+   "published": "2026-09-21T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "AirTrunk",
+    "CDC Data Centres"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "The economy needs migration and data centres. Voters hate both",
+   "link": "https://www.abc.net.au/news/2026-09-21/migration-data-centres-economy-ai-voters-hate-both-government/104978736",
+   "summary": "Analysis of the political bind facing the federal government as data centre and migration-driven growth meets public resistance.",
+   "publisher": "ABC News",
+   "published": "2026-09-21T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "SharonAI buys former printing press outside Albury, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/sharonai-buys-former-printing-press-outside-albury-australia/",
+   "summary": "Sharon AI acquires a disused printing works near Albury in regional NSW for conversion to GPU compute capacity.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-18T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Amazon receives approval for AUD 2.17bn Sydney data centre",
+   "link": "https://w.media/amazon-receives-approval-for-aud-2-17bn-sydney-data-centre/",
+   "summary": "AWS wins approval for a AU$2.17bn three-building western Sydney data centre with roughly 193.6MW of IT capacity.",
+   "publisher": "W.Media",
+   "published": "2026-09-18T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "AWS"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "\"Massive loophole:\" Consultation paper stokes doubt on data centre emissions, wind and solar mandates",
+   "link": "https://reneweconomy.com.au/massive-loophole-consultation-paper-stokes-doubt-on-data-centre-emissions-wind-and-solar-mandates/",
+   "summary": "The federal AI infrastructure consultation paper leaves room for data centres to avoid firm renewable build obligations.",
+   "publisher": "RenewEconomy",
+   "published": "2026-09-18T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Anthropic is set to run Claude out of a Queensland data centre, here's what you need to know",
+   "link": "https://www.abc.net.au/news/2026-09-18/queensland-data-centre-ai-anthropic-explainer/107163376",
+   "summary": "Explainer on Anthropic's Western Downs Digital Park lease and what hosting Claude in Queensland means for the state's grid.",
+   "publisher": "ABC News",
+   "published": "2026-09-18T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Anthropic signs first Australian data centre agreement",
+   "link": "https://www.itnews.com.au/news/anthropic-signs-first-australian-data-centre-agreement-628972",
+   "summary": "Anthropic signs its first Australian capacity agreement, anchoring the $32bn Western Downs Digital Park near Dalby, Queensland.",
+   "publisher": "iTnews",
+   "published": "2026-09-17T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "\"Bowen test:\" Anthropic's giant data centre plan will test federal resolve on wind and solar",
+   "link": "https://reneweconomy.com.au/bowen-test-giant-data-centre-plan-will-test-federal-resolve-on-renewables-rule/",
+   "summary": "Anthropic's Queensland data centre becomes the first real test of the federal renewables mandate for large new loads.",
+   "publisher": "RenewEconomy",
+   "published": "2026-09-17T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Victoria's power on the line as data centres boom",
+   "link": "https://www.abc.net.au/news/2026-09-17/datacentre-boom-revives-vic-transmission-fight/107155564",
+   "summary": "Victoria's data centre build-out revives long-running transmission line disputes and questions over who pays for grid upgrades.",
+   "publisher": "ABC News",
+   "published": "2026-09-17T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Nationals MP David Littleproud calls for new coal-fired power station to bolster $32bn data centre",
+   "link": "https://www.abc.net.au/news/2026-09-17/queensland-data-centre-politicians-responses/107164154",
+   "summary": "Nationals leader David Littleproud argues a new coal plant is needed to power the $32bn Western Downs data centre project.",
+   "publisher": "ABC News",
+   "published": "2026-09-17T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Data center growth lifts Infratil earnings guidance for FY 2027",
+   "link": "https://w.media/data-center-growth-lifts-infratil-earnings-guidance-for-fy-2027/",
+   "summary": "Infratil upgrades FY27 EBITDAF guidance on strong data centre demand across CDC Data Centres and Kao Data.",
+   "publisher": "W.Media",
+   "published": "2026-09-16T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Infratil",
+    "CDC Data Centres"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "AirTrunk partners with Emergence Quantum to explore cryogenic cooling in data centers",
+   "link": "https://www.datacenterdynamics.com/en/news/airtrunk-partners-with-emergence-quantum-to-explore-cryogenic-cooling-in-data-centers/",
+   "summary": "AirTrunk teams with Emergence Quantum to study cryogenic cooling and quantum hardware hosting inside its facilities.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-15T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "AirTrunk"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Six steps to stop the data centre boom from sending power prices through the roof",
+   "link": "https://reneweconomy.com.au/six-steps-to-stop-the-data-centre-boom-from-sending-power-prices-through-the-roof/",
+   "summary": "A policy prescription for connecting large data centre loads without pushing household electricity prices higher.",
+   "publisher": "RenewEconomy",
+   "published": "2026-09-15T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Firmus seeks $5bn raise in Australian IPO - report",
+   "link": "https://www.datacenterdynamics.com/en/news/firmus-seeks-5bn-raise-in-australian-ipo-report/",
+   "summary": "Firmus is reported to be targeting a $5bn raise in what would be one of the ASX's biggest technology listings.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-14T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Australia's largest proposed data centre could draw a quarter of Queensland's energy use",
+   "link": "https://www.abc.net.au/news/2026-09-14/western-downs-digital-park-data-centre-energy-queensland/107115082",
+   "summary": "The Western Downs Digital Park near Dalby could consume around a quarter of Queensland's current electricity demand.",
+   "publisher": "ABC News",
+   "published": "2026-09-14T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Australia's NextDC raises AU$1.1bn in convertible notes",
+   "link": "https://www.datacenterdynamics.com/en/news/australias-nextdc-raises-au11bn-in-convertible-notes/",
+   "summary": "NEXTDC prices AU$1.1bn of convertible notes to fund its Sydney and Melbourne AI-ready capacity pipeline.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-11T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "NSW",
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Large 900 MW battery and data centre planned at former nuclear power plant site",
+   "link": "https://reneweconomy.com.au/large-900-mw-battery-and-data-centre-planned-at-former-nuclear-power-plant-site/",
+   "summary": "A 900MW battery paired with a data centre is proposed for a former nuclear power plant site, reusing existing grid connection.",
+   "publisher": "RenewEconomy",
+   "published": "2026-09-11T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Nvidia partners with Aussie companies to bring 2GW online by 2027",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
+   "summary": "Nvidia signs agreements with Australian operators targeting 2GW of AI data centre capacity online by 2027.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-10T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies",
+    "NEXTDC"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Transgrid warns Sydney data centre demand is stretching grid capacity",
+   "link": "https://w.media/transgrid-warns-sydney-data-centre-demand-is-stretching-grid-capacity/",
+   "summary": "Transgrid says more than 20GW of connection requests are straining NSW transmission, with developers asked to fund upgrades.",
+   "publisher": "W.Media",
+   "published": "2026-09-10T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Data centres told to pack their bags for the regions after house full sign goes up in Sydney",
+   "link": "https://reneweconomy.com.au/data-centres-told-to-pack-their-bags-for-the-regions-after-house-full-sign-goes-up-in-sydney/",
+   "summary": "With Sydney's grid effectively full, new data centre loads are being steered toward regional NSW connection points.",
+   "publisher": "RenewEconomy",
+   "published": "2026-09-10T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "FlexSysAI launches grid-flexibility pilot with ResetData, CSIRO, University of Queensland",
+   "link": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
+   "summary": "A pilot with ResetData, CSIRO and UQ tests whether AI compute loads can act as a flexible demand resource for the grid.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-09T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Centuria / ResetData"
+   ],
+   "states": [
+    "QLD"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "\"Overlooked\" challenge: Data centre boom could lift e-waste load 10-fold, increase \"forever chemical\" risks",
+   "link": "https://reneweconomy.com.au/overlooked-challenge-data-centre-boom-could-lift-e-waste-load-10-fold-increase-forever-chemical-risks/",
+   "summary": "Research warns Australia's data centre build-out could multiply e-waste tenfold and raise PFAS contamination risk.",
+   "publisher": "RenewEconomy",
+   "published": "2026-09-09T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "ASC cable break causes connectivity disruption between Perth and Singapore",
+   "link": "https://www.datacenterdynamics.com/en/news/asc-cable-break-causes-connectivity-disruption-between-perth-and-singapore/",
+   "summary": "A fault on the Australia Singapore Cable disrupts capacity on the Perth-Singapore route pending repair.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-07T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Goodman Group gets green light for 135MW data center in northern Sydney, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/goodman-group-gets-green-light-for-135mw-data-center-in-northern-sydney-australia/",
+   "summary": "Goodman Group wins approval for a 135MW data centre development in northern Sydney.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-07T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Goodman Group"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Firmus to invest $300m in SubCo's upcoming Australia-US subsea cable",
+   "link": "https://www.datacenterdynamics.com/en/news/firmus-to-invest-300m-in-subcos-upcoming-australia-us-subsea-cable/",
+   "summary": "Firmus commits $300m to SUBCO's planned Australia-US subsea cable to backhaul AI compute traffic.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-04T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Firmus proposes third data center project in Tasmania",
+   "link": "https://www.datacenterdynamics.com/en/news/firmus-proposes-third-data-center-project-in-tasmania/",
+   "summary": "Firmus lodges plans for a third Tasmanian AI data centre, deepening its reliance on the state's hydro-backed grid.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-03T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Diraq and Equinix to deploy first quantum computer inside an Australian commercial data center",
+   "link": "https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/",
+   "summary": "Diraq will install a silicon quantum computer in an Equinix facility, a first for an Australian commercial data centre.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-03T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "Equinix"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "Amazon signs first APAC battery storage tolling deal with Anza Power in Victoria, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-signs-first-apac-battery-storage-tolling-deal-with-anza-power-in-victoria-australia/",
+   "summary": "AWS signs its first Asia-Pacific battery tolling agreement, contracting Anza Power storage capacity in Victoria.",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-09-03T00:00:00Z",
+   "source_id": "research-2026-10-07",
+   "language": "en",
+   "operators": [
+    "AWS"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "fetched": "2026-10-07T00:00:00Z"
+  }
+ ]
+}
