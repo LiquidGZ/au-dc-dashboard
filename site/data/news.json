@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-12T07:48:02Z",
- "added_this_run": 3,
- "total_items": 343,
+ "fetched_at": "2026-10-12T07:50:16Z",
+ "added_this_run": 6,
+ "total_items": 349,
  "earliest": "2020-10-20",
  "errors": [],
  "per_source": {
@@ -15,7 +15,7 @@
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 0
+   "new": 5
   },
   "gnews-grid": {
    "in_feed": 10,
@@ -34,18 +34,32 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 79,
-   "new": 2
+   "in_feed": 78,
+   "new": 0
   }
  },
  "by_month": {
-  "2026-10": 290,
+  "2026-10": 296,
   "2026-09": 51,
   "2020-12": 1,
   "2020-10": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Glencore, Sharon AI to hit boards after Firmus flop - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOelY4S2NDcWVUMkR2dk1xVHlmM2RoYWluUHoyOUpBaEN2UThrN3BZV21DMTJmczdtTXYwMXdJbG9NQXdvTzNyWnpnRXFfcnBJazVqc1ZfR3VCbmdtekJfOGF2NHd2Y2E5Uzk5VXlDdGZSQWxCUlkzbDZ2RG5iLXJZMmctYUZzV0pRUXBxT1FiOWJFLU1vbktGel82N0ZPN2FHSWFSaUJmcFloXzg0aGZURDBrZWpZNmpDbE01cXVfMFpUbEpjV1BneU1WX3VSMTRXNWdveTl6YlFFMjNZaE5FOGdYSVBPY29ZY2d0bXlKeUh3Wl83ZV9xM09oRXM5cUJ1aEVV?oc=5",
+   "summary": "Glencore, Sharon AI to hit boards after Firmus flop    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-12T07:18:32Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "Sharon AI"
+   ],
+   "states": [],
+   "first_seen": "2026-10-12T07:50:16Z"
+  },
   {
    "title": "ASIC wants mortgage brokers to explain when lowest rate not offered - AFR",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa0xxWUFfdUE2RUI3LUFubFBSbFJFdEJlMmhPQzFhRmtRNW9IWklnODRiOTdwMnFNZ0txVEE1VVFWbUlmMmVQbVhWbEFIengwOXBWTENqUGlYeXJHQXBpTEZWV1dVemJvczVSWkdpVllySFNwcXphUldiTy16QXZFOXFwZU9OVjBkcVhxNXY5d3BfYTZTZDJEY3hVZnBCZ0ZfUDY0aUhpOWNKVEdSdEdoNzVXQTBSVC1VZlF5Vk5DZEZDUjR4b280cndKS1Y?oc=5",
@@ -329,6 +343,20 @@
    "first_seen": "2026-10-12T07:22:17Z"
   },
   {
+   "title": "What does the failed float of Firmus Technologies mean for its three Tas projects? - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFRDRHNISkhtZDB4Snc4dHJsYjhaZE9IVldnYWw3d2I1T3hYemVJdUZrc3lfWDFYYmh6NHB2LVJEbGdqS3ZuaS0zNUFFY2RVbVdjbFhCbVlLeFB6TGpMVDU0WnpldUNQYnl6RHhvN0pyY2NUbnRjdzV0eXN0MHNLcXdKRnZfN1VBOXJOOVo1WmJoVUdEUHFaNGM0Tlk3ZEdOZVNFRWVXZ3JkRjVycnRhSFJ3?oc=5",
+   "summary": "What does the failed float of Firmus Technologies mean for its three Tas projects?    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-10-11T21:30:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "first_seen": "2026-10-12T07:50:16Z"
+  },
+  {
    "title": "MATelec Australia targets data centre cooling reliability - Utility Magazine",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDRmOFRBZVhBdzRpbS0ya1drZERLNkg5dDloc3BCbTFULUx4NkNOdUljcl9STk05TW54VFphbjBtWVBKNmdodmh4Ukp6SExoMHBEZjV4XzduRnpXQVBaQ1ZySEk2ZTJ1NmdMbGdRZEZVLXBvZWpIbWxLNTdfWVNBVFcxQktKQ2ZoS09XSmkwMjk3dzA?oc=5",
    "summary": "MATelec Australia targets data centre cooling reliability    Utility Magazine",
@@ -485,6 +513,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Enjoy the AI party, just stay close to the exits - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRmNHMmJmRmtiOUZTUlJxeEVBcnFFam93ekwzWGV2blVxOXUxaTdkUHhKa2d4MnEtRDZKZ2xuQ0xjc045SjhGSExqaVUwZXVhSE5NT25GcXlpTE4ybGlWbGFia1pZX1ZmTUhVa2RaWUhnUERqelpfTFlxVDRkRGd4d0cxdjhRSzQ0Y3p2cENwN19NcWpSZFhlT2RnY0hDUmV3ZXV1NHAxQVFmMng3c2JobXRWSWZoemhjOWRsamJvVENJdVd2dEwtdE9QV0FxLVFSZ05lY1lUcWRwT0RsVkMxSU9DUFVZTUJFNUlJVFlKcTZrTVFxa1BnQVJ0Y3JpdXJlSmg2NGt6cjQ3Z2loanVN?oc=5",
+   "summary": "Enjoy the AI party, just stay close to the exits    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-10T22:02:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:50:16Z"
   },
   {
    "title": "Tasmanians expressed doubts about AI firm Firmus, now so have investors - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1033,6 +1073,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "MAAS Group Says Firmus Contracts on Track After AI Infrastructure Firm Scraps ASX Listing - Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlFCM2RaY2hpQ1BKY1V1a0luZTBxMjRsUzJ1b0dfT2VUZzRPNG10YlNuWHVQeG1FUWthdFVEZV82NmtaUVJ3MkNObzlycUV4cW9vdm9maERWenBQNU1LUlFyc1V6ZXl4MFdzTUtGUzd1cHBNcHVtTC1KNUc1QkxSUVMtZHJoMjJL?oc=5",
+   "summary": "MAAS Group Says Firmus Contracts on Track After AI Infrastructure Firm Scraps ASX Listing    Yahoo Finance Australia",
+   "publisher": "Yahoo Finance Australia",
+   "published": "2026-10-09T06:04:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:50:16Z"
   },
   {
    "title": "Fortescue backs Telstra link to tap Pilbara AI boom - The West Australian",
@@ -2251,6 +2303,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Firmus equity raising syndicate meme video - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFI0OTJxcVVpWWJhSlh4cG1VV3pWY0cyNi1KWG1valRqUVl5bE9GTHpFSzYzUXFPTDQzUWN5U2MzTEJtc2Vpa2ttQzFWT1UwRWpyQkFVSFhtS3hpRkM3SEVVejgycVNLbEd6ZFlGQy03M01DMUFoUElNYXNVRlhfQTdBaDl1bHFMbnczSTZWRWNoeVdfYlcxanVXQk9sSEtxMjJn?oc=5",
+   "summary": "Firmus equity raising syndicate meme video    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-08T04:47:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:50:16Z"
   },
   {
    "title": "China’s remote data centre buildout is on steroids - AFR",
@@ -3516,6 +3580,22 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Microsoft wins approval for $1.2bn western Sydney data centre - Green Street News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjBjR2JVV3dKS2ctN3d1S3lDSXJmU0E4Ym5yOE5xSDB5emdZeUFQcUVEUXJTSVAxbV9UOGNfV2duUDgzTjZEaWZBbklfM1NSQUpyQXJiQVVNS1MzbUg3SFZVYVF5SVlvMVpZanpwOXRPckEyYy1KakhrSUdBY2pXd0VWWnEzejdoUm9uS1VIUjFiV3ZaMk9CQXJVVUhXZw?oc=5",
+   "summary": "Microsoft wins approval for $1.2bn western Sydney data centre    Green Street News",
+   "publisher": "Green Street News",
+   "published": "2026-10-05T09:19:37Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "Microsoft"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-12T07:50:16Z"
   },
   {
    "title": "Diversa CEO handed eye-gouging bonus despite regulatory ruin - AFR",

@@ -1,8 +1,8 @@
 {
  "site_title_en": "Australian Data Centre Atlas",
  "site_title_zh": "澳洲数据中心图谱",
- "site_subtitle_en": "Facilities, grid & fibre infrastructure, connection regulation, stakeholders and daily news — one maintained source",
- "site_subtitle_zh": "设施分布、电网与光纤基础设施、并网监管、行业参与者及每日新闻，一站式持续维护",
+ "site_subtitle_en": "Facilities, grid and fibre infrastructure, connection regulation, stakeholders and daily news",
+ "site_subtitle_zh": "设施分布、电网与光纤基础设施、并网监管、行业参与者及每日新闻",
  "organisation": "MAI Capital",
  "data_as_of": "2026-10-07",
  "disclaimer_en": "Compiled from public sources for research purposes. Capacity is IT load (MW) as disclosed by operators or reported by reputable media; a few projects publish only site or generation capacity and are marked in the capacity_basis column and excluded from IT-load totals. Undisclosed values are left blank rather than estimated. Verify before relying on any figure.",
