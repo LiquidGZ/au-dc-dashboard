@@ -1,25 +1,25 @@
 {
- "fetched_at": "2026-10-12T07:22:17Z",
- "added_this_run": 274,
- "total_items": 333,
+ "fetched_at": "2026-10-12T07:25:43Z",
+ "added_this_run": 4,
+ "total_items": 337,
  "earliest": "2020-10-20",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
    "in_feed": 100,
-   "new": 96
+   "new": 2
   },
   "gnews-dc-au-2": {
    "in_feed": 51,
-   "new": 46
+   "new": 1
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 72
+   "new": 1
   },
   "gnews-grid": {
    "in_feed": 10,
-   "new": 6
+   "new": 0
   },
   "gnews-zh": {
    "in_feed": 0,
@@ -34,12 +34,12 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 79,
-   "new": 54
+   "in_feed": 78,
+   "new": 0
   }
  },
  "by_month": {
-  "2026-10": 280,
+  "2026-10": 284,
   "2026-09": 51,
   "2020-12": 1,
   "2020-10": 1
@@ -791,6 +791,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Firmus flop highlights the perils of FOMO - The Mercury",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbFg3bzdmY1cyNUZJV05Xbkhma2I1Z0k5cTA5cXVqMUhmMndHRUhEbmRGUllIZmxWbXMteHRLeXZXcVRjdlRrRklKV1p1VzE1WWlhUmx0RHFTNVNKN3hmTXhxenZ1cElxTF82akNZeVA0aU9LMmxveFZFekJ0RWM3cGVwb1V5eG5GWGdwZGk4VG5QM3BZU1l4Yy1fc1Uwb21lWWh6Wkp4QWI1d3RvVURRVW5wV3ljOG8wdzBWN1pRSHVhaEJ1S2ozUVBjS3NaUVlybzlvZ2NPMmt0YlZWcEVfUmNIN1lxLTZIUGI1eThJNjAtanVL?oc=5",
+   "summary": "Firmus flop highlights the perils of FOMO    The Mercury",
+   "publisher": "The Mercury",
+   "published": "2026-10-09T10:22:34Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:25:43Z"
   },
   {
    "title": "Firmus scraps A$7 billion Australian IPO - TNGlobal",
@@ -3107,6 +3119,18 @@
    "first_seen": "2026-10-12T07:22:17Z"
   },
   {
+   "title": "Firmus, CDC end 1.6GW Project Southgate AI infrastructure partnership - ET Datacenters",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSE9VcUYzODlTbnhxQWRYOTZldkZFM0QzLWZvOF82amhCQ1pDS2xtdEFoTE5ZS1FpMmVRTUdmWEVBUTgzUmZYUlZqci1Jc2FTZDJzR25YM2t3cDdxSGo2WEdnZE9QMmFMWExiWkNmbFRIbDZrMWJ5UlU3T2lDSWNjc25ZRGh5dDlua3h4QTNkQXkwbmNIU0UzNEZsel9VZGhGMXBQSWJkbUpySzEzMEx0bUZRSGtqaGt4VjBmSS1jaktGN0tCY21BajF4b1JicnhrSXdESmd0Q0x4N0hpYjZxUzQwcDNtWlJKaDBEanptSktEQTgyY05va1JYekZ1U0JfU2NfdFd6Wm5salFpOXN2S3BGeUdjYXRBUl81VVZmTUh0Yko40gHzAUFVX3lxTFBGa0RSS1YwSXV6N2J5bVItZXFwUWxJVl9NOEZURG9kRi1KenlPWEFmNHFCOFJvS3FKVWRwVnZMREhTdFg2T1NjYXZUYS14SVhZaG9kOFRsSHI2QmV6QmFMVnZFWGdFcnVCc0gzSktJMkZyTDdsSEROZDFsbUg1MXRWakNRVWJHck0tT1djSlpCM1RPdkdqeGduZUxpdDIybjA3Uk5UN0VXbDV0bzB2WTNoMFc0alJHQ1JuM28wSEF5Sko5dG81aEJLTzFoTWVEbzhlUXc3N0VXMUo2MVVEX0poSUdtNExPWk5KN3dUdG1XWm5EZw?oc=5",
+   "summary": "Firmus, CDC end 1.6GW Project Southgate AI infrastructure partnership    ET Datacenters",
+   "publisher": "ET Datacenters",
+   "published": "2026-10-06T04:59:57Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:25:43Z"
+  },
+  {
    "title": "Data centres: CDC, Firmus reportedly ending Australian plans - BusinessDesk | NZ",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTNoSERmVXBpTzYwclcycTh6cWtmM0JvVDdYRjI5Q3l0a1hNdk1qTTZJV290ZktTU1lLbTUyWUJ2enplZzhzQS0tbWI2bXgzeUszeU9aTG9qRmJja2JhVHl2TFg1VDNpQjlhOGRtZF9MRFRUWnFhOEdhRW0xb0hSX0JLWEVBYS1nS1d2TFUzWWU3TXo1WGNJTmVOSVFxdzRJX3Yw?oc=5",
    "summary": "Data centres: CDC, Firmus reportedly ending Australian plans    BusinessDesk | NZ",
@@ -3306,6 +3330,20 @@
    "first_seen": "2026-10-12T07:22:17Z"
   },
   {
+   "title": "$2.8bn Kurri Kurri Data Center: Anthoropic’s 540MW AI hub Positions Hunter Region for Global Growth - Construction Review",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdmFZLVNpQWNTWm12cnIxT2kzRzJlVThWZUdOZ1VkMkd4WTFEajdNM1hRNFE5eXhnZmxKdWlpVXJOM1pDRmpqZU1HZmh3aUVFb0ZDT0l2TTBwOFBGZzlWaDFkcEpUQnBPVG5EVnJWWnBvWFpJOGpUM3ZCR0l1LUFzYl9zdm5ldDNKTGY0YUdFckFFVUplbmo5RllqU1B6Nmlhc3RJU0dvM1VFdHJqcXJSNFViY1J5QWpPcjUwa1FnblZPYXZUdC1hRU44MUh5c2c?oc=5",
+   "summary": "$2.8bn Kurri Kurri Data Center: Anthoropic’s 540MW AI hub Positions Hunter Region for Global Growth    Construction Review",
+   "publisher": "Construction Review",
+   "published": "2026-10-05T21:10:56Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-12T07:25:43Z"
+  },
+  {
    "title": "Water facility to drought-proof Sydney's west could supply data centres - ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNko4emtuZWNlTURpR1pVMW8wUF8teGx5ZjlfaGRzaWE4ZE9DN0w4cUJrSHVYVER4UU1URWwxU04xVGd4MU5LY3h4enZnR0RmZk01dWlUOHdENVRSRFV6ekpadEhHY29senNLR1oxR09FaVlkOUJFeGRZVW9YYkJqYnJZdmJrNFh5SjBIaV9lUk1RbkhOMy1zQjZTS29aVHhMT3dGekJCMA?oc=5",
    "summary": "Water facility to drought-proof Sydney's west could supply data centres    ABC News & Headlines – Australian Broadcasting Corporation",
@@ -3318,6 +3356,18 @@
     "NSW"
    ],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Australia's AI Data Centre Boom Is Competing With Housing for the Same Machines - BBN Times",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3psZmlLTmZhMDFtd0N5c3FTREEzTjVXWjcwYTNBQ1VOMG1Cc3YyMTIzT1AxZzF0eEYzNk9wbkRfZkZwSEhkZlYzVllINVNpWk9xTW5JN2pQUXJYeGpGTUxTOUN1MzFVajVlT01mRy1kd2FNeEp5UUstV0F4bldJeDJnb2MzZlVwVm5GQWdfQ0pvbzNmeHVfbjJMeFNfR3dxclFvWHhya2Z0WFVlbkVfZDhaVldTZw?oc=5",
+   "summary": "Australia's AI Data Centre Boom Is Competing With Housing for the Same Machines    BBN Times",
+   "publisher": "BBN Times",
+   "published": "2026-10-05T18:54:16Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:25:43Z"
   },
   {
    "title": "Everything you need to know about Firmus before it goes public - AFR",
