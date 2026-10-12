@@ -297,30 +297,20 @@
     $("#buildInfo").innerHTML = `<dt>Workbook</dt><dd>${esc(b.workbook || "—")}</dd><dt>Built (UTC)</dt><dd>${esc(b.built_at_utc || "—")}</dd>` +
       Object.entries(b.counts || {}).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${v}</dd>`).join("");
     if (b.workbook) $("#wbLink").href = `data/workbook/${b.workbook}`;
-    $("#dataHow").innerHTML = lang === "zh" ? `
-      <p>本站为纯静态网页，所有内容均来自 <code>data/source/</code> 下时间戳最新的 Excel 主数据表。维护流程：</p>
-      <ol><li>运行 <code>python scripts/new_version.py</code>：旧表归档至 <code>data/archive/</code>，生成新的时间戳副本。</li>
-      <li>在 Excel 中编辑新副本（新增设施、更新 MW、补充监管步骤、调整新闻源）。</li>
-      <li><code>git commit</code> + <code>git push</code>。GitHub Actions 自动运行 <code>build_data.py</code>、<code>fetch_news.py</code>、<code>fetch_geo.py</code> 并重新发布到 GitHub Pages。</li></ol>
-      <p>新闻每日自动抓取（Actions 定时任务）；输电线路等 GIS 图层每周从澳洲地球科学局刷新。详见仓库中的 <code>DEPLOY_GUIDE.md</code> 与 <code>DATA_UPDATE_GUIDE.md</code>。</p>` : `
-      <p>This is a static site. Everything shown comes from the newest time-stamped Excel workbook in <code>data/source/</code>. To update:</p>
-      <ol><li>Run <code>python scripts/new_version.py</code> — the current workbook is archived to <code>data/archive/</code> and a new time-stamped copy is created.</li>
-      <li>Edit the new copy in Excel (add facilities, update MW, extend regulatory steps, change news sources).</li>
-      <li><code>git commit</code> + <code>git push</code>. GitHub Actions runs <code>build_data.py</code>, <code>fetch_news.py</code> and <code>fetch_geo.py</code> and redeploys GitHub Pages.</li></ol>
-      <p>News is polled daily by the scheduled Action; transmission/GIS layers refresh weekly from Geoscience Australia. See <code>DEPLOY_GUIDE.md</code> and <code>DATA_UPDATE_GUIDE.md</code> in the repository.</p>`;
+    $("#maintainNote").textContent = t("maintain_note");
     $("#methodology").innerHTML = lang === "zh" ? `
       <ul><li><b>容量口径：</b>MW 指 IT（关键）负载；规划文件与 AEMO 通常引用设施/并网功率（约为 IT 负载的 1.2–1.5 倍）。未披露即留空，不作估算。</li>
       <li><b>阶段：</b>在运 = 已建成并投运（含部分投运）；在建 = 已开工；已获批 = 取得规划许可但未开工；规划中 = 已公开但未获批（含 NSW IDA 加速通道项目）。</li>
       <li><b>份额：</b>“在运 IT 负载份额”以本库跟踪的运营商为分母，优先采用运营商披露数（如 NEXTDC 已建成 288 MW、CDC 550 MW 含新西兰），否则以单体披露合计代替；超大规模云商租用容量不重复计入。</li>
       <li><b>管线：</b>含已签约、在建及已公告项目，早期规划项目的落地风险很高（DC Byte 统计 21.6 GW 公告中仅 3.1 GW 已落实）。</li>
       <li><b>坐标：</b>多数为地址地理编码；部分早期项目仅精确到区域中心，标记说明中有注明。</li>
-      <li><b>监管：</b>步骤依据 2026 年 9 月的公开规则整理，部分费用/门槛为待落地提案，正文中已作说明。</li></ul>` : `
+      <li><b>监管：</b>步骤依据 2026 年 10 月 7 日的公开规则整理，部分费用/门槛为待落地提案，正文中已作说明。</li></ul>` : `
       <ul><li><b>Capacity basis:</b> MW means IT (critical) load. Planning documents and AEMO usually quote facility / grid connection power (≈1.2–1.5× IT load). Undisclosed values are left blank, never estimated.</li>
       <li><b>Stages:</b> Operational = built and commissioned (at least partly); Under Construction = works started; Approved = planning consent granted, works not started; Planning = publicly announced without consent (including NSW IDA fast-track endorsements).</li>
       <li><b>Share:</b> "share of tracked operational IT load" uses tracked operators as the denominator, preferring operator-reported figures (e.g. NEXTDC built 288 MW; CDC 550 MW includes NZ) and falling back to disclosed per-site sums. Hyperscaler leased capacity is not double-counted.</li>
       <li><b>Pipeline:</b> includes contracted, under-construction and announced projects; early-stage announcements carry high execution risk (DC Byte: 21.6 GW announced, 3.1 GW committed).</li>
       <li><b>Coordinates:</b> mostly geocoded from street addresses; some early-stage projects are placed at a suburb centroid and say so in their notes.</li>
-      <li><b>Regulation:</b> steps reflect public rules as at September 2026; several fees/thresholds are proposals awaiting regulations and are flagged in the text.</li></ul>`;
+      <li><b>Regulation:</b> steps reflect public rules as at 7 October 2026; several fees/thresholds are proposals awaiting regulations and are flagged in the text.</li></ul>`;
     $("#sourcesList").innerHTML = `<ul>
       <li>Facilities & operators: operator websites, ASX announcements, NSW Planning Portal, Victorian/Queensland planning registers, AFR, Data Center Dynamics, iTnews, W.Media, Capacity Media, Baxtel, Cloudscene, RenewMap — per-row URLs are in the workbook's <code>sources</code> columns.</li>
       <li>Market totals: Data Centres Australia / DC Byte Forecast Report (Apr 2026), AEMO Quarterly Energy Dynamics Q1 2026, Cushman & Wakefield APAC Data Centre Update H1 2026, CommBank economics (Aug 2026).</li>
@@ -366,6 +356,7 @@
 
   function initMap() {
     map = L.map("map", { zoomSnap: 0.25, worldCopyJump: false }).setView([D.meta.map_center_lat || -30.5, D.meta.map_center_lng || 141.5], D.meta.map_zoom || 4.4);
+    map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
     map.createPane("labels").style.zIndex = 300;      // place names sit above the basemap, below the data
     map.getPane("labels").style.pointerEvents = "none";
     map.createPane("facilities").style.zIndex = 650;  // facilities always sit above infrastructure markers
