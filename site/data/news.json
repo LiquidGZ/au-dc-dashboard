@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-12T07:43:03Z",
- "added_this_run": 1,
- "total_items": 340,
+ "fetched_at": "2026-10-12T07:48:02Z",
+ "added_this_run": 3,
+ "total_items": 343,
  "earliest": "2020-10-20",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
    "in_feed": 100,
-   "new": 0
+   "new": 1
   },
   "gnews-dc-au-2": {
    "in_feed": 51,
@@ -15,7 +15,7 @@
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 1
+   "new": 0
   },
   "gnews-grid": {
    "in_feed": 10,
@@ -34,18 +34,30 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 78,
-   "new": 0
+   "in_feed": 79,
+   "new": 2
   }
  },
  "by_month": {
-  "2026-10": 287,
+  "2026-10": 290,
   "2026-09": 51,
   "2020-12": 1,
   "2020-10": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "ASIC wants mortgage brokers to explain when lowest rate not offered - AFR",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa0xxWUFfdUE2RUI3LUFubFBSbFJFdEJlMmhPQzFhRmtRNW9IWklnODRiOTdwMnFNZ0txVEE1VVFWbUlmMmVQbVhWbEFIengwOXBWTENqUGlYeXJHQXBpTEZWV1dVemJvczVSWkdpVllySFNwcXphUldiTy16QXZFOXFwZU9OVjBkcVhxNXY5d3BfYTZTZDJEY3hVZnBCZ0ZfUDY0aUhpOWNKVEdSdEdoNzVXQTBSVC1VZlF5Vk5DZEZDUjR4b280cndKS1Y?oc=5",
+   "summary": "ASIC wants mortgage brokers to explain when lowest rate not offered    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-12T07:00:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:48:02Z"
+  },
   {
    "title": "Sharon AI pushes ahead with IPO after Firmus implosion - The Australian",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM1JTeHdPbzJZZTJvcHJGR3ZhcG5qVVo3N1VMSEF1TlRHa3Q2WXdKekZwN0xEVnRZbHNwNTFiR1V4Y04tS0cwd1VLV0hTVTExM1g3T0ptNngxcFkzSWRBOEVVeHdFWFRhN1B6bVMySkZHNkR0MVUxcTg2WXY2NlJ4VnVoMDcyN01TNEZTajQtcnFPZWxWaEFqRW1oXzRLdlNpYURJR1ZiN0FTX25pbDVtSVp0b1FfRlVPWHdScVdpWTBEamZvd29FSEJTUzVzU3pxdHhyaWlIVnZVQ2pkWV81M3hubHZzRlhJTDR3Z0YyaG01a1gtbVU3ZENkYmVaN3NpTWlWUUVVeU9tdXM?oc=5",
@@ -95,6 +107,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Topic | Mike Dorrell | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lT2M3eHVXa3NSTElIaW1rNElja2JfRVNOdU9RRk1tWFpjZUg0eU9LRHlTemk2LXhDR3VpemhsTjY3bU5TOG9uNS1KQXNDcGE0VnhISzJR?oc=5",
+   "summary": "Topic | Mike Dorrell | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-12T04:14:04Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:48:02Z"
   },
   {
    "title": "Topic | Firmus | Australian Financial Review - AFR",
@@ -2015,6 +2039,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Firmus IPO repricing clouds Australia data centre group's ASX listing plans - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1g4WXRqM05lWnFzenpNLVN0WHZEUlZldG4ta2JJYTg2ak9oQTIzLWl5V2RfNzc0bTUyVjlPSW02UkZFZU1tZ2VtRjJDNV93ZmxjUjBxZ3RTSkptcENEMWNrdHg1YUd4dTRsNFhnbVVyeDJ4SFFmNGJyNVRRaHkwSXhhY2FWcE1YVjN1RnBibE5US3o3UXg5b0VpQQ?oc=5",
+   "summary": "Firmus IPO repricing clouds Australia data centre group's ASX listing plans    Traders Union",
+   "publisher": "Traders Union",
+   "published": "2026-10-08T08:45:30Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:48:02Z"
   },
   {
    "title": "Billions in tech infrastructure needed for data centres - Yahoo News Australia",
