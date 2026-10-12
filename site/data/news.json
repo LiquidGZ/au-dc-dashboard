@@ -1,7 +1,50 @@
 {
- "fetched_at": "2026-10-12T07:06:28Z",
- "added_this_run": 1,
+ "fetched_at": "2026-10-12T07:21:38Z",
+ "added_this_run": 2,
+ "total_items": 302,
+ "earliest": "2020-10-20",
  "errors": [],
+ "per_source": {
+  "gnews-dc-au": {
+   "in_feed": 100,
+   "new": 0
+  },
+  "gnews-dc-au-2": {
+   "in_feed": 51,
+   "new": 0
+  },
+  "gnews-operators": {
+   "in_feed": 100,
+   "new": 0
+  },
+  "gnews-grid": {
+   "in_feed": 10,
+   "new": 0
+  },
+  "gnews-zh": {
+   "in_feed": 0,
+   "new": 0
+  },
+  "dcd": {
+   "in_feed": 20,
+   "new": 0
+  },
+  "itnews": {
+   "in_feed": 20,
+   "new": 0
+  },
+  "afr": {
+   "in_feed": 79,
+   "new": 2
+  }
+ },
+ "by_month": {
+  "2026-10": 295,
+  "2026-09": 5,
+  "2020-12": 1,
+  "2020-10": 1
+ },
+ "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
   {
    "title": "Firmus : The tech world believes in second chances, but does Oliver Curtis deserve a third? - SMH.com.au",
@@ -3732,6 +3775,30 @@
     "QLD"
    ],
    "fetched": "2026-10-07T00:00:00Z"
+  },
+  {
+   "title": "CMA News, Analysis, Announcements & Results | Carma Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hekVjRktyakI3c0gzYThiWFh3NVFMZm1ESGZVR3dNNHFjMzM4WG9HRWpDVkNUZDFIUEdQTVBpNzFJTHJFb2I3SFVkaw?oc=5",
+   "summary": "CMA News, Analysis, Announcements & Results | Carma Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-12-21T10:13:03Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:21:38Z"
+  },
+  {
+   "title": "APA News, Analysis, Announcements & Results | APA Group - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaTGVrNWVWMThxcDdtQ01ScGFfTzNwaXg5bGdjblJEZmJydm85cFVFa0VNV1NnU2RSVXJwT2dGMWFLNm5rS1hSaG5ncw?oc=5",
+   "summary": "APA News, Analysis, Announcements & Results | APA Group    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T03:21:37Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:21:38Z"
   }
  ]
 }
