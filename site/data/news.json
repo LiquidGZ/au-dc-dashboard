@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-12T07:25:43Z",
- "added_this_run": 4,
- "total_items": 337,
+ "fetched_at": "2026-10-12T07:27:23Z",
+ "added_this_run": 2,
+ "total_items": 339,
  "earliest": "2020-10-20",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
    "in_feed": 100,
-   "new": 2
+   "new": 0
   },
   "gnews-dc-au-2": {
-   "in_feed": 51,
+   "in_feed": 52,
    "new": 1
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 1
+   "new": 0
   },
   "gnews-grid": {
-   "in_feed": 10,
+   "in_feed": 9,
    "new": 0
   },
   "gnews-zh": {
@@ -34,12 +34,12 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 78,
-   "new": 0
+   "in_feed": 80,
+   "new": 1
   }
  },
  "by_month": {
-  "2026-10": 284,
+  "2026-10": 286,
   "2026-09": 51,
   "2020-12": 1,
   "2020-10": 1
@@ -81,6 +81,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Topic | Firmus | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpOUJsN3RXenpxUEZLeG9HdlNUemFKa1NuZUVVMEJGbGx0Ynh6TzQ5eEVVWW4xWUN6Zm4yLUNmendKNHdJRVM5aWRmOWRPQQ?oc=5",
+   "summary": "Topic | Firmus | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-12T03:56:47Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-12T07:27:23Z"
   },
   {
    "title": "Maas Group Loses $340 Million After Firmus AI Data Center IPO Collapse - Startup Fortune",
@@ -1455,6 +1467,20 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-12T07:22:17Z"
+  },
+  {
+   "title": "Australian AI firm Firmus withdraws planned IPO - Tech in Asia",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT3dHMjljSktvXy1rem1iTURGd1prVUtDT3lKc3pyaG5QRjItcWhwb25yMEhzOGZScm1LUlU0eUg2dW5zbDJkUVY0bFFyVzgtZ0p4cUlZTUxwa3B5NkxmZ3NGQXVGT001OG9rRlBFSmprSG16Rjc2MzNXSkcxZHcxLXhoQ2Q2UQ?oc=5",
+   "summary": "Australian AI firm Firmus withdraws planned IPO    Tech in Asia",
+   "publisher": "Tech in Asia",
+   "published": "2026-10-09T01:37:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [
+    "AWS"
+   ],
+   "states": [],
+   "first_seen": "2026-10-12T07:27:23Z"
   },
   {
    "title": "Nvidia-Backed Firmus Pulls IPO Amid Market Volatility - The Tech Buzz",
