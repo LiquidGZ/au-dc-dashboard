@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-12T06:44:18Z",
- "added_this_run": 4,
+ "fetched_at": "2026-10-12T06:46:57Z",
+ "added_this_run": 5,
  "errors": [],
  "items": [
   {
@@ -110,6 +110,18 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "Oil nears $US105 on Saudi attacks; Lennox quietly marked up Firmus stake; Markets could tumble at midterms - AFR",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU3lMTkM0SE1EVm10dHFXd0dJUUZzVS11MGEtbUh4MXFpNktqNnc0R0JrRjhPQVI1UUc3SVdTUml0bzZYMldGTkU4Yi1hTE5EMS1JTS14dmlwUmVCM0V3SWhKa1FMQkZSa0VmaS13cDBEOGExR1I2MlF0UDJabFAwX3NRaHhfclJjaUhON2Jrb2pxQzVRTEc4dk0tZExJTEhhNWVDNW9LYTF1WDJVSTdwWUpvUEpHNHJOblAzNFkwWmZpSWx6UllJSTc5cENKOTZOZzUweVN6eW8zQ01Wa1lscTEzUUVyNEw0aWdNNjNjUUtoSWt0?oc=5",
+   "summary": "Oil nears $US105 on Saudi attacks; Lennox quietly marked up Firmus stake; Markets could tumble at midterms    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-12T01:04:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:46:57Z"
   },
   {
    "title": "Coinbase Australia to add share trading in ‘everything exchange’ plan - AFR",
@@ -246,6 +258,20 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "What does the failed float of Firmus Technologies mean for its three Tas projects? - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFRDRHNISkhtZDB4Snc4dHJsYjhaZE9IVldnYWw3d2I1T3hYemVJdUZrc3lfWDFYYmh6NHB2LVJEbGdqS3ZuaS0zNUFFY2RVbVdjbFhCbVlLeFB6TGpMVDU0WnpldUNQYnl6RHhvN0pyY2NUbnRjdzV0eXN0MHNLcXdKRnZfN1VBOXJOOVo1WmJoVUdEUHFaNGM0Tlk3ZEdOZVNFRWVXZ3JkRjVycnRhSFJ3?oc=5",
+   "summary": "What does the failed float of Firmus Technologies mean for its three Tas projects?    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-10-11T21:30:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "fetched": "2026-10-12T06:46:57Z"
   },
   {
    "title": "MATelec Australia targets data centre cooling reliability - Utility Magazine",
@@ -724,6 +750,18 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "Nvidia-Backed Firmus Scraps $5B Australian IPO - Gotrade",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3UzY0lBTUFVMDUzUXQ0cHhTc0dmX193V29WU29HcEpyVzlzNkFOQ3Y3T0FnQ3ExS1F0M0RBVTRoemJXdGt0SUFtVnpJNkczN0tDMWoxYk9PVDR4U1IxZkNtX2tDZmtGOWw1a1lRcGxLb0FONVA5bjhKNC01ZHJQMk41a3EwajRJ?oc=5",
+   "summary": "Nvidia-Backed Firmus Scraps $5B Australian IPO    Gotrade",
+   "publisher": "Gotrade",
+   "published": "2026-10-09T12:30:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:46:57Z"
   },
   {
    "title": "Nvidia-Backed Firmus Scraps Australian IPO as Investors Balk at $31B Valuation - Mingtiandi",
@@ -2096,6 +2134,18 @@
    "fetched": "2026-10-12T06:30:58Z"
   },
   {
+   "title": "Evening Wrap: ASX 200 turns negative for 2026 as CBA and BHP drag, Firmus IPO jitters hit industrials - Market Index",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmZEVF9FMVNxVkNYRG5uYkN0a1dZb3BGU2Y2QndDd0xnM0VhVjNlZzlPZS1WTkVPYmtfMnhicjdTZUt1T3dHTGg1bkRoMFQ0OEJIdW9aWVpKb19vb2RoMXE2T0tWQ1BpQmt6cWhyUG9SYlpxY3RtbDlZSUdoLUlIRlp4Nmt6WS15UmstT2QzdnpBdmJxNDVBRU80c2xWeGtnNU55Q2J4UEt1bW8?oc=5",
+   "summary": "Evening Wrap: ASX 200 turns negative for 2026 as CBA and BHP drag, Firmus IPO jitters hit industrials    Market Index",
+   "publisher": "Market Index",
+   "published": "2026-10-08T05:38:36Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:46:57Z"
+  },
+  {
    "title": "Maas Group’s $1.2b AI contracts at risk on Firmus’ IPO doubts - AFR",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmE2aHVPcFgtTWxpOGhSWkY5VFowV0N5VWRESEtteVl6OWNuVlVRUGx6SE12Q0pXQmlkVGROUUhyLUFjSmRPallXZ1NiWGI4ZFhtOVVMemp3S3l3ellGLXJvVlV2c18xZ0ZQQ2dYY04zYWV0RklnazRVT3pzbkpaVjNhaEtwbUVJcnE3NDNXZDNiMW1iZUR3c3hoU2lLWXVlLTI3dWVBVkNvZmxhZWl0WA?oc=5",
    "summary": "Maas Group’s $1.2b AI contracts at risk on Firmus’ IPO doubts    AFR",
@@ -2196,6 +2246,18 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "The difficult choices facing Firmus after its IPO stumble - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTldSYmFxX0xMenB6SnkwVFBldm1sa2thc1FKM01qREkyTUxCVi1mb1pybERNYjJqQURYRWdhVXMyZ1ozUWVvWlpKZk5wTGR5cGRKbGRBRVY0Z2JKSkJLZGo2WFNvSjNEUWR0RkhfQ1hBT2FITkRwQ0ZQQVVLaGF3b3RZWW1ZMWRmTnZzNFFJcThtN2dnbEVEWFVmUUtLbFhvSzhwa0VId2VrOERpN1FacHdvd3dkNk10ZjlTNC0zUHZ2QjF0ek1rWnFvWTdybnJMT1dDX0drUlZuRTk5X0tZLQ?oc=5",
+   "summary": "The difficult choices facing Firmus after its IPO stumble    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-08T03:57:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:46:57Z"
   },
   {
    "title": "Why Is Macquarie Backing a Data Centre Builder (ASX:MQG)? - Kalkine Media",
@@ -3689,78 +3751,6 @@
    ],
    "states": [
     "TAS"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Anger as 15-metre power poles pop up in street for data centre",
-   "link": "https://www.abc.net.au/news/2026-09-28/anger-as-15-metre-power-poles-pop-up-in-street-for-data-centre/107205060",
-   "summary": "Residents object to 15-metre transmission poles installed through suburban streets to serve a nearby data centre expansion.",
-   "publisher": "ABC News",
-   "published": "2026-09-28T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [],
-   "states": [],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Google, Microsoft back Australian data centre rules with flexible clean energy demands",
-   "link": "https://w.media/google-microsoft-back-australian-data-centre-rules-with-flexible-clean-energy-demands/",
-   "summary": "Google and Microsoft support nationally consistent data centre regulation but push for outcomes-based energy and water rules.",
-   "publisher": "W.Media",
-   "published": "2026-09-27T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "Google Cloud",
-    "Microsoft"
-   ],
-   "states": [],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
-   "link": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
-   "summary": "Vocus commits to a 4,000km terrestrial fibre route connecting Brisbane to Darwin for data centre and subsea cable traffic.",
-   "publisher": "Data Center Dynamics",
-   "published": "2026-09-25T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "Vocus"
-   ],
-   "states": [
-    "QLD",
-    "NT"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Northern Territory challenges Australia's proposed data centre energy rules",
-   "link": "https://w.media/northern-territory-challenges-proposed-australias-data-centre-energy-rules/",
-   "summary": "The NT Government opposes a national renewable-offset mandate for large data centres, favouring dedicated gas-fired supply.",
-   "publisher": "W.Media",
-   "published": "2026-09-25T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [],
-   "states": [
-    "NT"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
-   "link": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
-   "summary": "Victoria's draft framework would force data centre operators to procure their own renewable generation and fund grid upgrades.",
-   "publisher": "Data Center Dynamics",
-   "published": "2026-09-24T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [],
-   "states": [
-    "VIC"
    ],
    "fetched": "2026-10-07T00:00:00Z"
   }
