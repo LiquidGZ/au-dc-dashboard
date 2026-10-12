@@ -4,7 +4,7 @@ A maintained, bilingual (EN / 中文) web dashboard of the Australian data centr
 power and fibre infrastructure around them, the federal and state grid-connection regulatory pathways, operator market share and
 profiles, and daily news headlines. Built for MAI Capital research.
 
-**Live site:** `https://<user-or-org>.github.io/au-dc-dashboard/` (after following `DEPLOY_GUIDE.md`)
+**Live site:** `https://liquidgz.github.io/au-dc-dashboard/` (after following `DEPLOY_GUIDE.md`)
 
 ## How it works
 
