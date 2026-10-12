@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-12T06:46:57Z",
- "added_this_run": 5,
+ "fetched_at": "2026-10-12T07:04:25Z",
+ "added_this_run": 2,
  "errors": [],
  "items": [
   {
@@ -2260,6 +2260,18 @@
    "fetched": "2026-10-12T06:46:57Z"
   },
   {
+   "title": "Oliver Curtis’ transformation from jailbird to corporate kingpin has gone awry - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2Y2bzdGUlV2OUdvZDZmTkVYQkNicTM5WnpTVzd1VlhtWU5yb2d0YklvcUlZMGVZWTNqUm16NmlQM1lINkVTMGUtNVZMVjdpZUI0NWUtNzd2QXg0YXFOOVBqcnNxekZyQ0p6WkNIOEZXTmRxWGpEcFlyNGdaekpZOWZmTlh6cnJlZGlLUHNwejI1ZDViaFNYOE0wYk4zSDNkZm1pRFN3SWhkMVYyMWNWOW5nTDNMdVp3TGxZS2g4SHpCblJycTJQaEF2RHY?oc=5",
+   "summary": "Oliver Curtis’ transformation from jailbird to corporate kingpin has gone awry    SMH.com.au",
+   "publisher": "SMH.com.au",
+   "published": "2026-10-08T03:46:16Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T07:04:25Z"
+  },
+  {
    "title": "Why Is Macquarie Backing a Data Centre Builder (ASX:MQG)? - Kalkine Media",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmV3a0pmeGc1ZW92UGpKOWFOUlFQdmZTdHduN2p5M2NSYWJqd2pzVk1rNXdqMmtCcElrQVM5RmNZd09GSzhrQUsxOXQyOW43d3hKaWNDNjJvVXNSVlUxcjYxaFVDelpKWmRVSHpJTHU3OWJPQk1Nb0NSd3BSWGlBdTgzZW1MZHd5Z1d3RzlXcVJZMjMwOXdrcWRWMktqUQ?oc=5",
    "summary": "Why Is Macquarie Backing a Data Centre Builder (ASX:MQG)?    Kalkine Media",
@@ -2380,6 +2392,18 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "How the Firmus float just tanked this company's share price - The Motley Fool Australia",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2pFNUVSaHhqTDF2TzIzQkMyYk90SjJQdC1FbWN4LVBxam1ORE5ZdVhmTGJmOXg5NFVET1ZVX0FEWW5IQ0NneUp3Qlk4S09hR1hmX2NlX29aV05YQmtINXcyaUNzelN6alYwM3ZEQmR6czR0R2d1MWo2WkMta1NLb2xCNGt4NkxlNXdsN2E0bUlkTEZzT0pfTC1B?oc=5",
+   "summary": "How the Firmus float just tanked this company's share price    The Motley Fool Australia",
+   "publisher": "The Motley Fool Australia",
+   "published": "2026-10-08T01:14:28Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T07:04:25Z"
   },
   {
    "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut - The Guardian",
@@ -3719,38 +3743,6 @@
    ],
    "states": [
     "NSW"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Hydro weighs 444MW Firmus load as Tasmania nears energy balance",
-   "link": "https://w.media/hydro-weighs-444mw-firmus-load-as-tasmania-nears-energy-balance/",
-   "summary": "Hydro Tasmania assesses a long-term supply deal for about 444MW of Firmus demand as the state approaches energy balance.",
-   "publisher": "W.Media",
-   "published": "2026-09-28T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "Firmus Technologies"
-   ],
-   "states": [
-    "TAS"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Firmus backs tougher data centre rules in Tasmania, wants project-by-project assessment",
-   "link": "https://w.media/firmus-backs-tougher-data-centre-rules-in-tasmania-wants-project-by-project-assessment/",
-   "summary": "Firmus supports stricter Tasmanian transparency and environmental standards but argues for case-by-case project assessment.",
-   "publisher": "W.Media",
-   "published": "2026-09-28T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "Firmus Technologies"
-   ],
-   "states": [
-    "TAS"
    ],
    "fetched": "2026-10-07T00:00:00Z"
   }
