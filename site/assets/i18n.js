@@ -14,8 +14,7 @@ window.I18N = {
     chart_pipeline: "Pipeline IT load by operator", chart_pipeline_sub: "Orange = operator-reported contracted/planned MW; grey = derived from planning announcements of tracked sites (high execution risk)",
     chart_invest: "Announced Australian investment", chart_invest_sub: "AUD billions, cumulative public commitments (hyperscaler and PE commitments overlap with operator capex)",
     chart_opstage: "Full-build IT load by operator and stage", chart_opstage_sub: "Top 12 operators by tracked full-build IT load (MW)",
-    operator_profiles: "Operator profiles", news_title: "Australian data centre headlines", search_news: "Search headlines…",
-    data_how: "How this site is maintained", build_info: "Current build", download_wb: "Download master workbook (.xlsx)",
+    operator_profiles: "Operator profiles", news_title: "Australian data centre headlines", search_news: "Search headlines…", build_info: "Current build", download_wb: "Download master workbook (.xlsx)",
     methodology: "Methodology and caveats", sources: "Key sources and licences",
     all: "All", all_states: "All states", all_operators: "All operators", all_categories: "All categories",
     stage_Operational: "Operational", "stage_Under Construction": "Under construction", stage_Approved: "Approved", stage_Planning: "Planning",
@@ -43,6 +42,7 @@ window.I18N = {
     "stage_Withdrawn": "Withdrawn",
     "excl_other_basis": "excludes {mw} MW published as site/grid power",
     "basis_note": "Capacity basis",
+    "maintain_note": "Maintained from the time-stamped workbook above. Update steps: DEPLOY_GUIDE_WEB.md and DATA_UPDATE_GUIDE.md in the repository.",
   },
   zh: {
     "data_as_of": "数据截至",
@@ -83,7 +83,6 @@ window.I18N = {
     "operator_profiles": "运营商档案",
     "news_title": "澳洲数据中心新闻",
     "search_news": "搜索新闻…",
-    "data_how": "本站维护方式",
     "build_info": "当前版本",
     "download_wb": "下载主数据表（.xlsx）",
     "methodology": "方法说明与口径",
@@ -161,5 +160,6 @@ window.I18N = {
     "stage_Withdrawn": "已撤回",
     "excl_other_basis": "另有{mw} MW按场地/并网功率口径公布，未计入",
     "basis_note": "容量口径",
+    "maintain_note": "本站由上方时间戳主数据表驱动；更新步骤见仓库中的 DEPLOY_GUIDE_WEB.md 与 DATA_UPDATE_GUIDE.md。",
   },
 };
