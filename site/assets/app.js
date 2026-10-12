@@ -327,16 +327,50 @@
       <li>Transmission lines, substations, power stations: <a href="https://digital.atlas.gov.au/datasets/digitalatlas::power-lines/about" target="_blank" rel="noopener">Geoscience Australia — Electricity Infrastructure</a> (CC BY 4.0). AEMO publishes no GIS transmission layer; its ISP maps and connection-point lists are referenced in <code>docs/infra_sources.md</code>.</li>
       <li>Fibre: NBN POI list via <a href="https://nbn.rinseout.org/" target="_blank" rel="noopener">nbn.rinseout.org</a> (community geocodes — verify), Geoscience Australia Telephone Exchanges layer, IX Australia and Megaport public location lists, TeleGeography Submarine Cable Map public API (display only).</li>
       <li>Regulation: AEMC, AEMO, AER, National Electricity Rules, Transgrid / Ausgrid / Endeavour / AusNet / VicGrid / Powerlink / Energex / Western Power / ElectraNet / TasNetworks / Power and Water Corporation, state planning departments — URLs per step in <code>Reg_Steps</code>.</li>
-      <li>Basemap: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors, © <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>.</li></ul>`;
+      <li>Basemap: Esri World Gray Canvas (Esri, HERE, Garmin) with © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors as the fallback. Both are keyless; set <code>basemap_provider</code> to <code>osm</code> on the Meta sheet to force OpenStreetMap.</li></ul>`;
   }
 
   // ---------- map
+  // ---------- basemap
+  // Keyless tile providers only. Esri's gray canvas is the default (clean backdrop for data, light and
+  // dark variants); OpenStreetMap standard is the fallback and can be forced with Meta.basemap_provider = osm.
+  const ESRI = (variant, layer) =>
+    `https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_${variant}_Gray_${layer}/MapServer/tile/{z}/{y}/{x}`;
+  const ESRI_ATTR = 'Tiles &copy; <a href="https://www.esri.com/" target="_blank" rel="noopener">Esri</a>, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors';
+  const OSM_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors';
+  let baseLayers = [], usingFallback = false;
+
+  function clearBase() { baseLayers.forEach((l) => map.removeLayer(l)); baseLayers = []; }
+
+  function osmBasemap() {
+    usingFallback = true;
+    clearBase();
+    const osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: OSM_ATTR });
+    baseLayers = [osm];
+    osm.addTo(map);
+  }
+
+  function setBasemap(dark) {
+    if ((D.meta.basemap_provider || "").toLowerCase() === "osm" || usingFallback) return osmBasemap();
+    clearBase();
+    const v = dark ? "Dark" : "Light";
+    // Canvas tiles stop at z16; maxNativeZoom lets Leaflet upscale rather than show blank tiles past that.
+    const opts = { maxZoom: 19, maxNativeZoom: 16 };
+    const base = L.tileLayer(ESRI(v, "Base"), { ...opts, attribution: ESRI_ATTR });
+    const labels = L.tileLayer(ESRI(v, "Reference"), { ...opts, pane: "labels" });
+    let errors = 0;
+    base.on("tileerror", () => { if (++errors === 6) osmBasemap(); });   // a few stray tiles are normal, a dead host is not
+    baseLayers = [base, labels];
+    baseLayers.forEach((l) => l.addTo(map));
+  }
+
   function initMap() {
     map = L.map("map", { zoomSnap: 0.25, worldCopyJump: false }).setView([D.meta.map_center_lat || -30.5, D.meta.map_center_lng || 141.5], D.meta.map_zoom || 4.4);
-    const tiles = (dark) => L.tileLayer(`https://{s}.basemaps.cartocdn.com/${dark ? "dark_all" : "light_all"}/{z}/{x}/{y}{r}.png`, { maxZoom: 19, subdomains: "abcd", attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>' });
-    let base = tiles(isDark()).addTo(map);
-    matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => { map.removeLayer(base); base = tiles(e.matches).addTo(map); });
-    map.createPane("facilities").style.zIndex = 650;   // facilities always sit above infrastructure markers
+    map.createPane("labels").style.zIndex = 300;      // place names sit above the basemap, below the data
+    map.getPane("labels").style.pointerEvents = "none";
+    map.createPane("facilities").style.zIndex = 650;  // facilities always sit above infrastructure markers
+    setBasemap(isDark());
+    matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => setBasemap(e.matches));
     facLayer = L.layerGroup().addTo(map);
     L.control.scale({ imperial: false }).addTo(map);
   }
