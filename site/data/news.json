@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-12T07:05:50Z",
- "added_this_run": 4,
+ "fetched_at": "2026-10-12T07:06:28Z",
+ "added_this_run": 1,
  "errors": [],
  "items": [
   {
@@ -2492,6 +2492,18 @@
    "fetched": "2026-10-12T06:30:58Z"
   },
   {
+   "title": "Firmus float in trouble as investors don’t buy the hype - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXlmTVZjNDI5UGtDMDdENFl5WUxGamtwcmljX1RSc0h2eVVfSHpIVDltUzFCcm1iSUU2YnFBa2kzSUF5RE5ocllEX3J5bmlXSXhjMTZmY1VFc2JrZnZBWWZ5ZC1KczRGRHU4NWFjVGNMRWFsTTVCV0tBZHJuS2xyYmF2cWotTXpYeWNfMy04LXRjTWk0UkpvYXdBczZDeUhsa3R5YnM0eGpJVjEwZm9TY1hkcENUUll4SEE?oc=5",
+   "summary": "Firmus float in trouble as investors don’t buy the hype    SMH.com.au",
+   "publisher": "SMH.com.au",
+   "published": "2026-10-07T23:19:43Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T07:06:28Z"
+  },
+  {
    "title": "Wagga Wagga residents fight $15b data centre plan amid fears for rural land - Real Estate",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE9wZlpWVnNRTm8xZ3ZNNzhrWlAyQUd2aVpmNFFmTWZ3SVJ6TTJ4QUwwbzExU3kzN0w1R1VETllvSFhIN0ZiQVg3SlBhN05UZW1fano4VHVJc2FhRklBTkJOQXdPR0o5R29PcmxaeXhMV2ZOdXBQVVM3c3Z0Y284VHdja0hYaHo0UzRjVG9Ib1NLTXlKZ2pmUngxdW52WkQtbE1DZHZQMlBrdkpfS2pF?oc=5",
    "summary": "Wagga Wagga residents fight $15b data centre plan amid fears for rural land    Real Estate",
@@ -3719,20 +3731,6 @@
    "states": [
     "QLD"
    ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "AWS says state permits block renewable diesel for backup generators",
-   "link": "https://w.media/aws-says-state-permits-block-renewable-diesel-for-backup-generators/",
-   "summary": "AWS says Australian state environmental permits prevent it switching data centre backup generators to renewable diesel.",
-   "publisher": "W.Media",
-   "published": "2026-09-29T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "AWS"
-   ],
-   "states": [],
    "fetched": "2026-10-07T00:00:00Z"
   }
  ]
