@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-12T06:30:58Z",
- "added_this_run": 271,
+ "fetched_at": "2026-10-12T06:44:18Z",
+ "added_this_run": 4,
  "errors": [],
  "items": [
   {
@@ -14,6 +14,30 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "Apples v oranges: The private market tricks killing IPOs - AFR",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHFQbXFxcDNBdEZ2aTQ0TU1LWGtSbUxiWVJaVUw2Y09rN0RjOGx5ODB5QXJWNEs1NzNwY2NqSEw5X3FoWkJfMGRhbWVZVHl1TWptSnR4aW9lU0UwSXZRTThBMFltRm5kaWl6T0R1NkFZMmN4YlFHR0FTM1p1UXhsQVNvTUlDT25mNUtydTRDMlcxX29ZdGtlcTVQMUFmSXNmZVZSYmdB?oc=5",
+   "summary": "Apples v oranges: The private market tricks killing IPOs    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-12T05:49:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:44:18Z"
+  },
+  {
+   "title": "PE giant Partners Group splits flagship fund to unlock redemptions - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1E5Wm1qclp2NS1SQmVjTzVjRWlGbzRLUy03blhEWmZ5T0FydE9zV3VMUmwwVDdHRjFOQWtiNTNhV1ZicnpOeFFISm1fOTk5VlFmNE5aQVdOakpMZmhaTnE3Z0JhMkhKb2syVVl4Rnd5alF4aURFVUtCS2pHenM0cHJ1VEUwY1JCVC1mS3V2M1kxOWwyZGNxNzlKaXBoRV96YmZacDl3TWJaQk5DMVlEemxTQjMyTE1Tc2EzNGQzRllINVFLOXFwcTh0bw?oc=5",
+   "summary": "PE giant Partners Group splits flagship fund to unlock redemptions    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-12T05:39:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:44:18Z"
   },
   {
    "title": "Maas Group Loses $340 Million After Firmus AI Data Center IPO Collapse - Startup Fortune",
@@ -1096,6 +1120,18 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "TPW News, Analysis, Announcements & Results | Temple & Webster Group Ltd - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jVXNuTF8wUmFQckNWX25fcmdhLWRTaHMySTVXQ0FrcHBKVms2SDUtQnpaTUdRRGZhekI4el9Bd2hSSE96Q3RPSm1UOA?oc=5",
+   "summary": "TPW News, Analysis, Announcements & Results | Temple & Webster Group Ltd    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-09T04:59:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T06:44:18Z"
   },
   {
    "title": "AGL News, Analysis, Announcements & Results | AGL Energy Limited - AFR",
@@ -2833,6 +2869,20 @@
    "fetched": "2026-10-12T06:30:58Z"
   },
   {
+   "title": "Macquarie Capital invests in Asia-Pacific data centre platform Zerra DC - IPE Real Assets",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanNMdlNYNzZUOXlLYXJUcW5sQXV2Tjhoc1lfRUcxV2lIdjMtSlV5V3FHUGtEVnZlYVlsUWx4MENyM05CdUwzdWw0eDhOd1VDNjZRdE9QUmt0WklNTmljMzRlUVo1cVk5V2YyZkhGcnhUSkVldzM1b0F6enNXZGZTS0N1TG0zN2NCUG43LTFnRWhJdTdiRENRY0I2cVNVUnAzLVE1NVdncm9yMm96cUhodzR2TWJHTUtqSjF2OA?oc=5",
+   "summary": "Macquarie Capital invests in Asia-Pacific data centre platform Zerra DC    IPE Real Assets",
+   "publisher": "IPE Real Assets",
+   "published": "2026-10-06T13:52:27Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "Zerra DC"
+   ],
+   "states": [],
+   "fetched": "2026-10-12T06:44:18Z"
+  },
+  {
    "title": "Data centre boom squeezes Sydney and Melbourne warehouses - CommercialRealEstate.com.au",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1FSSTcwcDZMckVqaUQwaEhOTG81TVVtYWNtMWRFVlI3dE9TTUtOOVhoQkRqaU45ZzdfM1Z6aGdFNkV0empTSzVJUU1RQ1JHdC1hZnV5bkhfc2VFdk4ydG5yMk5ITlc4QkE4Q3VGNEowT0FnZTRBZ3d4RG5WeW1OU0hwcEg1cXpueVNJbkZ5LTYxeWNTUS16amhYTjZYTjVsSFVRWHFxZGJWRC1adUE?oc=5",
    "summary": "Data centre boom squeezes Sydney and Melbourne warehouses    CommercialRealEstate.com.au",
@@ -3706,64 +3756,6 @@
    "summary": "Victoria's draft framework would force data centre operators to procure their own renewable generation and fund grid upgrades.",
    "publisher": "Data Center Dynamics",
    "published": "2026-09-24T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [],
-   "states": [
-    "VIC"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "AEMC opens consultation on data centre network cost recovery",
-   "link": "https://w.media/aemc-opens-consultation-on-data-centre-network-cost-recovery/",
-   "summary": "The AEMC consults on rule changes making data centres and other large loads directly bear the network costs they trigger.",
-   "publisher": "W.Media",
-   "published": "2026-09-24T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [],
-   "states": [],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "CDC Pitches $10.5B New South Wales Data Centre as Australian Sovereign Compute Hub",
-   "link": "https://www.mingtiandi.com/real-estate/data-centres/cdc-proposes-10-5b-new-south-wales-data-centre/",
-   "summary": "CDC frames a $10.5bn NSW campus as sovereign compute infrastructure for Australian government and defence workloads.",
-   "publisher": "Mingtiandi",
-   "published": "2026-09-24T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "CDC Data Centres"
-   ],
-   "states": [
-    "NSW"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Data centre funding surges to record $35b this year despite AI 'bubble' risks",
-   "link": "https://www.abc.net.au/news/2026-09-23/data-centre-financing-australia/107180740",
-   "summary": "Australian data centre operators raised a record $35bn in 2026, about 85 per cent of it debt, even as AI bubble warnings grow.",
-   "publisher": "ABC News",
-   "published": "2026-09-23T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "NEXTDC",
-    "AirTrunk",
-    "CDC Data Centres"
-   ],
-   "states": [],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "New restrictions on data centre water use, proximity to schools under Victorian strategy",
-   "link": "https://www.abc.net.au/news/2026-09-22/victorian-data-centres-policy-renewable-energy-mandates/107178138",
-   "summary": "Victoria's data centre action plan sets recycled water requirements, residential buffers and renewable energy obligations.",
-   "publisher": "ABC News",
-   "published": "2026-09-22T00:00:00Z",
    "source_id": "research-2026-10-07",
    "language": "en",
    "operators": [],
