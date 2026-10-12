@@ -145,6 +145,9 @@ ul.dots li { margin: .22rem 0; }
 .step-detail ul.dots li { font-size: .84rem; }
 .drawer .prose ul.dots li { font-size: .85rem; }
 
+.news-more { display: flex; gap: .5rem; justify-content: center; margin-top: .9rem; }
+.news-more:empty { display: none; }
+
 /* data tab */
 .prose p { margin: .4rem 0; } .prose ol, .prose ul { padding-left: 1.2rem; } .prose li { margin: .25rem 0; } .prose code { background: var(--surface-2); padding: .05rem .3rem; border-radius: 4px; font-size: .85em; }
 .kv { display: grid; grid-template-columns: 160px 1fr; gap: .3rem .8rem; margin: 0; font-size: .85rem; } .kv dt { color: var(--muted); } .kv dd { margin: 0; }

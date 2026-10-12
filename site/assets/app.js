@@ -24,6 +24,8 @@
   let lang = localStorage.getItem("adc_lang") || (navigator.language.startsWith("zh") ? "zh" : "en");
   const charts = {};
   let map, facLayer, infraGroups = {}, geoCache = {}, sortState = { key: "it_load_mw_planned", asc: false };
+  const NEWS_PAGE = 60;                 // headlines rendered before "show more"
+  let newsShown = NEWS_PAGE, newsAllTime = false;   // the archive grows forever; the tab opens on a window
 
   // ---------- helpers
   const $ = (s, r = document) => r.querySelector(s);
@@ -278,17 +280,40 @@
   // ---------- news
   function renderNews() {
     const n = D.news || { items: [] };
+    const all = n.items || [];
     const sSel = $("#nState"), oSel = $("#nOperator");
     const cs = sSel.value, co = oSel.value;
     sSel.innerHTML = `<option value="">${t("all_states")}</option>` + JUR_ORDER.filter((x) => x !== "FED").map((s) => `<option ${s === cs ? "selected" : ""}>${s}</option>`).join("");
-    const opsInNews = [...new Set(n.items.flatMap((i) => i.operators || []))].sort();
+    const opsInNews = [...new Set(all.flatMap((i) => i.operators || []))].sort();
     oSel.innerHTML = `<option value="">${t("all_operators")}</option>` + opsInNews.map((o) => `<option ${o === co ? "selected" : ""}>${esc(o)}</option>`).join("");
+
+    // The archive is append-only, so the tab opens on a recent window and reveals the rest on request.
+    const windowDays = Number(D.meta.news_days_to_keep) || 90;
+    const cutoff = new Date(Date.now() - windowDays * 86400000).toISOString();
+    const inWindow = (i) => newsAllTime || (i.published || "") >= cutoff;
     const q = $("#nSearch").value.trim().toLowerCase(), lg = $("#nLang").value;
-    const items = n.items.filter((i) => (!cs || (i.states || []).includes(cs)) && (!co || (i.operators || []).includes(co)) && (!lg || i.language === lg) && (!q || (i.title + " " + i.summary).toLowerCase().includes(q)));
-    $("#newsMeta").textContent = n.fetched_at ? `${items.length} ${t("items")} · ${t("news_fetched")} ${n.fetched_at.slice(0, 16).replace("T", " ")} UTC` : "";
+    const filtered = all.filter((i) => inWindow(i)
+      && (!cs || (i.states || []).includes(cs)) && (!co || (i.operators || []).includes(co))
+      && (!lg || i.language === lg) && (!q || (i.title + " " + i.summary).toLowerCase().includes(q)));
+    const items = filtered.slice(0, newsShown);
+
+    const since = n.earliest ? ` · ${t("archive_since").replace("{date}", n.earliest)}` : "";
+    $("#newsMeta").textContent = n.fetched_at
+      ? `${fmt(filtered.length)} / ${fmt(all.length)} ${t("items")}${since} · ${t("news_fetched")} ${n.fetched_at.slice(0, 16).replace("T", " ")} UTC`
+      : "";
+
     $("#newsList").innerHTML = items.length ? items.map((i) => `<li><span class="d">${esc((i.published || "").slice(0, 10))}</span><div><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>${i.publisher ? `<span class="pub">${esc(i.publisher)}</span>` : ""}
       <div class="tags">${(i.states || []).map((s) => `<span class="chip">${s}</span>`).join("")}${(i.operators || []).map((o) => `<span class="chip">${esc(o)}</span>`).join("")}</div></div></li>`).join("")
       : `<li><span></span><span class="muted">${t("news_empty")}</span></li>`;
+
+    const more = filtered.length > items.length;
+    const older = !newsAllTime && all.length > filtered.length;
+    $("#newsMore").innerHTML =
+      (more ? `<button class="btn" id="btnMoreNews">${t("show_more").replace("{n}", fmt(Math.min(NEWS_PAGE, filtered.length - items.length)))}</button>` : "") +
+      (older ? `<button class="btn" id="btnAllNews">${t("show_archive").replace("{n}", fmt(all.length))}</button>` : "");
+    const bm = $("#btnMoreNews"), ba = $("#btnAllNews");
+    if (bm) bm.onclick = () => { newsShown += NEWS_PAGE; renderNews(); };
+    if (ba) ba.onclick = () => { newsAllTime = true; newsShown = NEWS_PAGE; renderNews(); };
   }
 
   // ---------- data tab
@@ -498,7 +523,7 @@
     });
     $("#drawerClose").addEventListener("click", () => { $("#drawer").hidden = true; });
     $("#drawer").addEventListener("click", (e) => { if (e.target.id === "drawer") $("#drawer").hidden = true; });
-    ["#nSearch", "#nState", "#nOperator", "#nLang"].forEach((s) => $(s).addEventListener("input", renderNews));
+    ["#nSearch", "#nState", "#nOperator", "#nLang"].forEach((s) => $(s).addEventListener("input", () => { newsShown = NEWS_PAGE; renderNews(); }));
     if (location.hash) { const b = $(`.tabs button[data-tab="${location.hash.slice(1)}"]`); if (b) b.click(); }
   }
   function focusFacility(id) {
