@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-12T07:04:25Z",
- "added_this_run": 2,
+ "fetched_at": "2026-10-12T07:05:50Z",
+ "added_this_run": 4,
  "errors": [],
  "items": [
   {
@@ -1480,6 +1480,20 @@
    "fetched": "2026-10-12T06:30:58Z"
   },
   {
+   "title": "Australian AI firm Firmus withdraws planned IPO - Tech in Asia",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT3dHMjljSktvXy1rem1iTURGd1prVUtDT3lKc3pyaG5QRjItcWhwb25yMEhzOGZScm1LUlU0eUg2dW5zbDJkUVY0bFFyVzgtZ0p4cUlZTUxwa3B5NkxmZ3NGQXVGT001OG9rRlBFSmprSG16Rjc2MzNXSkcxZHcxLXhoQ2Q2UQ?oc=5",
+   "summary": "Australian AI firm Firmus withdraws planned IPO    Tech in Asia",
+   "publisher": "Tech in Asia",
+   "published": "2026-10-09T01:37:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [
+    "AWS"
+   ],
+   "states": [],
+   "fetched": "2026-10-12T07:05:50Z"
+  },
+  {
    "title": "Nvidia-Backed Firmus Pulls IPO Amid Market Volatility - The Tech Buzz",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM1EtVzllOVNBYVlvSEpiUERrTFQ4WnZyM3VZUzlTWUliRS1FRlBRdHowd2dpdzJVNXVTS2ZlTmI5WERpNWlvSHI2Sk5nZW1YUm81cC1ETnNERnRLTWdLWGdza2dXZEUyZWZYUmd4Ti1YX3ltXzFCRjg0VllqNi03VDJ4Y0VzWk5VYjVzcV9sMA?oc=5",
    "summary": "Nvidia-Backed Firmus Pulls IPO Amid Market Volatility    The Tech Buzz",
@@ -2406,6 +2420,18 @@
    "fetched": "2026-10-12T07:04:25Z"
   },
   {
+   "title": "Hedge fund reveals 30 Firmus red flags; France just set bond market on fire again; Inside Australian executives’ secret war games - AFR",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORm5Fa2pZdTJ5UUN2Vlc4QWo5OVJCVE42RGFxc3MxWFdFaUtfcXdyMXFsUXplSnYzNE9YWFZKZENUTUdlU0JzMnlGbGN3VV84UlJfQkZjOWxqUVpQSG1TYXZGV2RoSDZEc09fQ0wwZUNQSGd1bnN4VUZLMmozcGFOamhpcjMzeHlrenc5TkRzc2pIS09ZNXI0ajVFUF9IelVtVmxOakQ2MTB5TTdVYlZuMG5JaHRubUJBb1BNclgwS0RnS0tnMmxfVm9zd1NNRmQ5RkFFOXdablk2cUxzUjhVcnMyUHEwSWwwWmlfVXFWaUotXzhpMDNZVXpTakt3NXhXRENVZ19VeWprQWVMZ1hYSVpDZw?oc=5",
+   "summary": "Hedge fund reveals 30 Firmus red flags; France just set bond market on fire again; Inside Australian executives’ secret war games    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-08T01:05:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T07:05:50Z"
+  },
+  {
    "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmhRcF9EUGdBTHpQWnFtM3FXVjVZQWZUVTMzRjJhVVRQVkRYVjB2cEMtVHBVNWhMR1VkVnBiY2xkWlFJRVpsS1BRSFM4NjZ3S3pGM2Jacm1wMGd3QWJuSmszN2lEc1N0enR5WmlMajZ1bHA0Z05KclNob0dIWnppOTcxRHJXRXBSYTFHVUFVU3NxQ2JJSTBBRjlsOUJDSnZNRGdOSDNmVUlwM2xsTjNv?oc=5",
    "summary": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut    The Guardian",
@@ -2613,6 +2639,18 @@
    "operators": [],
    "states": [],
    "fetched": "2026-10-12T06:30:58Z"
+  },
+  {
+   "title": "New data shows Anthony Albanese's housing target is set to become another broken promise - as Australia's housing crisis takes a back seat to data centre boom - Daily Mail",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXd6Vm5yZ2lwZDFhN3VmZVZKRUIxUnNVclIxWXozZ2pkdmo5T2QzMm56aHJTb3Y4YUQ1NzFfS1pTTnUxWVJyVGlaZE1vV1d4M3FXUlZ3TzhSSzRUdUl5VG9EVFhYc05iaHRqMGYxZmhNVWZwNnVfZXlIY2dSajR1U21vcVRHMElEREhpejNqVjVyZXIxNlR6TDItN2tQYk4tczQ2aVQxdkJxSlBseUhST2Vpc1BxX2fSAbwBQVVfeXFMTl9OR2Y3MUNvUTlfTlVnOTFqQmVKSVpPUVNQNHVmekY5aE4tUDVEYWk2QzVrU2RHTEFlTHpsRDQtWHNUckwxLW5NaFRLN2N0T3Z2Y1RTTUMzcVJFazNFcDB1N0ZyYVVpeG1FbjhGQ0dtYkxwalB4WlZFRnZzbUdfUDVvbUhLVUZYcWlVV3BOeFZoSkdBbkZnSFM3enFDQWJUd1pxNFNuOXdKRWROdkFPYlBmSEJGSHVMaDVtTFE?oc=5",
+   "summary": "New data shows Anthony Albanese's housing target is set to become another broken promise - as Australia's housing crisis takes a back seat to data centre boom    Daily Mail",
+   "publisher": "Daily Mail",
+   "published": "2026-10-07T10:53:36Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T07:05:50Z"
   },
   {
    "title": "Australia's AirTrunk to triple Japan data center investment to up to $30bn - Nikkei Asia",
@@ -3471,6 +3509,18 @@
    "fetched": "2026-10-12T06:30:58Z"
   },
   {
+   "title": "Australia's Firmus to allocate half of up to $5.5 billion IPO to existing investors, sources say - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZHZOWGI4QjZKWVZhRHZUTHkycks2SmVqVDVkUWM5a1M1RTVkaThFa1AzMDhsRUx1UDZsLVZIc3RNVnpBcWhiN0M1UE1xcTVSbWwzOVNxQzZ4ZkZyUTQzaUtJOHBKbHRaSTFtODRBOWpWTzBBUERiTnVBai0wbmsySWV4aExpQ3Rra1VjYTE1cEplVUxmbmFiWElabnh6U2FhbHdLOGg2cHV1UHo5NkpsNm1YZDJMekVoZ3pRUEZtOUx5RWF0MENBcjV5VTZLWnU4UzZjNDllV0VRRWNOM3NHdVF3Z3JoMDNmZUVLZjJtM0V3RnZFblhQc01mVXhtdzlDREljX3hmNkItS09o0gGMAkFVX3lxTE5kdk5YYjhCNkpZVmFEdlRMeTJySzZKZWpUNWRRYzlrUzVFNWRpOEVrUDMwOGxFTHVQNmwtVkhzdE1WekFxaGI3QzVQTXFxNVJtbDM5U3FDNnhmRnJRNDNpS0k4cEpsdFpJMW04NEE5alZPMEFQRGJOdUFqLTBuazJJZXhoTGlDdGtrVWNhMTVwSmVVTGZuYWJYSVpueHpTYWFsd0s4aDZwdXVQejk2Smw2bVhkMkx6RWhnelFQRm05THlFYXQwQ0FyNXlVNktadThTNmM0OWVXRVFFY04zc0d1UXdncmgwM2ZlRUtmMm0zRXdGdkVuWFBzTWZVeG13OUNESWNfeGY2Qi1LT2g?oc=5",
+   "summary": "Australia's Firmus to allocate half of up to $5.5 billion IPO to existing investors, sources say    The Economic Times",
+   "publisher": "The Economic Times",
+   "published": "2026-10-05T08:23:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "fetched": "2026-10-12T07:05:50Z"
+  },
+  {
    "title": "Chalmers blames AI data centres for government debt interest - The Nightly",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEtMb2VvYjNQcmQzLVd2WjdPc20wQU1RbTVWZTF5Q0hYRGlVUjVSeTRyQm9BZm03YXAyQ3N0YkpWbE9zQ05ZTi1GTUdmV2hWSFlHd1czMWhxdTN1ZEppZnlxd2xnczR1R1BmVXFHYkVLR3R0NXRsaFlvWWNRdmFHcE1KSWFVcXdyY2g1ZTRJUFBFNndpQmZMemlIYVJRNHRrR1dmSGhVMmxNLWs4TlJYdmwwMXFqdjAxSnAxNmxMSTVkODYwc040RmV3M0pqM09pTUlRaDcyTF9lV0dCWXBzUmtDOUVvWk9H?oc=5",
    "summary": "Chalmers blames AI data centres for government debt interest    The Nightly",
@@ -3683,67 +3733,6 @@
     "AWS"
    ],
    "states": [],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Firmus expands Meta AI infrastructure deal into Southeast Asia",
-   "link": "https://w.media/firmus-expands-meta-ai-infrastructure-deal-into-southeast-asia/",
-   "summary": "Firmus widens its Meta partnership beyond Australia, contracting GPU compute capacity at new Southeast Asian AI facilities.",
-   "publisher": "W.Media",
-   "published": "2026-09-29T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "Firmus Technologies"
-   ],
-   "states": [],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
-   "link": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
-   "summary": "Goodman pulls its planning application for a 90MW Sydney data centre campus after winning approval nearby.",
-   "publisher": "Data Center Dynamics",
-   "published": "2026-09-28T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "Goodman Group"
-   ],
-   "states": [
-    "NSW"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "SubCo plans three subsea cables in Indo-Pacific",
-   "link": "https://www.datacenterdynamics.com/en/news/subco-plans-three-subea-cables-in-indo-pacific/",
-   "summary": "SUBCO unveils three new Indo-Pacific subsea cable systems linking Australia to regional and transpacific landing points.",
-   "publisher": "Data Center Dynamics",
-   "published": "2026-09-28T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [],
-   "states": [
-    "WA",
-    "NT"
-   ],
-   "fetched": "2026-10-07T00:00:00Z"
-  },
-  {
-   "title": "Sharon AI to lease capacity from Australia's GreenSquareDC",
-   "link": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/",
-   "summary": "Sharon AI becomes the anchor tenant at GreenSquareDC's SYD1 campus, planning roughly 8,200 Nvidia Blackwell Ultra GPUs.",
-   "publisher": "Data Center Dynamics",
-   "published": "2026-09-28T00:00:00Z",
-   "source_id": "research-2026-10-07",
-   "language": "en",
-   "operators": [
-    "GreenSquareDC"
-   ],
-   "states": [
-    "NSW"
-   ],
    "fetched": "2026-10-07T00:00:00Z"
   }
  ]
