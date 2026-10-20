@@ -1,25 +1,25 @@
 {
- "fetched_at": "2026-10-18T22:40:36Z",
- "added_this_run": 42,
- "total_items": 741,
+ "fetched_at": "2026-10-20T00:02:00Z",
+ "added_this_run": 79,
+ "total_items": 820,
  "earliest": "2019-03-19",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
-   "in_feed": 86,
-   "new": 3
+   "in_feed": 97,
+   "new": 14
   },
   "gnews-dc-au-2": {
-   "in_feed": 53,
-   "new": 2
+   "in_feed": 54,
+   "new": 11
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 8
+   "new": 26
   },
   "gnews-grid": {
-   "in_feed": 22,
-   "new": 1
+   "in_feed": 17,
+   "new": 3
   },
   "gnews-zh": {
    "in_feed": 0,
@@ -31,25 +31,754 @@
   },
   "itnews": {
    "in_feed": 20,
-   "new": 0
+   "new": 1
   },
   "afr": {
-   "in_feed": 100,
-   "new": 28
+   "in_feed": 86,
+   "new": 24
   }
  },
  "by_month": {
-  "2026-10": 678,
+  "2026-10": 754,
   "2026-09": 53,
   "2021-10": 1,
   "2020-12": 1,
-  "2020-10": 5,
+  "2020-11": 1,
+  "2020-10": 7,
   "2020-07": 1,
   "2019-04": 1,
   "2019-03": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Carbon challenge - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JMXpZVWNBdDVhN1c3WTdoVk94RmFfNmJwX21xYTZuZUZPWFhaYzBocV82WmZYOGstRml6NlB6d3lPZzJORFVOSlo4bXM?oc=5",
+   "summary": "Carbon challenge    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T23:47:11Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Topic | AFR Magazine | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBlSzd3YVNIajJSODJ3X1pVRVBVQTZNXzdvV244cUJmMGdtYkduRHpyenVFalpNNmk1bGYxRTh1ZVZPYm5qbnFV?oc=5",
+   "summary": "Topic | AFR Magazine | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T23:47:11Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Short sellers circle Maas stock as Firmus fiasco proxy - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2tOOS1pd21sVDVyU2dWbFdVcDNaa2Nma2Zxa3E2T3JodFNMQUljYURYemFsWXZrS2tlSmpOS2ctZDhXU3VrRjhzLTFDQkREOVQ3UHQ1VjZFemFNRTNCQzZGT2hNQUxjb2hEaWJiellNNnRQSFJvdzNLbWliNkhSMFFkY1ByRUduRElzSUdCa0J2RHg2bEZrcm5KdEhMcVRGaEtYNnJ3UTBUMHhKbnItSXUzYS03UWFDQXBQeC0xRTFGUnRMZkpId0ZfZ2JpNUtpQ1E?oc=5",
+   "summary": "Short sellers circle Maas stock as Firmus fiasco proxy    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-19T23:10:47Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Topic | Brexit | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55T3k0dkpZOTI5Y2pXenctVDZXMWZxLTVXZS11a0lUeWZxenc4a0RVZUMyUnl4Tl8tWmtHX1g2dE94ZXVnd2tZYkQxSVQ?oc=5",
+   "summary": "Topic | Brexit | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T23:04:10Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NextDC likely set for rocky reopen after power-induced trading halt - Switzer Daily",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1J0anBfb2JBMzdMRnowVG5UcG14N2FCVmlxWGs0ZlJoRXk4Y2F5Y1ZfSWM0Rmw5Q0puTXJNRnltVjY3QXlLMDBWVnN4dWlaaWtXa3V0dmZwR0Z4dXZDUEpuR2tXdS04SnNOdF9uUzNrMUlfeDJweEZJcnNjQ01paEM1MlBZSzFWVnFTUTUtdUFQQlMyVXc?oc=5",
+   "summary": "NextDC likely set for rocky reopen after power-induced trading halt    Switzer Daily",
+   "publisher": "Switzer Daily",
+   "published": "2026-10-19T22:24:33Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Top hyperscalers likely to have more AI-linked debt than now known",
+   "link": "https://www.itnews.com.au/news/top-hyperscalers-likely-to-have-more-ai-linked-debt-than-now-known-629761?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+   "summary": "S&P Global warns.",
+   "publisher": "",
+   "published": "2026-10-19T20:29:00Z",
+   "source_id": "itnews",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "IREN Limited (IREN) stock price, news, quote and history - Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jaXRxZ0RuejlLRWIwWTRRU2RSSTVELWlmZWgycjJlMTM2WVlWVzlLQ0RpZTVqY3RmMjNsNlJ5aG1uREJ1WXdvU29SeDRPZHRKRFE?oc=5",
+   "summary": "IREN Limited (IREN) stock price, news, quote and history    Yahoo Finance Australia",
+   "publisher": "Yahoo Finance Australia",
+   "published": "2026-10-19T18:16:24Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [
+    "IREN"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Waste tsunami. Water and the hidden cost of AI data centres - Michael West Media",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVHdVa0ZhcmVhcE1RbVY0dzViRFJvNjBwVlQ2czlwcHVhZFAwQ0luLWZSanJGa09zSWhJWjFXcW1kc2dERGNlMnQxVzIwWjFDUUFkMUFHWEVOcjRtV24wVVFjcVpkUi1qOE5Ya1phOHlzOGN3UW1PS2RfNGhka0ZteUotZkVVdVZ2V1g2bklRdw?oc=5",
+   "summary": "Waste tsunami. Water and the hidden cost of AI data centres    Michael West Media",
+   "publisher": "Michael West Media",
+   "published": "2026-10-19T18:14:07Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Data centre giants sound alarm as building backlash, headwinds grow - AFR",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHI4djFEYkhVMmR3UzFZVHVyWEpZbWJwcU52azdGN201Zl8yZmJiZkN4SEpFQzBOTjNxMjFmYVQ5RjEwTHFrS2p4M3Q0UzlrRkI5NzdSa2ZjRjhLX3pHVlBEQUpFSFhFZjhKdUgtdTQ4U3ZBRWNrb2JWWEg3ODM0bkZ1a0Fldk13bkVuN3U5S2tBUVlaYllVR2pOVUxvUGdRdzJrV1lpM2tHYXZrNW1YejhRaUdRS3VycktKcnBpb2FjWGJSaVE?oc=5",
+   "summary": "Data centre giants sound alarm as building backlash, headwinds grow    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T18:00:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "The $1399 3D printer for creative kids – and nostalgic dads - AFR",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkpIczdoeG9ISm5zN3lnSXlseUV2Q1N1ZlUwbHNLYmUxQnhKdVQ4NW5WODZKZU1ibTIxU0NscDNCeUowVFJvOER3elFzLUkxeU5rTTlVWHVHazlaaFY2c0ZVMGlfSW9Ra1UzMEFROG1jRWtkQXhvaDFhZGh0dnZVaGhhVUY2dWxLY3NLc2dsbU04YUQ0cEZIY0xqNnVmVHJvNVBJcHNR?oc=5",
+   "summary": "The $1399 3D printer for creative kids – and nostalgic dads    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T18:00:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NEXTDC (ASX:NXT) Selloff Puts Its Rich Valuation And Earnings Story Under The Microscope - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWpDak9Hd0hrck1KVVhWdEpzS3ZOTVEzTTBidjYtQXhlZmdEZ2VvcGY3bWdsYzRHZ0ZhMjFSRnQ3YXZHLXptc0c2LUl6WjBJcGZEb29hbk8tSl9HYnBNTml6SkpWSFBXX0lEQ2FRa3hOTktFZGJaSmE5VGFDSERYRW80NXJOd3hFOFBLLTNqeTNFeWVQUlJpYWRGdlpONk84djNEdF9ubEZIcmMySU1jNjhQQm1oS2VyNUE3N216d1F3NTZZcFh30gHMAUFVX3lxTE03SXJlM1pHSTRJRDRwZ0tFTkdyd2pWaDl5TXRfNlk3dXBNQUVybmpiRm1RQ1dnYWNTemhWX2RRd3hOandaTkpRdHc2SmRUSThJYndsaHhnMC1KdzhKdDRIQzhqbzZ2el9VbzhQVFEzc0pMeU5ubnpISHJIQVB6NTR0RlhySjI1ajNNUXJKUXJ2Y2JicnZCQ1hDWnQ3OU1GY3kwalI2MU0waWNoZHNQMFBJMXBKTmpLNFRHQzVRLTl0cW1CRnhQRTRndVdDbQ?oc=5",
+   "summary": "NEXTDC (ASX:NXT) Selloff Puts Its Rich Valuation And Earnings Story Under The Microscope    Simply Wall Street",
+   "publisher": "Simply Wall Street",
+   "published": "2026-10-19T15:03:33Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NextDC halts trading due to power delay for flagship data centre - Green Street News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXpSdkRFNF9ZazhRXzBGdHlCa1BrQWlnNGtfdmZEZlZSME42SlVTczNWc3pVUDhFZDNVUW1MQUNyWVRvZk5uU0szQkx6ZlVQNmRaTmxsMGd1RlRIZ05hZW1JYlNTYVNseGRoTHo0NHBqNnFobVd5a0syNmEybEVJcjhuRzBsdldaSktzM1hHaGFzX3p5Z2ZnenR4Z3VpYXZTUTRj?oc=5",
+   "summary": "NextDC halts trading due to power delay for flagship data centre    Green Street News",
+   "publisher": "Green Street News",
+   "published": "2026-10-19T15:01:42Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "EdgeProp Daily Digest — October 19, 2026 - EdgeProp",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sNmdUaS1oOW1NdVVQQ1pmRU9yaklLcHNhSmdnbHlqRGtZck5mOU5BNEpIRFh3NU5aZ3IxVjRLS01FTGFpMVhLbGZlRVVTU0FQdnJjNXlGenJWZk0?oc=5",
+   "summary": "EdgeProp Daily Digest — October 19, 2026    EdgeProp",
+   "publisher": "EdgeProp",
+   "published": "2026-10-19T14:17:40Z",
+   "source_id": "gnews-grid",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Nvidia-Backed Firmus Grid Scraps Its IPO Entirely After Investors Balk - Startup Fortune",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY0hyWml6cnE2aFByTnV4SUdHajNPXzQ4c2hTVEp0MElZV1lqYkxoSjZ6UmxxRDdBcTFVWjhzUkVfZXZGX19DYVRGX0xpWHpWVGdNM0tsNmlMcUtPdFV3bVB1M1E0amdna0JNWTRjd3Bvc3d4RERVeWw2dWhPazFrbG5WUmdLd083dWtUejZzWDZoOG9BSXdMdDZKTWV5YTQ?oc=5",
+   "summary": "Nvidia-Backed Firmus Grid Scraps Its IPO Entirely After Investors Balk    Startup Fortune",
+   "publisher": "Startup Fortune",
+   "published": "2026-10-19T14:09:44Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Australian Data Center Power Delay Exposes AI Bottleneck - Energy Connects",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXFwbXEwa0hDSjFuZFJxZ2g4TE5OU3RjX0RqRy1zNXgzdmZFRjRfbWJkTnR5RG1tMmJiSC1pWjRBajI4RHBDOFgzemZNdHdKQUVDdmFkU2lfanNjUmlmNzY5VzhpeTl5dm95MGFUWUpiR1VYTVBVaC1BRHg4czg2cFlaSnZpLWtlRlRBSDh0cG5GY1RsRENKX1NucEJVM3E3VmpPbEZ3ODZUVFZnN0dTNVduNG9lQTg?oc=5",
+   "summary": "Australian Data Center Power Delay Exposes AI Bottleneck    Energy Connects",
+   "publisher": "Energy Connects",
+   "published": "2026-10-19T13:41:16Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "20261014_DOW_605 Template.xlsx - AFR",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3U4YnJCVks2bHdpc2FCTXVlOHpRZ1Azek1VZFowWmFHbzEzY3RDTk50YkpEWFJQRl9sM1BnUU5GbmxaOUs4elE5V0VlcU1heTVpTHkxMTNmQkVRM2dVLW5rNXdIbHpSbkFhN1VuaV9YbEM2QWI4ejQ4X0t5X01OMEMxOEtCLTZMX3VGTVQwNA?oc=5",
+   "summary": "20261014_DOW_605 Template.xlsx    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T12:35:08Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "What Does Firmus Pulling Its IPO Mean for the Maas Group (ASX:MGH) Share Price? - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTDc0ejBYOTJWS1R1b1ZndnVGLUFxZUFTdm05SEFUeExvczhQU3E1MDFyS3dXX1RSdzJINWJZUkxIQ2NURktzdHdNM1gtRkM1Q3ZpLWNvNmZaVXdGXzROeTJ6ZjBMWDJhN1pvMWNSb2NJYXMzMDZCcVliWG1teDUyeUR3RC03aU9GZVhkV2R3Y0ZCWUR3aUNSQnJDc09sRWlYSDZWSUF6Rk14eWtWMFRBZi1FZkNFYmdMQnk3SGNUeG1xOEk?oc=5",
+   "summary": "What Does Firmus Pulling Its IPO Mean for the Maas Group (ASX:MGH) Share Price?    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-10-19T11:56:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "GreenSquare: Repurposing a 1995 Facility Into an AI Campus - Data Centre Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDAxbE10ZXZUX2dCb0NuYndkUHZNdEdzQ19TS1UtNW03ZlVOZTAwdS1iWUlKN2p3QW14dkNQNVU4UGtxR2FEMlV0VzJJNXhaMV9VV21KLUVXYThmUWFGNWdRS0JUMFNRNHk4bk5tQXdFSzN3MHh3Ti1kZFBHTUExOGNYTEs3VXU0Z09teUNDMXo5M3l0a3Z2Zg?oc=5",
+   "summary": "GreenSquare: Repurposing a 1995 Facility Into an AI Campus    Data Centre Magazine",
+   "publisher": "Data Centre Magazine",
+   "published": "2026-10-19T11:31:48Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "GreenSquare launches first phase of data center campus in Sydney, Australia - Data Center Dynamics",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzFYYTlJb0NkQzdSYWpTbHVfWTBmRWJCcERub0xSMk9tYllodzVmb1gwbmcwbWx0NDNGanpDZTdTR2VUb3NIaGVoUHdvbWFVYzlhbGYySVkwNHcxeEdCUWVtSVduSFNGNWo5OVFVUENmRXBId29UWkY1R1h2YW1rb2xzNmtKRm5xY0tzMlNwTWtCMUxZVWk4eGl5b01nMXRxc2oyeEc0bmJQMTk3UnVhNWxDR0ZGWXlUc0E?oc=5",
+   "summary": "GreenSquare launches first phase of data center campus in Sydney, Australia    Data Center Dynamics",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-10-19T10:56:48Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "DigiCo Infrastructure REIT (ASX:DGT): SYD1 Contract, FY26 Earnings and Data Centre Expansion - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGtzci1RZGJmZGgwcDIzTTN4Y3NTbm8wc19UanZYNmdoTmZ1djZkc3ZJc2xCa05VRnVEelJtY0YtQkZ2a19EMEhLR185MWJZSHVxUTdZSmFnS2tjMTZwdE10SUU2QUhqeFFxTkFHY0pIa2VyV0xrem5LYnhtX0R0cXJ5amYxNWUyNUJHOHZ0ZVk1Q3d0VzRaMU5kNHd5S2FEMFdSdHdnVnRvN3NIektRalg0aURoRkczak9RV1cyUzEwZEM1VVE?oc=5",
+   "summary": "DigiCo Infrastructure REIT (ASX:DGT): SYD1 Contract, FY26 Earnings and Data Centre Expansion    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-10-19T10:10:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "DigiCo Infrastructure REIT"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Early Firmus investor declined escrow handcuffs as IPO unravelled - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeWZQTTZwVTRvaTNCNDRYTFNYS2lzU2MtWXdMaVk3ZGRMY3hyc2ZJWXV1N2ttdUxGWDJ3Y3ZiN1dqcVNiZ0IzQWFHQW4zRVJrTEp4UV9rTzUyYV80V082QVRzLVJ3VW1lVUxXNjh2SkQ0MjdoWndXcEZBMGxFc21ON3ZqZlZpNEIxUEVUZmdrR0VaV3Fic3F0YWJWMzk4cGdGSmNqUHFhQnlNMWVYYjBzclIwYkN4NXFxYUg3TjVHelZ3YTJ3eUpvcjQ2NTd5RnYzNmw5MWpQeGNxdEx1LU1JVjFoenVGbnhiTC1LQQ?oc=5",
+   "summary": "Early Firmus investor declined escrow handcuffs as IPO unravelled    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-19T09:34:57Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Uphill battle for Firmus investors - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV05qSnZObEIwQzNicnctWVJEOFlyMTMtNGVaZG1uekNCVE9ZU0gwYUxaZTdsazJlZHdQRFNSY3dDNU5HSmgxcS1lNzFDMW00TEZqVjFVcUFOemJUTmY2TUQtVUhTbUZ1VUluMFdUNjJWSFpmeWR3cDRXYlZSUmg4dldmQ1JvYnNUUVRsMmFyZlZ6Ujl4UlVQanNodHI5NGVHMW10NWFtYVYxdWxabjhiQ1FJeDFseDdUX1phYUFwekFUZXcydDhSNEU5Ui1EdFl1dzdSUW9zX202UWJTUVpKY1NEWDEyb0M0R0VoQVBHQmlydkFXV290OGFic3Iwdw?oc=5",
+   "summary": "Uphill battle for Firmus investors    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-19T09:14:50Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Annual General Meeting of Stockland Corporation Limited and Meeting of Unit Holders of Stockland Trust - AFR",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalpLWFZuWmxXc1hfcDQ2bGN3dmRYdVo2d294cVFlQXpFRGlwd21tTFFkb21qdVd6U0ZZbkZMYmpSaFNWcDFJdU5ad2t4YnhETnI2V21rcTBLMzQ5QWZXZV9McFRNaHJXa1ZBbkRwV1ptTGhDdHpPV09kUGFZUXZIN25fdmNoY0lYclBnV1JoVQ?oc=5",
+   "summary": "Annual General Meeting of Stockland Corporation Limited and Meeting of Unit Holders of Stockland Trust    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T09:03:17Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [
+    "Stockland"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "EverWind plans US$ 7 billion Nova Scotia data center campus with Anthropic as tenant - W.Media",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTBCVGRxZWpoRU5XdGpBOXc0SXltYmRHaWEyMHZRbXBYLWtOYVRJSVZrSUdqaUZ3SFdWZUFHNmFWSk42ZWVhSm12UVZrUERJd2ROaHBycXdOeXFmUlZhSlg4R3ljdXNiVTFETnpKSkZlUkhuTXBTRm1iV0pIRW82Y1Rqby11ZUh3MGZYT1VqQVo5ZTc2OUNINnBlaXFuYlVfVXc?oc=5",
+   "summary": "EverWind plans US$ 7 billion Nova Scotia data center campus with Anthropic as tenant    W.Media",
+   "publisher": "W.Media",
+   "published": "2026-10-19T09:03:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Australian dollar to surge on data-centre boom, higher rates - AFR",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHZQdnRsLVNkSnJpMlZpOHVwcG9PZC1lYU16a1BNaGZpc3Z2dWQ3T2xRTERpbFgwZFVwSzJhLWU5ZXJIVHNHQ0t6SHE0YjRjck1zbDVOS003RkRFSW9SRE9US0VGUnNwOHVWSWdhb1VmYkF2VGNlYW1Qc2F1YkVvY0gyRHVWNTJiaVBRQ1EtMWJQU0FISkVVRHBEbGo4aXFvaXVGWGdlY1V3X3Z0N1NoT1BRaXVSblU?oc=5",
+   "summary": "Australian dollar to surge on data-centre boom, higher rates    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T09:00:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Australia's Firmus Pulls IPO as Fears Spread Over AI Overvaluation - bloomingbit",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xQjZMa1o3WlV6d2N3TWd6dl92R3dJbXplc1p4Q25VUnJhQ1pwYWFQSnNpX09iaXFaUUVRVnhpc2pKZHZuOTE3NlVNekZFODhUa0E4UA?oc=5",
+   "summary": "Australia's Firmus Pulls IPO as Fears Spread Over AI Overvaluation    bloomingbit",
+   "publisher": "bloomingbit",
+   "published": "2026-10-19T08:48:41Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NextDC Shares Halted: The Latest - TheBull.com.au",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00d2dPd0gxSlg4WVdYM085TGE2Vng4OFpvcldYS3BVZ3ByakNMb3JBS1ZEODhYOTl0Z29Mb1paZERRMU5IMkx2QjJSRmJhOE9aVm9sN0t5WjFFNWZJVXI2d2Z2aHJnUjdsRXBKTQ?oc=5",
+   "summary": "NextDC Shares Halted: The Latest    TheBull.com.au",
+   "publisher": "TheBull.com.au",
+   "published": "2026-10-19T07:55:39Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NEXTDC Limited - trading halt of ordinary shares on the Australian Securities Exchange - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3RCNjYtak5LZE1zU1kzUU9fTGM0ckxneGpjRzZwaFBldlFsSDdDVXBGc3VPVTlCbE5Gb3ctUkRjbDFkR0U2YWZCRndGaDRqME9TWVBxa3ZfM2lMTFBHMUtNSXhvdFFRcG1HeTUxc0hRdHItQVU1MmlYRnM2VVlzRk9EeGdINkp3dWRSOFR6QnBMNVBjZnY4X2IwUzRnSXloQUYwRm51Mm5rS1lCelFmek91YV96d213eEs0Q0VOLUVqWnZCZjZacld4d01YR0wxS1BKMQ?oc=5",
+   "summary": "NEXTDC Limited - trading halt of ordinary shares on the Australian Securities Exchange    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-10-19T07:49:43Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Tech Bytes: Microsoft pulls out of Aussie-founded Nscale data centre deal as power shortages hit AI boom - Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRHR3dHRfRENpU19NN1Nuc3NjOXNaa3pKUk5TRVREMHBUMUpoclQyUGhrNkFvUHFFOEdkVkE2dnBrNHpJak5wcjdTVmhjUmdqcGtBNlAzYldYNjg3WFFTOGZ1UHBMTy1ZVlhFaXBIdFpKOXEzZkdwNEQzNXQxY3I3TmZRVnprYVNIQkN0S2xjN1p6UXJTMWMxZ1g2R25wOGpBdHJRR2NRaEprNDBESVBLcUhtb0ZFSXpjVTZRcXQ1QllGNmJsT25aQVZHenV4elVIZWJFaTJYV0w2cmdrdVluT05xTkZVZzZ1c0VSVkNBbUdYMkd6VGZRUlZ3RWkxZkR6Z0ZHXw?oc=5",
+   "summary": "Tech Bytes: Microsoft pulls out of Aussie-founded Nscale data centre deal as power shortages hit AI boom    Proactive financial news",
+   "publisher": "Proactive financial news",
+   "published": "2026-10-19T07:22:40Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "Microsoft"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Australia’s new Ghost Shark submarines grow some ‘teeth’ - The Sun Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlRQZ2dxSFZoTUljLXA4TEQ0cWpGd1l3ZmlVUVA3cVNYdGNNTWVPY1JXZUtGTENFeTA2dGRFaFdCTFctR3FNdFEwem9LaF9iTERGbVhhMUMyVFg0VEJ2NlVKMC1YQnBNSWdfS05ZSEtqUG14bmQ4bEhVR1ZZckN6SlFUUjlsemNxY1AtcXh5RXVVUQ?oc=5",
+   "summary": "Australia’s new Ghost Shark submarines grow some ‘teeth’    The Sun Malaysia",
+   "publisher": "The Sun Malaysia",
+   "published": "2026-10-19T07:04:52Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "This empty lot near London goes to the heart of data centre jitters - AFR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXRraEQ2NkpwbE1sU2lXMGthWlJnLU80ZUJRRDdFMTh0aUdpdml3TzhmSGVKeGJPVjRVUDZ5dGtydFJfRE5wNW9RZ1YxZ1l4ZkdkRW90ZmNSRWlJbkdxWW5wanNsWUdab3Fyemx0YTZHeS1LOWdkanpEeVUzWmZQSWxUaEMxbjJTSVNLdWQ3WjdtZVhCcEdsSVJCSWlqck03VnJseG1nUHF0VHJKdVRYRnBkX3A?oc=5",
+   "summary": "This empty lot near London goes to the heart of data centre jitters    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T06:28:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Nextdc Flags Earnings Risk on Melbourne Data Center Power Delay - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkFGNWJNbXJOaVJkd2FDcFZMbGRSc2l3andidHFUY2JNZWlzb09jSzVKRGhQcUJ5Z1BISUZjTGd2aG9jM19uMlVRUTlFWTBGQ3ZaVEMxQnJpU3pENmVYSUV2T25SR05lYVNrY3FacTJYWXp0a2g5R0FzanBEcm5DSkp0dDV5N0tJbmxxVUY0T0J0S1htQl9JaUlEd3E4blBtbG5ndG1scUtobVQwTHVPNG9UVE8?oc=5",
+   "summary": "Nextdc Flags Earnings Risk on Melbourne Data Center Power Delay    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-10-19T06:07:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "UniSuper CIO warns investors off financing ‘crappy’ AI business models - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTNRbzdMa1VSUVRtS0h0S2RMWDZ3VWttdFdXU3hmdlBibktFSi1JYzd0MFhNa2pZVzEyeDc0Qi1XUVRubDRjSTlUMkpIaXJyYWsxZ2ZTZW44SzdnNWxTRFRYTlVFemFUUGtPRW9ON08zZ1RvakFEbTR6aloydmpjTktXYVZHX0lUMEg4eEdBaUh3M0ExMmhGbG80RFk1elpRTU1IQUFOWnpTMFVaU0FnSm92azdPTFpoejRCVE9yU0ZyNUk?oc=5",
+   "summary": "UniSuper CIO warns investors off financing ‘crappy’ AI business models    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T05:07:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Microsoft exits Nscale data centre deal due to power shortages amid AI boom concerns - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVp6YklxQ3VuUFZLb0R6Qm5PNDVHeXdMWmRBUmlqRHZRNHNCUmtwUGoxR1cxODNDSVprM19NUS1JemkxZ1hBN1lwVHplYW1DXzlZc0Q2ZHZ5emlZZVZRcTdwWmdla240Z3hyVE1WdkplSFN0OUVxZC1SMXRIYnBpdndwYm5XTE12eGJQelBTQml6cXVmYmc1cXVDd3JXRi1nQXVMOE5GSVhhcFJ1LVRaWQ?oc=5",
+   "summary": "Microsoft exits Nscale data centre deal due to power shortages amid AI boom concerns    Pluang",
+   "publisher": "Pluang",
+   "published": "2026-10-19T04:36:04Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "Microsoft"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Firmus exposes ASX’s big problem: loss-making companies - AFR",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGxzQzVMRk1WU0w0M21IeDFvUWxxeXZTNkY5V0VKZGswMlRIOXlPUFJabGlMRzJFUm4yWmNNeUVpWEpTcU9uelJSVmV1UW55SlNNY3BmZkRHWVNCeXBBLXhoenVmMHBKbVltSTJiMHJhTVhtX2tOLVN6X1BoSlMtNUJCQ2hGbVBtZDQxSkdsSU9xWDZtZERJb1RENllDamZwUHZxOTJmZ0NwZ2V3TTVhRHhHN0swZXY3OXhrSnItM1B4REdG?oc=5",
+   "summary": "Firmus exposes ASX’s big problem: loss-making companies    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T04:09:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Twiggy, Federation-backed $5b Bungaban wind project hunts for cash - AFR",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2tFbi1oWHRLVTdvOU1oaWZ5YnJOUWVSVmZpYnVYaTZCN3pOSlVTelhHSkt2Wnkxd2FmeVl0bENzb21nSU5DRHNHZkJRVmlPeUh1YlZDX2xjS0tuRVQ5cmZ2X0ZtNmlZRWlhMF93U2gtVzFNUVdqUm1MLUlibVZEMF9DOFJJS0RDZ29uV1piNVlzZndyeVUzQVRnZS1kbjNBcUtTTkFUbFplNGRWU1M5TEt3?oc=5",
+   "summary": "Twiggy, Federation-backed $5b Bungaban wind project hunts for cash    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T03:51:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Power pole protest delays data centre giant’s flagship Melbourne project - SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5SZnFOX3hfSmdRcUVEcmFVTWtQTFp6ZDdnTnp3YnljTWFQeTN6OUpDelFKZkQwcFQ5VVdBSUY0OVUzaDByMWlvVXVBX2RzdjlFZ2NHWkNCSlF2VWtuV29zU1hoajc0ZktIQUZFR1hlTHE0QTRLaGZyODl5Q2JvSWVudUtPSjM5Ulg3TEp3WFVMcnhaRWdJWTNFdFR3VmlkSlhEQTRILVNER25LZlc0cldwU29faWxrMmgzV1hmQ2sxSkp1X2JMMm0xSzd3UQ?oc=5",
+   "summary": "Power pole protest delays data centre giant’s flagship Melbourne project    SMH.com.au",
+   "publisher": "SMH.com.au",
+   "published": "2026-10-19T03:46:05Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Australia's NEXTDC halts share trading before update on data centre power delay - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xWDR0Q290elE2UE9KZHlSSXZQcTlac2V2bktFR0h1OVFzM0hWSWdrZjdMSWRIVmJlNjVlS2N2b0E3NTkwcWZZTFpsc1F2NGxG?oc=5",
+   "summary": "Australia's NEXTDC halts share trading before update on data centre power delay    The Edge Malaysia",
+   "publisher": "The Edge Malaysia",
+   "published": "2026-10-19T03:25:39Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "A U.S. view of Firmus - roger montgomery",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zb1BZV25OZFRFWHpFZnZZdDRhUVVwR2ZFeHNuZXQzM1FPM014Y0FwN1pPMGhoSTdOUkU5RFFEcjlPMDFKZXp3TFpkbkwwNThWNXJITjdwLVRuYlFaTXc?oc=5",
+   "summary": "A U.S. view of Firmus    roger montgomery",
+   "publisher": "roger montgomery",
+   "published": "2026-10-19T02:39:31Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEpMTjE3VGk4UXd6YWdhb0ttVURuVUM0REpqdWlzQk10UFJKNV9jNHVncU9uSDl0RENLSE5vbUZJSmozUlV6dzV0TTZieWQxU3dpSFZ2OTFOZmt6dFNVWC15UEhkaUtDTm45Mk5oV0ZWXzl2SEw0NUZRRHRsYVhhRnZnd2p3c0pnREh0aldTd21laXNoalk0N2tLZnpEZkxXdHZLenNNMnN4bDBvX1k5ZnNzclpQeXhXaUFnWllUWVZiSU1DY1lMVzJIZ2s0NWhxMUtFTWswUkFMVTUtVnlLWG96Q00?oc=5",
+   "summary": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-10-19T02:21:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "GreenSquare SYD1 opens first stage after adaptive reuse of 1995 data center - W.Media",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEk4bXdEVmxjd040M3pTSTNXLXhzRUpkM1duemhxYnktOWUza3hzR3dJX25tV2c2b3BmcnpsMTNXSWNtMXVrbFNTN2FBSjNLeWlzS2JHWF90ZEQ2dm5BUnp4RDZhbFh0TnF3elFOcThZb3FodGZ5Ny0wM2FpTUQ4WS1Fdk51R0V6cDFCXy0xcEhHa3NTTW1z?oc=5",
+   "summary": "GreenSquare SYD1 opens first stage after adaptive reuse of 1995 data center    W.Media",
+   "publisher": "W.Media",
+   "published": "2026-10-19T01:55:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Tasmania Hands Firmus Deadline for Wesley Vale ‘AI Factory’ Proposal - The Urban Developer",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDdzSXlDMWpTbktjWU9WaHFaZnVIZElTR3JQVmtsUUpIOVZxdDcza25xU1BfUkk1Z2NCbFhWNTVQOXVvVmpFcG9RQVdzMUM0MF9KUXFtTHRhQXZIMmU5ZmFxV0dGYXY1TWlhVjhoM1FBU1RweXBDQnZjUmZ2RGNGVnN1eHlkOHgwM1FhT2duc0pEZFp1eGlRVnJfbEdtMzk2V25VaDg5Vnc?oc=5",
+   "summary": "Tasmania Hands Firmus Deadline for Wesley Vale ‘AI Factory’ Proposal    The Urban Developer",
+   "publisher": "The Urban Developer",
+   "published": "2026-10-19T01:23:34Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "New Hope and Malabar to combine - AFR",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnRpdDNrd1JhSmI4aV9TSVNkeWN5c3VWS3VfaHR6RXhhZHRQU0pYaVVOR2pQU1NlZFBxeXB3Mm1TU1JoODB2N3VtSG50MHgyMjNyd2V2OHNSQjF6ZmlvaFF4azFWRFdScF9PZTg2VXluT0xueFl1UWE0dXVkTHVveG9wdkp5UlFaaFZxMjhQdw?oc=5",
+   "summary": "New Hope and Malabar to combine    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T01:14:34Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Regal’s flagship hedge fund dives 19pc in a year; Challenger shares jump on TAL bid; Exec health trend divides doctors and coaches - AFR",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSmVHVXRxNFJSUUFtQ0N0N19KQ25sQ1h5SDhSWTJXV01LNDNQNG1Ec3dzN0FvZzVJSTdSb2V2WDJQSXRFbDJSb3RHS1kyNWFBOUY0enNlWmFBRkJ3T2xfaVdiTG9nRkVfbXNOREJJQ3dNVEZGMHlGZ1RCLWJMZmdCbC1zNUhWRlBRMXBnd2YwYzFRTnhnVE5HTXN2UjlQaUtDS2FZYVYzS3hqZlEwREhtMnRwNUVlOVY4WnZVQ0VfYXk2WU1lbFM2ZW1Dai10TWlxeWNqY1RLdmxRRzZCN2RoMFdfZHltX05qcjhwdnVWTTZlcUVxZDlmaHNMTVBVYVZKcVhWSURTZWt4S3dpeFVZUEZsYXN1dw?oc=5",
+   "summary": "Regal’s flagship hedge fund dives 19pc in a year; Challenger shares jump on TAL bid; Exec health trend divides doctors and coaches    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T01:07:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Operational Update - AFR",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnVrYUtrdnhiLTk2MkhVVFRzVHVTd2Uyc0hDQllKS2hVNVBPWWozQ2xkVmIxdWFFVGJJOEF4dm9Jb2VDVk5uTEp2ODJ2X2RYMTBjcE1oSnhmbjhTVTJfcVlndnp2VXd6c3F6R0xvU1NxbnhwQkx1aVc3cjFQbUIzbWNHM1dvcnZSNk5ESE9maw?oc=5",
+   "summary": "Operational Update    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T01:04:13Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Market Announcement - AFR",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWtidURpT3lIamdEZkRxdnhDSzZuYy1jUTdabC1SNzBJb0w1RFBfOUY0bGFnRHB4U29LN1VOcHhwQTlHVzJ3d0YxUm12ZXVNdkJGVkpNRlFYZU5wOHFVaGRtendXbUs0eUtwS0VvVmJOVmw5MnBzR2ZCS0EtTnBpTjhPZlo3ejg1NGozbzdDOA?oc=5",
+   "summary": "Market Announcement    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T00:52:10Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Australia's NextDC in trading halt ahead of update on Melbourne data centre power delay - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWGxoWlRTNDVZaUZqZGU3ck82T0drQjBWcUNxcG93c2RWS1RJdjFHS1Fwbno2cUgtdkYweGVobk1YaFVxN2o0Z2tnZ09UcHhUZTlrb1pmX3lxSDloSU15RzFpdGlKSkg2Rkd3WmRzejgwVFJWcTNOY200OFZCX1BHTVdJUngzSzRPYXA5R185NXRWekx4eGV3RTZiemJ1RkVIVUFUbUFaVDA5ek1EX0FweEl3X3htT04tT0M1c1BoV19YZnRuRDUtYTM3cHFZNHNQdFF5WVBXbG9KVlhnUjdvWXowZ0lMTTc5U21HX3JB?oc=5",
+   "summary": "Australia's NextDC in trading halt ahead of update on Melbourne data centre power delay    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-10-19T00:45:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NextDC warns of data centre delay amid power supply crunch - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTlQOGdnMjJjS3Z4UW5NekJBR0t4ZDNnbHc2Y1JuU1NrNmxNN1luYUY0eGJPdE9pWVVBaTZUQ2o1dGNycFF2QlpST0hmMEswSjZoZHdRTjJ3QVEyVXU5cjBNZzVmcm1GSE9kNUs1dS1GdjNiRkItSkZvdTFKcm8yanRkNEY2VnFGRmg0M0RfMmdYZzhZQVZoRFpIY0ZyV0ZnVzdZZUg4cGo4SVd1RXJ5Zk9DZzltNkZyRW40QWRfX1JtaGhUVFdtNw?oc=5",
+   "summary": "NextDC warns of data centre delay amid power supply crunch    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-19T00:03:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "$1.79b NEXTDC Data Centre Expansion Proposed in Horsley Park - Urban Digest",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRk5zYkJOQ2tCelZ2dnVCcXpNNmIzWC1DSXRsMUtrdEJ4VjFRMk5QSV9NQVVhVXhmdUM1WjZCZHptMkhCc2xvMW5manp4bVRILWhOOTUyelBhNTBLTF8zQklKdkhoZzhGcHAtam9qVjJXNmZkRFNWS19xMXdaNWliVnJWVjdydTJmb2ptZHQxeVBycW44aDRvYVVfa25JSV92aVRv?oc=5",
+   "summary": "$1.79b NEXTDC Data Centre Expansion Proposed in Horsley Park    Urban Digest",
+   "publisher": "Urban Digest",
+   "published": "2026-10-18T23:44:57Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "$3.7b Data Centre Proposed at Former Kurri Kurri Aluminium Site - Urban Digest",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTW44MGljNVFlRjRpUE9qN05jYjlwQmtRMEowcHE5X0tXQ25Ld0FFdzhOWVF4dHpkWWdRT0VFUGstdzBWdGxNMmZhWmJ0VlNobG1KdzltaVJfN212cXFPQXV5dEZuWUMyazNPOHhjQUsyUU9RQlJsWWNOSmg5LXZEbXFNUmk1aXRDNlRFQUlJczRMa0h4djNNYUsybTVqNUlkMVVGVlRKMA?oc=5",
+   "summary": "$3.7b Data Centre Proposed at Former Kurri Kurri Aluminium Site    Urban Digest",
+   "publisher": "Urban Digest",
+   "published": "2026-10-18T23:44:57Z",
+   "source_id": "gnews-grid",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Urban Digest Weekly: 50 NSW SSD Updates – 19 October 2026 - Urban Digest",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlpaR3FGVjdmaTNhak9OMWVYdDd0UnkyX2plY0hxRGhmb0NZZXJocFBzaGNlVXVlUEh3MUc3RTlUYU15U3YzUFBRb1Y5SUhNTTJaWEFlYzJ1Yl81SDc0TVZ2RFU1ZnF5NXgwZEpHcGh5c3BxWEQtWWtESmQxTkc2aFRtZzA1S1dQNXc?oc=5",
+   "summary": "Urban Digest Weekly: 50 NSW SSD Updates – 19 October 2026    Urban Digest",
+   "publisher": "Urban Digest",
+   "published": "2026-10-18T23:44:57Z",
+   "source_id": "gnews-grid",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "NextDC Requests Trading Halt Pending M3 Melbourne Data Centre Power Delay Update - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0tZbDAwX3hQdGdfd3VKN1lfZlV5Y1U4TWJDTE9Ncm1RTGt3TWNkcHZmbF9EUURyT1ZHQ1VtdWJWdXFjY21KczhuU2RFOFZtRTB0LTctN0UzeTdSYzV6VS1nZ3BCQUltNXZzWm83eEJZa1o5M0dRYy1RSWp2VjZEY3BRNTJJOVp3NmFOTEk2OGZpV25XM2NnZzB1VHV3b0R0WFJ6ZjBDR2l1ZGRCN1dHYW8zTkNKX0pMMnZyeWs0UQ?oc=5",
+   "summary": "NextDC Requests Trading Halt Pending M3 Melbourne Data Centre Power Delay Update    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-10-18T23:15:08Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Firmus peer faces a 43pc valuation haircut as AI pain spreads - AFR",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXBnWDluYjJNMGl0QzhCTmduMVIxNmg1cWlkazZEODFwZFRwbXFTZG54ZnQwdnh2V25YMVJhT3M2eVB5Z2dTMEtIMU8yQVBTNkVjWXd5bS1mc1VFcWQ3dmdhdFdFVVBjbXBKVlR2WFk5WnB6YXdmNDZvTm4xRkpZV2ZSVVFvX2JFY0VRTXNqdUFSb3pJejhwUFBoQkFkbVFLTDdVRnlZaUNxWndEeU5UT3BscVNiUQ?oc=5",
+   "summary": "Firmus peer faces a 43pc valuation haircut as AI pain spreads    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-18T23:14:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "Nextdc requests trading halt to weigh power-delay hit at Melbourne data center - Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVhpT29abmN2U2ZSVm81azZoeU1kNnhwdjhfaDU3eHk0UndFalhPM1VIWkZjcXFSVUVjcGFKTGdWSVVaQVBZOEVKOUNNVjBZQWtWbUEzRi1famdVQjVPM05vUHZaS3VTcXdLVmNkMWFHaDRCTUx1NFB1Vm9kaHp3cm5oZXhXcV9nd3R1N2lWcnBfdw?oc=5",
+   "summary": "Nextdc requests trading halt to weigh power-delay hit at Melbourne data center    Briefs Finance",
+   "publisher": "Briefs Finance",
+   "published": "2026-10-18T23:07:11Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "SHAPE Australia wins USD 557.6 million DigiCo data centre expansion contract - Prop News Time",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPek9pMFZaQzZ0TThoOE1ydEJVdnpZc0MtbW9zY2ROQmVuZXFGRlQ3aXBoQ2p3N1VETEFRX0ZtVWllalNLMFhfT3FzZkNFS1JMcDhLT3BKR1BxeDJacWx6dVhPNWJXdkVwWm5ST2hXUUhDbmhNblNHaTc3c3F1STE1ZXl4ZzJZdWNPWUNQVV9id2dfNVRFcGt0YmMxc2RfeUNLSWZjaWFESWRacnVka3NsT3RTUnRYak8wTU1HTTZPRDdCdHN4ek9R?oc=5",
+   "summary": "SHAPE Australia wins USD 557.6 million DigiCo data centre expansion contract    Prop News Time",
+   "publisher": "Prop News Time",
+   "published": "2026-10-18T23:04:17Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "The demand for power: Data centre forecasts surge past initial estimates - RSM Global",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXNJb3I0bEdFZU96LTItUFVDbjJpZ1FxaktkVmhabmFOaUhVUTR4Sl8yZTBoQ3U0a012RWRGMmFJM3N2TlhwSWNWMEhZMFZYWXZoZ2Y4aEtpX0g2cHE2VDlVOUZrT0tSWHkxYVJjNmJJc0J1Uko3R2hMdEsxVkoydGdGU1h6VWFJdUN2UFlyWWl0OWhjTENRbkRBeDZxWnhSa0diekhxcWM?oc=5",
+   "summary": "The demand for power: Data centre forecasts surge past initial estimates    RSM Global",
+   "publisher": "RSM Global",
+   "published": "2026-10-18T22:28:26Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
   {
    "title": "Topic | Monetary policy | Australian Financial Review - AFR",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80ZXdQYVRFekdjQWVOMWtjQ3ZXdnZWOWJpdmhaeEZnblhxSVBYWkxPcUlwTU1xYi1iRVA1eFkxZ3M5eWtwcmdLUjFHTzVtZTB5cjBvczhhdlE?oc=5",
@@ -135,6 +864,18 @@
    "first_seen": "2026-10-18T22:40:36Z"
   },
   {
+   "title": "RBA’s now talking tough about harsher rates for borrowers - AFR",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU29wbnZmcEJaSnhwcjQ3UVF3dkVac0d2UzJReFhwQUZKZnZIUjBKNGljR3BXSGktdVpfMDFPV29ybGNqQWhXV1J4MGxQUWhsSTVCVU8yUV83ZkJUYUpYNHhSY0dzUWpMdTl0VzlYenFjdE1jNEd3VkZxU2ZqdzQyenNHNGJlS3BoNGllX3ZOSzBQQllfNXp0VncxWDZjZ1JrYmRYSDllWnNCRXk4?oc=5",
+   "summary": "RBA’s now talking tough about harsher rates for borrowers    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-18T18:00:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "Is the Market Undervaluing Goodman's (ASX:GMG) Data Centre Pipeline? - Kalkine Media",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWVucDRYckJZUjhHRFRnbUE3YzU5aFBZVV9Ya2NLajNWdngwV0FsZ2x0Z25jMGFrQnNhMFUxWWVFWjR3VlFsRTZrRnlFeG9DMWZ0TWxQZVdaMVlFdnQ1Tk5VZlRvTU1VUEp4cm5lSWxKQWMwRnRmTGZGMXVsU3BZRVRic1Brc3RlUW1JSGYwelIxN0hSZnk5dUZhU1pfUjBpVUR5SW54ZkQxUW9PYThqSVZlYWF1S2dlb19maEdPaw?oc=5",
    "summary": "Is the Market Undervaluing Goodman's (ASX:GMG) Data Centre Pipeline?    Kalkine Media",
@@ -185,6 +926,18 @@
    "first_seen": "2026-10-18T22:40:36Z"
   },
   {
+   "title": "Fears ‘cracks showing’ in AI bubble - News.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcUd3QmJ4LWEyQ0Q1YkJtaF92RDNrVlMxWXpyeFJwNDA4d0p4VWdERXlaMzBuekJJYjFsX1J3cDlyUy1neldGeUVNN0RpOWNiWE1hTzFVUHlMd25KaVZVN3JxZEhMejQ3ZktGbkxMd2FYN0tNX3dHVEE0bkJDZ0diSDJXbWJMcGZfMmJjYUxGTWJvcFd2UE8ySGpMR0l5MFBxeDk4Y09UYjJ5UDMyNmhYMk85WDFpYXI5dmpnUS1fTEh0bmdmU0loc0RWd3draC1FM0EySi04UzhhZGtNdGR0Tm91a1ZSMlhnRzg5WGF1QnEtbkYzUnlTSkRQd9IB-wFBVV95cUxPcUd3QmJ4LWEyQ0Q1YkJtaF92RDNrVlMxWXpyeFJwNDA4d0p4VWdERXlaMzBuekJJYjFsX1J3cDlyUy1neldGeUVNN0RpOWNiWE1hTzFVUHlMd25KaVZVN3JxZEhMejQ3ZktGbkxMd2FYN0tNX3dHVEE0bkJDZ0diSDJXbWJMcGZfMmJjYUxGTWJvcFd2UE8ySGpMR0l5MFBxeDk4Y09UYjJ5UDMyNmhYMk85WDFpYXI5dmpnUS1fTEh0bmdmU0loc0RWd3draC1FM0EySi04UzhhZGtNdGR0Tm91a1ZSMlhnRzg5WGF1QnEtbkYzUnlTSkRQdw?oc=5",
+   "summary": "Fears ‘cracks showing’ in AI bubble    News.com.au",
+   "publisher": "News.com.au",
+   "published": "2026-10-18T04:10:49Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "Fears AI bubble ‘unravelling very quickly’ - News.com.au",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRkhINTRZZUlNbzFrY056RHByMzZwMl9yQXhIUWthUDRxSG5BWDcwaHJWZFlZdWRVcmR1Q0ticC1yblA3WUZYRDNFNGZnRTU1NVdka2xEUUgwMk9TTFlTMk1sdUtmWEJhbGtQeU5QbE9fLUl0ODBzU2wwSENkSzhlRnkxdTdjVW5pWmVpRWVjSlpNSFVIVjdmcG9HSGx4SHYwemoyNzByaThsLWtuZURDSUFzd0xmR01ja0I1OG5hQVJnSjNwczlRQjlvWHAxXzQ1Q0hMUkFzNkFYUXQ5WGJFYmhwNU9DTFRZZ1YwRkZZUEJldlM0ZUHSAfsBQVVfeXFMT3FHd0JieC1hMkNENWJCbWhfdkQza1ZTMVl6cnhScDQwOHdKeFVnREV5WjMwbnpCSWIxbF9Sd3A5clMtZ3pXRnlFTTdEaTljYlhNYU8xVVB5THduSmlWVTdycWRITHo0N2ZLRm5MTHdhWDdLTV93R1RBNG5CQ2dHYkgyV21iTHBmXzJiY2FMRk1ib3BXdlBPMkhqTEdJeTBQcXg5OGNPVGIyeVAzMjZoWDJPOVgxaWFyOXZqZ1EtX0xIdG5nZlNJaHNEVnd3a2gtRTNBMkotOFM4YWRrTXRkdE5vdWtWUjJYZ0c4OVhhdUJxLW5GM1J5U0pEUHc?oc=5",
    "summary": "Fears AI bubble ‘unravelling very quickly’    News.com.au",
@@ -195,6 +948,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-18T22:40:36Z"
+  },
+  {
+   "title": "ASX to brush off Wall Street carnage as AI rout deepens - AFR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW9sWUZIcERQWWR2RmlqTlAzZTdlc0tZZ1pHV0tJVkJybXpPdW1pUG5kTXhvTHYwakNrNi1mZVBvdXJzOXpVLVZISzFsSmZpdGlvNnFrQVFKZEU2MVRpeXllc0NfUlBMS3FfZVZ6NkxVYnBrVDFYQU16QnM0SU1Sdlg4TF9ndHBXaWpsY3E0emFpbUVUOU0wODR5MmtTaWQzRUtpeEJ5QkgyNmJzT2tPQUVRRjI?oc=5",
+   "summary": "ASX to brush off Wall Street carnage as AI rout deepens    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-18T03:26:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Wealthy Chinese turn on LVMH again, this time over Tiffany - AFR",
@@ -451,6 +1216,18 @@
    ],
    "states": [],
    "first_seen": "2026-10-17T22:45:27Z"
+  },
+  {
+   "title": "Megaport Limited (MP1.AX) stock price, news, quote and history - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tWU9aa3duOEtUNGhUdzVmc0JwMFFhdnNGMEJETmNyUFJjcGlVWmRBRXBXSVJfbFRmRnUtWmtrbGJNOUprNUVFNUowWlc5SzM3ZDRGNw?oc=5",
+   "summary": "Megaport Limited (MP1.AX) stock price, news, quote and history    Yahoo Finance UK",
+   "publisher": "Yahoo Finance UK",
+   "published": "2026-10-17T02:03:51Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Topic | Barrenjoey Capital Partners | Australian Financial Review - AFR",
@@ -759,6 +1536,30 @@
    "first_seen": "2026-10-18T22:40:36Z"
   },
   {
+   "title": "ALD News, Analysis, Announcements & Results | Ampol Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95M3RLdDZEdUJHZ2s4aTh2TlByVVVQTkpNTWNyeGx2ODFNQmRETXlYT05yUU9wU2tLRFkxamJESkpKeVdPNTVpM25zNA?oc=5",
+   "summary": "ALD News, Analysis, Announcements & Results | Ampol Limited    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-16T05:33:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "SFR News, Analysis, Announcements & Results | Sandfire Resources Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qTm1ia21RZENucEk4V3dYZlZYcmI4eWppVEw4aWNRMXUzWEJnb3NSbnJGemNTUDFraWJJZmhDcEtVN2RJN1h2MndQYw?oc=5",
+   "summary": "SFR News, Analysis, Announcements & Results | Sandfire Resources Limited    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-16T05:33:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "SUL News, Analysis, Announcements & Results | Super Retail Group Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pQVVVdkRzMDVIYkJpbTNEcU1VQ2hzYUdfQkZOVllhT2V2ZGxqMFdMeXZ6M2Vja0tlWExJRDVBTW01RV9FTkx0RjBscw?oc=5",
    "summary": "SUL News, Analysis, Announcements & Results | Super Retail Group Limited    AFR",
@@ -833,6 +1634,18 @@
    "first_seen": "2026-10-18T22:40:36Z"
   },
   {
+   "title": "360 News, Analysis, Announcements & Results | Life360 Inc - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ta0FhczJPVVdKY29qbUhLc0N4aVN0MFpTOTAwMzFzLUsxZ0F1X29ydENKUkoxTExzZWczWVJaU3BlN2RMOHJyX21qZw?oc=5",
+   "summary": "360 News, Analysis, Announcements & Results | Life360 Inc    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-16T05:19:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "STO News, Analysis, Announcements & Results | Santos Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0U2JfQlk1VTBEdGJYVmlCMXBqRTFERjM5aDRrRG1FQ1JjTHRlVzFBMS03NENYQ2kyaFlCTGlRWjJsbnlSRzdoWjRNWQ?oc=5",
    "summary": "STO News, Analysis, Announcements & Results | Santos Limited    AFR",
@@ -881,6 +1694,30 @@
    "first_seen": "2026-10-18T22:40:36Z"
   },
   {
+   "title": "SKS Technologies shares tank 20% after Firmus IPO flop and directors' $94M sale - The Motley Fool Australia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWm9yM2ZPZ3VaRUxMUmRUUFlVR3EzM3FCRWFtMEpqM2M0bFEyZ2sxbzJnMndtWXdiRGNWWWJCREwwZWN5cGJDMlVfWFlpbzNNVk1GblRPSUNIX0dlNnhqcG5NaUYyM0hZRGNQZzR6T0Nld1k5c09RdHE4aTh1bEhCUGhYVWZ1Mlc4b2J0cGNUNXhZdkw2WlVzTWZWaVF5OFU1UUI4OTZYbEg0MDQ5YnVidzJR?oc=5",
+   "summary": "SKS Technologies shares tank 20% after Firmus IPO flop and directors' $94M sale    The Motley Fool Australia",
+   "publisher": "The Motley Fool Australia",
+   "published": "2026-10-16T04:59:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
+   "title": "CCP News, Analysis, Announcements & Results | Credit Corp Group Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5peFJyYXZIZkRYdHc2dHZJM0FrNkNYdmNGWjFQZlBrM0d3VUY3NVVlSVJGUWpWSmVNaHVWY0hrZmRWaUpoNXc4VVJYcw?oc=5",
+   "summary": "CCP News, Analysis, Announcements & Results | Credit Corp Group Limited    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-16T04:59:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "The data centre IPO debacle that sparked a market meltdown - Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmk5ejd0SFBvajRsVWlCUWR2OFpiT0dfLUtrQ0NlOFo3MlJZR2IxM2JCZ3I1V2tMNUk5OGpGOWJ0VllLR1Bycm5GZmJhOHlCTVVTcTJRSGx6STlObHJmN3RrcmZ2cUFKaW4zR2kySHZERFBLQzRuQmdjN19MbF80bWw2WFM?oc=5",
    "summary": "The data centre IPO debacle that sparked a market meltdown    Financial Times",
@@ -917,6 +1754,20 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-16T23:06:34Z"
+  },
+  {
+   "title": "AGI News, Analysis, Announcements & Results | Ainsworth Game Technology Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bd3FJNnBMaWJVM2tEWmJUbFZjX1N1T2FRNGVabXNOYnd1YldwVHVpUzd0c1BuekJxaDd1bnEtMEdFdGk5OF9NeDNHUQ?oc=5",
+   "summary": "AGI News, Analysis, Announcements & Results | Ainsworth Game Technology Limited    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-16T04:40:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Australia’s AI data centre boom hits a snag as NEXTDC and Megaport shares tumble - Investing.com Australia",
@@ -1159,6 +2010,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-15T21:18:46Z"
+  },
+  {
+   "title": "Firmus pulled a US$5 billion float because the ASX would not pay for the AI trade on US terms - Investor Strategy News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYlpYdW5fd0NSODlDV2lidlFsdHVmR2ZzdTFLRkhZQ3h3Zy1EZlpsMGFwdnEyLXNndmxjTzFiMmgxSU1MWTVSNG5ORWoxd2g0VE5KVDZlU3VFVnRva1dzcE5UT01TdUIwOHJfdGZoQjRMb0p0MWNvWmk4MkZHVnF4Z0xSVU5NUTJ4SU1UOE9oVFh0TDlBR1NTNUo1RkxDRWcwRzI4TGZRUHF3bU42YnJFS0p3?oc=5",
+   "summary": "Firmus pulled a US$5 billion float because the ASX would not pay for the AI trade on US terms    Investor Strategy News",
+   "publisher": "Investor Strategy News",
+   "published": "2026-10-15T20:04:46Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Kanika Sood - AFR",
@@ -1542,6 +2405,18 @@
    "first_seen": "2026-10-15T21:18:46Z"
   },
   {
+   "title": "Kurri data centre to create 250 jobs as AI boom spreads amid rising opposition - inkl",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa01JeXdXYnRPdzRjNndhVnlmNkd3Qzl6WUpOX3VrQkw0QmV4V2Vuc1BfMU1aVFBMNWZRdEhSZk54R1ZNWUx5TU1JaFp4eE9NWDhuN2Uza1N2bW1tSHBYb1hxZDR6a3d0MEhVNXBIWEdlYk5zYzFnc0l1VXJJRHNYS0NUYTVsTzA0dlBpTXVJckthZ1dwTlplZ2xzeXJINXliRDNSRTRWcw?oc=5",
+   "summary": "Kurri data centre to create 250 jobs as AI boom spreads amid rising opposition    inkl",
+   "publisher": "inkl",
+   "published": "2026-10-15T06:15:29Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "Inaugural Sustainable Data Centres Forum on 17 November: Panels, curated discussions and more - Architecture & Design",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnBCdkljNEtteW1sWmV0OE5LaTVobmRtNUtvUmRXa0VrZGM0MjFyczZzWTFwcl9rR1RRUmlmRy1XeWJ2MHpER0dYZWYtSHJ3NENmSWcwcElFaDJKbXBqVW9McXVMRm1jUEYxSEY0dzk0My14S1FHWlNyZ1NVRnF2b29reTFGMGxwTkNmNDFzVGJURGdxLTFNeFJkMWhqMjF5Y3FNbUNzWlg5MmExUTRXS2k0U1EyNjA?oc=5",
    "summary": "Inaugural Sustainable Data Centres Forum on 17 November: Panels, curated discussions and more    Architecture & Design",
@@ -1720,6 +2595,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-15T21:18:46Z"
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: Firmus CEO's Aussie scapegoating has iota of truth - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclc2dTRfN1RYdVJnel9qU3BTVW9tbFZtenRVa3kzTG1OWXU0aTYzeHo0MUpVdHk5TGRsc2Q5U2U5bGRUeTF0V1Mxak1maGMybWtKWFFiQVVmRVl1TUhGR3lUQ0VuTUtaeVhvZ0NxeV9JUnRnTGh3VlJndi0yZ2d3dU9xMlZyQjBkaEk5VHZ0ZjZEa2l1ekpJbm01X3RmWXBKdmNSRlVCQWc2WGc?oc=5",
+   "summary": "Breakingviews - COMMENTARY: Firmus CEO's Aussie scapegoating has iota of truth    Reuters",
+   "publisher": "Reuters",
+   "published": "2026-10-15T02:57:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "‘Wiped out’: Ominous AI bloodbath hits - News.com.au",
@@ -2773,6 +3660,18 @@
    "first_seen": "2026-10-17T22:45:27Z"
   },
   {
+   "title": "French $2.2b buyout a ‘black mark’ for Orora board - AFR",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY01LNkNVNkdSRFVVU3VsTHIxcmFyMjYySDkyTFV4QUZ1N2VkZ2xfS0dEeXZId2YtUU9rcFRfRndYZkRJMXpvVGRzM2hxMFF6NWVXSl96RzdOS1JwM3AzVFA0MmFiLTNadGoyNWZqNEF4dG5VbmtkWjZXVE45NGNjM0dxSXc5Vm1FNVA1ZFVyc3pabzM1VzB0QXhRb2hPRHl1ZW5JZXBRLVhFWHZN?oc=5",
+   "summary": "French $2.2b buyout a ‘black mark’ for Orora board    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-14T02:19:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "AI data centres to 'pay their way' via community fund - Yahoo News Australia",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxVDRmOWprb2drb2hZMFEzLXVZQl9UbUFvNVdlYlUtS0NwSW9fUmZDVjg1YVZqajd3dXJzNUliaGpWdEVGWFpfSExHQnhwdTYzaVkzOWZDdHlQS2FYWklOU19pZnJabU1FN1RVOUZpaG01QQ?oc=5",
    "summary": "AI data centres to 'pay their way' via community fund    Yahoo News Australia",
@@ -2971,6 +3870,20 @@
    "first_seen": "2026-10-17T22:45:27Z"
   },
   {
+   "title": "Firmus Technologies Halts ASX Float, Eyes Nasdaq - Sharecafe",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFZueXdDUW9zMUR0MFZrVzlHeElxcnVLMlZpVGppaE5Cd3pwbjVOREVrdnB4RlhfWGQxbG1kMVZQcEVJR0s1NWgxT19fMXNmUWtqdGZPbzlvcDR3SnZJWlEwQ0NSQ0Iyd3I1SDI4bU1kRi1aOU5uR1VfSmt6NkYxa2FzUmtXVGozN0pnWTBmSWFCZw?oc=5",
+   "summary": "Firmus Technologies Halts ASX Float, Eyes Nasdaq    Sharecafe",
+   "publisher": "Sharecafe",
+   "published": "2026-10-13T21:23:01Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "Firmus Technologies"
+   ],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "Morgans plays host to Firmus’ $44b funeral - AFR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2RxNUo0alpWbmRjemxMaHFYelZ6OEgtSUc5ZUxUa2M4dkhKbzRxTTN6WUNwLTE2anhlNk9EdmxxWkUyNG9jWlA5ZW15X2NNOFF1UV9zQXFrNWZLQWhzbEZudzZpMi1TS0RrN1dwQnpZeTEwZC1CNVpDOXREWDdtV2VUSjFYN0hSMktRTm80MmNFZw?oc=5",
    "summary": "Morgans plays host to Firmus’ $44b funeral    AFR",
@@ -3103,6 +4016,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-13T21:15:03Z"
+  },
+  {
+   "title": "Sharma takes Firmus flop to ASIC - Capital Brief",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOERscjI2MTFhZUplMHcwNjYxdTlMaEpmZDdHUkxYWG45cmtBU05INVdvdjRWcTM2bWk2RnB0ekdoT0NkQUwwcG03cVVSYVFHRmxTR01YcFZDTHNhMExWSENFWVZCcTRHbmRyS1gwN2Z3em1laC1HUlp4NDVFTnNFUzZJcDdBTVdHLVk0cjBjYkl5NWdpX3Z6akZ3RGx1MTU3UnljUTRISnpROXdJMnlN?oc=5",
+   "summary": "Sharma takes Firmus flop to ASIC    Capital Brief",
+   "publisher": "Capital Brief",
+   "published": "2026-10-13T19:44:29Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Blackstone-Backed Data Center Firm AirTrunk Reportedly Delaying $1.5B IPO - Bisnow",
@@ -3254,6 +4179,18 @@
    "first_seen": "2026-10-13T21:15:03Z"
   },
   {
+   "title": "Firmus IPO collapse ends Australian AI success story - Oz Arab Media",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xejZqbTk2X0dGOW02dGxrckVBUmdwNUZ3R0sweWF5bV96bHpienJ4MVU3U1VBb3Z4U0dEaGg4NmxmRnEtb0hhVHNWWldJdUJ4ZkpLYjdXa2JXOFdtTTZpOTJyRFB6T28yN1dXTEt4ZDNMaDZoMEZ3UGdkLTBPMkU?oc=5",
+   "summary": "Firmus IPO collapse ends Australian AI success story    Oz Arab Media",
+   "publisher": "Oz Arab Media",
+   "published": "2026-10-13T16:00:34Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "Quantum tech boosts Schneider Electric energy forecasts - datacenter.news",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVNmazR3d1lCanFUVGx6Uk9lM3lYWEtja00wNkI0bVFtR1c5Rm93RjVyd292anFMR0NqQ1FXTG53Nlo3Sk9yOXRTLThjZUduT2lNZmhoNlQ1OVl0dHUtWWx0Wm0xbG8tVTBuQzJmU21vQzZnRWM3WWlfWHlxdVFFeFFLemhJVHI4NXU1T0x3?oc=5",
    "summary": "Quantum tech boosts Schneider Electric energy forecasts    datacenter.news",
@@ -3302,6 +4239,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-13T21:15:03Z"
+  },
+  {
+   "title": "NTT to build $6.3bn data center for Anthropic in Japan - report - Data Center Dynamics",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTNXa2NIcUlBVmhHRFVEOHFtYWdiUFdVa3RkbG5scmJQVnVYRTc1VGZJbHlhZHNwbUJxdXBGNzRJYVBraFh0cGZoV3pvNHZvMVE0ekNCUjZaMThfWGVOemRGQklDU1JQemtNOWV0bGtsVUJqUFdyazBXMlI4RFJHVUhyUnJud3dzWHJ6dzdzUjlQWko0c1g5dTQzci03Yk44WFo3N0Vn?oc=5",
+   "summary": "NTT to build $6.3bn data center for Anthropic in Japan - report    Data Center Dynamics",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-10-13T12:48:37Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Data centre operator AirTrunk is said to delay US$1.5 billion IPO - The Edge Singapore",
@@ -3368,6 +4317,18 @@
     "QLD"
    ],
    "first_seen": "2026-10-13T21:15:03Z"
+  },
+  {
+   "title": "Talking Finance: El Niño and the Firmus Flop - www.intelligentinvestor.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObE9UMXk2cGpZRlFRYm1lUmRTNTZPSHRIQ2ZITTJCZ2xYV1BzYnl2YXpkNV93VHJjMjlMUGtqeEJTTW01UTJzZmplc3lvbjB1MjJXSkQ1X2l1WEhSTHNoY21iZGRNTzQ1LThRRVdid3ZUTGlZUjlvVEgyZXZucy05eVJZeUlFWkVIVW1JNTloREo0U0V3Q1QwSC1feXdjN3BxbWJvMVZUZDE?oc=5",
+   "summary": "Talking Finance: El Niño and the Firmus Flop    www.intelligentinvestor.com.au",
+   "publisher": "www.intelligentinvestor.com.au",
+   "published": "2026-10-13T09:02:34Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Bonds, anyone? Investors swap stocks for debt as rotation begins - AFR",
@@ -3491,6 +4452,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-13T21:15:03Z"
+  },
+  {
+   "title": "20261008_BOE_605 Template.xlsx - AFR",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEhLbUlBanFGb3Z6RGVpX09NR0VqZVpEMWJzeERKaUxaYlM3Q3M3X3ljRGNMRWxyczNZUkVTQjlWOVVTVW4xYW5jRnU1UHNpR0JqTm1KZ0dWRmQzSXhfMDktZHVQNWZITlY1YVA0RTIyUzU2SzBTVXNKVnNNd1lYU01zRWVKenA5WUhlY3NsSQ?oc=5",
+   "summary": "20261008_BOE_605 Template.xlsx    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-13T07:10:50Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Anthropic open to reserving AI compute for government priorities - AFR",
@@ -9302,6 +10275,18 @@
    "first_seen": "2026-10-12T07:22:17Z"
   },
   {
+   "title": "NIC News, Analysis, Announcements & Results | Nickel Industries Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GV0RpYldKdnl0akFpWU1SUm5XX3UzT0s4Mk1VVFFKX19raGswWHZfLVExRUJ0a3pOS0JoMFNORkR0QnJyVDVsZHdrRQ?oc=5",
+   "summary": "NIC News, Analysis, Announcements & Results | Nickel Industries Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-11-07T17:30:04Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "PEN News, Analysis, Announcements & Results | Peninsula Energy Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZOVIwRXZab3BFNHNHUVItaGMxSFJlbzN4RlBPZ2ZwaG1aa0NRaGNMVjNEM2JqeTAyOWRKa012OHBMMTV6WnF1X1JVWQ?oc=5",
    "summary": "PEN News, Analysis, Announcements & Results | Peninsula Energy Limited    AFR",
@@ -9350,6 +10335,18 @@
    "first_seen": "2026-10-15T21:18:46Z"
   },
   {
+   "title": "MGX News, Analysis, Announcements & Results | MGX Resources Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xc1JCR0hEbUgtLTBzZGdPOVp3em1qM0lITXRTOU1Pd0NNZXBkZklsM1NLY3puRTFGVEhEZHpWaHdBaTRPdWJBbVlUMA?oc=5",
+   "summary": "MGX News, Analysis, Announcements & Results | MGX Resources Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T00:08:43Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
+  },
+  {
    "title": "CIP News, Analysis, Announcements & Results | Centuria Industrial REIT - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43REloUjRlQXFlUzV0Q2pFZEtaTjRIUkZyT0FjRmZhbmpFSm9ya1AwenRiSTRKUThOQ1BfVFFqM3A0c2Vibm9rOVFRTQ?oc=5",
    "summary": "CIP News, Analysis, Announcements & Results | Centuria Industrial REIT    AFR",
@@ -9360,6 +10357,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-16T23:06:34Z"
+  },
+  {
+   "title": "WGN News, Analysis, Announcements & Results | Wagners Holding Company Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iMGRnRVdMalZUVG54LXZOVzNwNkVlV0lsc3RReFUtN0xuTmpvVll6cVBCdGtkMEFjbmhOdW9oWXFNSzVxYUpWTFZ0aw?oc=5",
+   "summary": "WGN News, Analysis, Announcements & Results | Wagners Holding Company Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-19T23:35:52Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-10-20T00:02:00Z"
   },
   {
    "title": "Markets Data | Euro Stoxx (SX5E) | Charts & Quotes | The Australian Financial Review - AFR",
