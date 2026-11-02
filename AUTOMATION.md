@@ -8,7 +8,7 @@ cannot supply.
 |---|---|---|---|
 | Every day, 21:00 UTC (07:00 AEST / 08:00 AEDT) | `build-deploy.yml` | Collects the day's Australian data centre headlines and appends them to the archive, rebuilds all JSON from the workbook, redeploys the site | No — news only |
 | Mondays (same run) | `build-deploy.yml` | Refreshes transmission lines, substations and submarine cables from Geoscience Australia and TeleGeography | No |
-| 1st of each month, 22:00 UTC (09:00 AEDT) | `monthly-review.yml` | Reads last month's headlines, works out which facilities and operators they concern, and opens a GitHub issue listing what probably needs changing | **No** — it only writes a brief |
+| 1st of each month, 22:00 UTC (09:00 AEDT) | `monthly-review.yml` | Reads last month's headlines, works out which facilities and operators they concern, opens a GitHub issue listing what probably needs changing, and opens a new time-stamped edition of the workbook for those changes to go into | Creates the new edition; **changes no figures** |
 | Every push | `build-deploy.yml` | Rebuild and redeploy | No |
 
 ---
@@ -63,6 +63,19 @@ Run it early or over a custom range from **Actions → Monthly data review → R
 optional `since` and `until` dates.
 
 Each brief is also committed to `review/YYYY-MM.md`, so you keep the history.
+
+### The workbook rolls with the review
+On the 1st, after writing the brief, the job copies `data/source/<PREFIX>_<YYYYMMDD>.xlsx` to that day's
+name and commits it. The next build moves the superseded file into `data/archive/` and rebuilds from the
+new one, so versioning and archiving need no clicks from you. The review issue names the edition to edit.
+
+The site's **Database as of** stamp is that filename's date — not a cell anyone has to remember to update.
+Upload a workbook with a new date and the header follows it; the Meta sheet's `data_as_of` is only a
+fallback for a file whose name carries no stamp.
+
+The roll is skipped when the review queued nothing, so a quiet month leaves the stamp where it is: the
+date never advances on a database that has not changed. The new edition starts as an exact copy of the old
+one — same rows, same figures, one extra Changelog line recording the roll and what the queue contained.
 
 ### What it deliberately does not do
 It never edits the workbook, the JSON or the site. Capacity figures, stages, ownership and regulatory
