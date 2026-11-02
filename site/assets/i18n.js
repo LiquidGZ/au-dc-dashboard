@@ -1,7 +1,7 @@
 /* UI strings. Record-level text (descriptions, step details…) lives in the workbook as *_en / *_zh columns. */
 window.I18N = {
   en: {
-    data_as_of: "Data as of", tab_overview: "Overview", tab_map: "Map", tab_regulation: "Grid connection regulation",
+    data_as_of: "Database as of", news_updated: "news updated", tab_overview: "Overview", tab_map: "Map", tab_regulation: "Grid connection regulation",
     tab_stakeholders: "Stakeholders", tab_news: "News", tab_data: "Data & sources",
     chart_state_stage: "Full-build IT load by state and stage", chart_state_stage_sub: "Planned IT load (MW) where disclosed, else the operational figure; projects that publish only site or generation capacity are excluded",
     chart_stage_mw: "Full-build IT load by stage", chart_stage_mw_sub: "Sum of planned IT load (MW) for tracked facilities; planning-stage figures are announcements, not commitments",
@@ -48,7 +48,7 @@ window.I18N = {
     "archive_since": "archive since {date}",
   },
   zh: {
-    "data_as_of": "数据截至",
+    "data_as_of": "数据库截至", "news_updated": "新闻更新至",
     "tab_overview": "总览",
     "tab_map": "地图",
     "tab_regulation": "并网监管路径",
