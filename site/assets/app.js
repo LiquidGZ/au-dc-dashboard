@@ -76,7 +76,12 @@
     $("#nationalSummary").innerHTML = rich(L2(D.meta, "national_summary"));
     $("#footerOrg").textContent = `${D.meta.organisation || ""} · ${new Date().getFullYear()}`;
     $("#disclaimer").textContent = L2(D.meta, "disclaimer");
-    $("#dataAsOf").textContent = D.meta.data_as_of || "—";
+    // Two stamps, because they move at different speeds: the database is refreshed by hand when
+    // the workbook is re-researched; the news feed is refreshed by the daily build.
+    const newsDay = (D.news && D.news.fetched_at ? D.news.fetched_at : (D.build && D.build.built_at_utc) || "").slice(0, 10);
+    $("#asofLine").innerHTML =
+      `${esc(t("data_as_of"))} <b>${esc(D.meta.data_as_of || "—")}</b>` +
+      (newsDay ? ` <span class="asof-sep">·</span> ${esc(t("news_updated"))} <b>${esc(newsDay)}</b>` : "");
     Chart.defaults.color = cssVar("--text-2");
     Chart.defaults.borderColor = cssVar("--border");
     renderOverview(); renderStakeholders(); renderRegulation(); renderNews(); renderData();
