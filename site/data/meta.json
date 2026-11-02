@@ -4,7 +4,7 @@
  "site_subtitle_en": "Facilities, grid and fibre infrastructure, connection regulation, stakeholders and daily news",
  "site_subtitle_zh": "设施分布、电网与光纤基础设施、并网监管、行业参与者及每日新闻",
  "organisation": "MAI Capital",
- "data_as_of": "2026-10-07",
+ "data_as_of": "2026-10-12",
  "disclaimer_en": "Compiled from public sources for research purposes. Capacity is IT load (MW) as disclosed by operators or reported by reputable media; a few projects publish only site or generation capacity and are marked in the capacity_basis column and excluded from IT-load totals. Undisclosed values are left blank rather than estimated. Verify before relying on any figure.",
  "disclaimer_zh": "数据汇编自公开资料，仅供研究参考。容量口径为运营商披露或权威媒体报道的IT负载（MW）；少数项目仅公布场地或发电容量，已在 capacity_basis 列标注并从IT负载合计中剔除。未披露的数值留空而不作估算。引用前请自行核实。",
  "national_summary_en": "Australia's data-centre market at a glance (end-2025 operational base, October 2026 pipeline).\n- ~1.4-1.5 GW of operational IT load across ~160 facilities at end-2025; Sydney ~0.9 GW, Melbourne ~0.4 GW\n- AEMO tracks a 5.4 GW grid-connection pipeline of >5 MW projects (NSW ~60%, VIC ~40%); Transgrid alone reports ~20 GW of NSW connection enquiries\n- JLL puts the national pipeline at 16.2 GW and about A$155bn of investment; DC Byte counts 21.6 GW announced, ~3.1 GW committed\n- Credible operational capacity by 2030 is ~3.2 GW, so most of the announced pipeline will not be built\n- Policy, not capital, is now the binding constraint: Victoria's Sustainable Data Centre Action Plan, Queensland's move to State assessment and the Commonwealth's proposed mandatory standards all landed in late September 2026",
@@ -15,5 +15,6 @@
  "map_center_lng": 141.5,
  "map_zoom": 4.4,
  "news_days_to_keep": 90.0,
- "news_max_items": 300.0
+ "news_max_items": 300.0,
+ "workbook": "ADC_Master_20261012.xlsx"
 }

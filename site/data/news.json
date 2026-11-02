@@ -1,25 +1,25 @@
 {
- "fetched_at": "2026-11-02T06:35:18Z",
- "added_this_run": 23,
- "total_items": 1663,
+ "fetched_at": "2026-11-02T06:58:54Z",
+ "added_this_run": 4,
+ "total_items": 1667,
  "earliest": "2019-03-19",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
    "in_feed": 100,
-   "new": 3
+   "new": 1
   },
   "gnews-dc-au-2": {
-   "in_feed": 57,
-   "new": 5
+   "in_feed": 28,
+   "new": 0
   },
   "gnews-operators": {
-   "in_feed": 100,
-   "new": 8
+   "in_feed": 96,
+   "new": 2
   },
   "gnews-grid": {
    "in_feed": 9,
-   "new": 1
+   "new": 0
   },
   "gnews-zh": {
    "in_feed": 0,
@@ -34,13 +34,13 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 71,
-   "new": 6
+   "in_feed": 69,
+   "new": 1
   }
  },
  "by_month": {
-  "2026-11": 32,
-  "2026-10": 1539,
+  "2026-11": 33,
+  "2026-10": 1542,
   "2026-09": 53,
   "2025-07": 1,
   "2021-10": 1,
@@ -57,6 +57,18 @@
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Westkon Precast backs Data Centre Build Expo - Inside Construction",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGM0NS1kekFtXzBLdDVrZThFRkJyY05qNjNwYmk1VTRkZXVNdVgyYzNxQm5ORFEwVElyMnJzWU9xOFZCSnI3RFBpQ0JMSkhyZWs5UFJfelpseTB0dEhxLVIzdDhZNnRPUHRLYTVtUkVMMERzbGxpNmlUYTJ3cDBMWnVzTGpkbzF4cERB?oc=5",
+   "summary": "Westkon Precast backs Data Centre Build Expo    Inside Construction",
+   "publisher": "Inside Construction",
+   "published": "2026-11-02T06:52:12Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T06:58:54Z"
+  },
   {
    "title": "Australia’s 1GW Project Ares Data Centre Faces Regulatory Delays in the Northern Territory - Construction Review",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWwwbzdwRGk5TkQ0M0lxcVB6bGZyWllLSnUyMzZWODh4MW85T2x6dHV4d2dSQ21zdXM2RHBSVDk0c0txVThmQWM0TFZSZ1c3ekQ2NWI5LXc4LXp6Vm9kdkYtX0h0SVVCQkp6eWptS0hUTkI2Q0FyRDFhamtrVUJhTmhZcXFyUFIxM3FFS21KM3dzSHhEUnhOQWMzcHdXdzBaMjNwdWNMcEVWSnBRS3pVSS1pbXlqWTFaMDFTRGZCTkoxRU1mbGc?oc=5",
@@ -904,6 +916,20 @@
    "first_seen": "2026-10-31T00:14:46Z"
   },
   {
+   "title": "Has NextDC (ASX:NXT) Found Its Floor After the Power Delay Shock? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWlqWG4zemVCdDdTa2lVTFE1dERycGpocTBtd3AzVFRaaEliOXpST2Y0b0w2b0tCY1EyMXp4MElOaGtyOXlRRC1SYy13cDQ1VkctVHFFVGZ0RFpvMVE0a1ZCNU9fRVlMMU1jMzh5MzJPdzd1Z296aURKMmJVVWhzel9mME9zNV9rR2tOQzhHeWp1c0tfYktMZ2tFLUJrTktzZHQ1bEpyWE9Md3lsajRVS25VcEJJdF9OeXpzag?oc=5",
+   "summary": "Has NextDC (ASX:NXT) Found Its Floor After the Power Delay Shock?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-30T11:35:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-02T06:58:54Z"
+  },
+  {
    "title": "DigiCo Infrastructure REIT (ASX:DGT): Data Centre Expansion and Capital Recycling Shape FY26 - Kalkine",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2RHZW1YMlVQMFo3eE1LdjQ0OWdTOGl5VXFoVW9KRHpZYWJRNXJMRDMxTlhkRXVYTEpJUHZxVmQ2VUxpczZEcHQ4VGNyY0Y2SlNycHB4V2RsZVpMNHRNVnBMMVlOSHJmT1lSMzRQMUlsRDBDOGh5cDljcVVKS0hCdnpmQ19oaUxVcVp6cjBXWEdZU3NITWN6MWJpbVJHeTNtSGo5bGlPWUh2OTN5eVJQaWxTeEFZekEzQmgydWtkQzlMbUFEckE?oc=5",
    "summary": "DigiCo Infrastructure REIT (ASX:DGT): Data Centre Expansion and Capital Recycling Shape FY26    Kalkine",
@@ -1117,6 +1143,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-31T00:14:46Z"
+  },
+  {
+   "title": "DXN Share Price History | DXN Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01SDZnTURCblVEUjR4SEZfeUhhOGpXTWg5TnJhNFd6YjFyWGNvN2JLWl9adlFmSTNubzExbDdkV2x4eTJTaHVuZUdWWXlYRFRVRHpuZGgyakY2aUJLQ3c?oc=5",
+   "summary": "DXN Share Price History | DXN Limited    AFR",
+   "publisher": "AFR",
+   "published": "2026-10-30T04:58:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T06:58:54Z"
   },
   {
    "title": "‘He ran it for himself’: How Trump lost the voters who built his base - AFR",
@@ -1907,6 +1945,20 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-30T00:29:37Z"
+  },
+  {
+   "title": "Is NextDC (ASX:NXT) Priced for a Rebound as Guidance Is Cut and Leadership Shifts? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkFpbkpDUDBzZkNQbW9VWmNJVnVTWEprbkM5UFBNekRGRmxnZGRhbXVwck5raHR5Yk5ocldjSFlQU2xza0dzVGZFRmJFQ3pLSThlem91cnA0WXFEZXpzOU5hVkNabTEyUVd3NUNiVkZOb3IxNFRjNFE4M2JNZ01VVlAwS2JDeXdUXzlrcXVKVmhpVm1hY0lJbnZ0TDFRQ1BjT3VpNE1jRGJNU05LOFJWY2FBYndfTXFDYlhJVnNhSDRKUQ?oc=5",
+   "summary": "Is NextDC (ASX:NXT) Priced for a Rebound as Guidance Is Cut and Leadership Shifts?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-29T05:31:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-02T06:58:54Z"
   },
   {
    "title": "Australia’s data centre boom is on a collision course with the nation’s energy gridlock - Capital Brief",
