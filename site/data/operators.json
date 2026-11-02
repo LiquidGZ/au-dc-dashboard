@@ -16,8 +16,8 @@
   "au_facility_count": 5,
   "announced_investment_aud_bn": 12.0,
   "key_customers": "Microsoft, AWS, Google, Meta, Oracle (hyperscale wholesale; customers not formally disclosed)",
-  "background_en": "AirTrunk is the largest hyperscale wholesale data centre platform in Australia and APAC.\n- Founded in Sydney in 2015 by Robin Khuda; bought by Blackstone and CPP Investments in September 2024 for A$24bn.\n- Pure wholesale model: sells multi-hall capacity to the global cloud providers.\n- Five Australian campuses (SYD1 121MW+, SYD2 158MW+, SYD3 330MW+, MEL1 276MW+, MEL2 354MW+) totalling 1.2GW+ operating and planned.\n- Kemps Creek 1.2GW under NSW assessment; a 540MW, A$3.7bn Kurri Kurri SSD was lodged in September 2026 on the former Hydro Aluminium smelter site, with a A$37m community package.\n- The ~US$1.5bn Singapore REIT of stabilised assets was still unlaunched as at 7 October 2026.",
-  "background_zh": "AirTrunk是澳洲及亚太最大的超大规模批发型数据中心平台。\n- 2015年由Robin Khuda在悉尼创立；2024年9月Blackstone与CPP Investments以240亿澳元收购。\n- 纯批发模式，向全球云厂商整栋出租机房。\n- 澳洲五个园区（SYD1 121MW+、SYD2 158MW+、SYD3 330MW+、MEL1 276MW+、MEL2 354MW+），在运及规划容量超1.2GW。\n- Kemps Creek 1.2GW待新州审批；2026年9月在Kurri Kurri原Hydro Aluminium冶炼厂地块申报540MW、37亿澳元州重大项目，配套3700万澳元社区方案。\n- 约15亿美元的新加坡REIT至2026年10月7日仍未启动发行。",
+  "background_en": "Asia-Pacific hyperscale developer-operator, the largest Australian platform by built capacity.\n- More than 1.2 GW across five Australian campuses, built and under construction\n- A$4.25bn green loan closed 27 October 2026 for the SYD3 Huntingwood expansion, underwritten by 14 lead banks and syndicated to 32 institutions\n- States more than A$12bn invested in Australia to date and a further A$75bn planned over the next decade. The investment figure carried here is the A$12bn deployed, not the A$75bn intention\n- Owned by Blackstone with CPP Investments since September 2024, at an implied A$24bn enterprise value",
+  "background_zh": "亚太区超大规模数据中心开发运营商，按已建成容量计为澳洲最大平台。\n- 澳洲五个园区已建成及在建容量合计超过1.2 GW\n- 2026年10月27日完成42.5亿澳元绿色贷款，用于Huntingwood的SYD3扩建，14家主承销行包销、银团扩至32家机构\n- 公司口径为在澳已投资逾120亿澳元，并计划未来十年再投750亿澳元；本表投资额采用已落地的120亿澳元，不含750亿澳元的意向规模\n- 2024年9月起由Blackstone联合CPP Investments持有，隐含企业价值约240亿澳元",
   "website": "https://airtrunk.com",
   "sources": [
    "https://airtrunk.com/airtrunk-expands-australian-platform-with-a-second-hyperscale-data-centre-campus-in-melbourne/",
@@ -27,8 +27,15 @@
    "https://bebeez.eu/2025/11/11/airtrunk-set-to-buy-planned-1gw-data-center-site-in-western-sydney-australia/",
    "https://en.wikipedia.org/wiki/AirTrunk"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "airtrunk",
+    "date": "2026-10-27",
+    "headline_en": "Closed a A$4.25bn (about US$3.0bn) green loan for the SYD3 Huntingwood campus, underwritten by 14 lead banks and syndicated to 32 institutions, and flagged a further A$75bn of Australian investment over the next decade against more than A$12bn deployed to date.",
+    "headline_zh": "完成42.5亿澳元（约30亿美元）绿色贷款，用于Huntingwood的SYD3园区，由14家主承销行包销并扩至32家机构银团；同时表示在澳已投资逾120亿澳元，未来十年拟再投750亿澳元。",
+    "source": "https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/"
+   },
    {
     "operator_id": "airtrunk",
     "date": "2026-09",
@@ -76,15 +83,15 @@
   "hq_city": "Brisbane",
   "founded_year": 2010,
   "ownership_type": "ASX-listed",
-  "key_shareholders": "Widely held; institutional register (Vanguard, State Street, AustralianSuper and other index/super funds); A$1.5bn entitlement offer May 2026",
+  "key_shareholders": "Widely held; institutional register (Vanguard, State Street, AustralianSuper and other index and super funds); A$1.5bn entitlement offer May 2026; CPP Investment Board became a substantial holder with 5.23% on 27 October 2026",
   "ticker": "ASX:NXT",
   "au_operational_mw": 288.0,
   "au_pipeline_mw": 537.0,
   "au_facility_count": 17,
   "announced_investment_aud_bn": 9.75,
   "key_customers": "Microsoft, AWS, Google, Oracle, OpenAI (S7 MoU), IBM, Telstra, NBN, Australian government agencies; Cloud & AI = 68% of contracted MW",
-  "background_en": "NEXTDC is Australia's largest ASX-listed pure-play data centre operator.\n- Founded in Brisbane in 2010 by Bevan Slattery and listed on the ASX the same year.\n- Tier III/IV colocation and hyperscale network across eight Australian cities plus Kuala Lumpur, Tokyo and Auckland.\n- Planned group IT capacity 1.8GW+ (land bank 3GW+), anchored by S4 (350MW), S7 (612MW, OpenAI anchor) and the A$2bn, 150MW M4 AI factory at Port Melbourne.\n- FY26 contracted utilisation 740MW, 288MW built and 537MW under construction.\n- Raised A$1.1bn of convertible notes in September 2026, its third capital raise in four months; CEO Craig Scroggie chairs the new Data Centres Australia peak body.",
-  "background_zh": "NEXTDC是ASX最大的上市纯数据中心运营商。\n- 2010年由Bevan Slattery在布里斯班创立，同年在ASX上市。\n- 在澳洲八个城市运营Tier III/IV托管与超大规模设施，吉隆坡、东京、奥克兰在建。\n- 集团规划IT容量超1.8GW（土地储备超3GW），核心为S4（350MW）、S7（612MW，OpenAI为锁定租户）及墨尔本Port Melbourne的M4 AI工厂（20亿澳元、150MW）。\n- FY26签约容量740MW，已建成288MW，在建537MW。\n- 2026年9月发行11亿澳元可转债，为四个月内第三次融资；CEO Craig Scroggie出任新成立行业组织Data Centres Australia主席。",
+  "background_en": "ASX-listed wholesale and colocation operator, the largest Australian-owned platform.\n- FY27 guidance cut on 21 October 2026 after Jemena suspended network works serving M3 Melbourne, pushing the next grid supply increase to FY28: net revenue to A$475-500m from A$615-640m, underlying EBITDA to A$245-265m from A$385-410m\n- FY27 capex guidance trimmed to A$4.5-5.0bn from A$5.25-5.75bn, and all new developments and land acquisitions placed on hold pending a capex review\n- Liquidity of A$8,675m at 30 September 2026; covenant headroom confirmed 28 October with a pro forma interest cover of 5.91x against a 1.5x minimum\n- Contracted utilisation of 740 MW was reached in July 2026, not October; the 537 MW carried here is capacity under construction against more than 3 GW of total planned capacity",
+  "background_zh": "ASX上市的批发与托管型运营商，澳洲本土最大平台。\n- 2026年10月21日下调FY27指引：Jemena暂停M3墨尔本配套电网工程，下一次增容推迟至FY28，净收入由6.15-6.40亿澳元下调至4.75-5.00亿澳元，Underlying EBITDA由3.85-4.10亿澳元下调至2.45-2.65亿澳元\n- FY27资本开支指引由52.5-57.5亿澳元下调至45-50亿澳元，并暂停全部新项目开发与土地收购，等待资本开支复核结论\n- 2026年9月30日流动性86.75亿澳元；10月28日确认契约合规，备考利息保障倍数5.91倍，远高于1.5倍下限\n- 740 MW的已签约使用容量为2026年7月达成，并非10月；本表537 MW为在建容量，总规划容量逾3 GW",
   "website": "https://www.nextdc.com",
   "sources": [
    "https://www.investing.com/news/company-news/nextdc-fy26-presentation-740mw-contracted-revenue-to-jump-50-93CH-4880417",
@@ -93,8 +100,36 @@
    "https://www.datacenterdynamics.com/en/news/australian-stargate-data-center-in-sydney-will-offer-612mw-of-capacity/",
    "https://announcements.asx.com.au/asxpdf/20260420/pdf/06ymvmm97tvsh4.pdf"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "nextdc",
+    "date": "2026-10-28",
+    "headline_en": "Confirmed covenant compliance at 30 June 2026 with a pro forma interest cover of 5.91x against a 1.5x minimum and gearing of 8.2%, and reported A$8,675m of liquidity at 30 September.",
+    "headline_zh": "确认2026年6月30日契约合规，备考利息保障倍数5.91倍（下限1.5倍），负债率8.2%；9月30日流动性86.75亿澳元。",
+    "source": "https://www.listcorp.com/asx/nxt/nextdc-limited/news/financial-covenants-compliance-and-headroom-3428440.html"
+   },
+   {
+    "operator_id": "nextdc",
+    "date": "2026-10-27",
+    "headline_en": "CPP Investment Board became a substantial holder with 39,726,216 shares, or 5.23%, after acquiring 2,000,000 shares at an average A$5.4779.",
+    "headline_zh": "CPP Investment Board增持200万股、均价5.4779澳元后，持股39,726,216股、占比5.23%，成为实质性持有人。",
+    "source": "https://kalkinemedia.com/au/news/announcements/canada-pension-plan-investment-board-acquires-523-stake-in-nextdc-limited"
+   },
+   {
+    "operator_id": "nextdc",
+    "date": "2026-10-26",
+    "headline_en": "Chair Douglas Flynn flagged his departure and director Stuart Davis his retirement, with a search under way for two independent non-executive directors by Q1 CY2027; the director fee pool increase was withdrawn, board fees cut 10% and the CEO forwent his FY27 short and long-term incentives.",
+    "headline_zh": "董事长Douglas Flynn与董事Stuart Davis先后表示将离任，公司启动遴选，拟于2027年第一季度前增补两名独立非执行董事；撤回董事酬金池上调议案，董事会酬金下调10%，CEO放弃FY27短期与长期激励。",
+    "source": "https://www.arnnet.com.au/article/4240050/nextdc-unveils-board-renewal-measures-following-revised-fy27-guidance.html"
+   },
+   {
+    "operator_id": "nextdc",
+    "date": "2026-10-21",
+    "headline_en": "Cut FY27 net revenue guidance to A$475-500m and underlying EBITDA to A$245-265m after Jemena suspended network works serving M3 Melbourne, pushing the next grid supply increase to FY28; FY27 capex guidance was trimmed to A$4.5-5.0bn and all new developments and land acquisitions placed on hold.",
+    "headline_zh": "下调FY27指引：净收入至4.75-5.00亿澳元、Underlying EBITDA至2.45-2.65亿澳元。起因为Jemena暂停M3墨尔本配套电网工程，下一次增容推迟至FY28；FY27资本开支指引下调至45-50亿澳元，并暂停全部新项目开发与土地收购。",
+    "source": "https://announcements.asx.com.au/asxpdf/20261021/pdf/075kx2sf3k54h5.pdf"
+   },
    {
     "operator_id": "nextdc",
     "date": "2026-09",
@@ -142,7 +177,7 @@
   "hq_city": "Canberra",
   "founded_year": 2007,
   "ownership_type": "Private",
-  "key_shareholders": "Infratil 49.69% (NZX/ASX: IFT), Future Fund 34.5%, Commonwealth Superannuation Corporation 12.0%, CDC management (post Feb-2025 CSC sell-down); independently valued at A$18.5bn midpoint (range A$17.4-19.6bn) at 30 September 2026",
+  "key_shareholders": "Infratil 49.69% at 30 September 2026 (NZX/ASX: IFT), Future Fund 34.5%, Commonwealth Superannuation Corporation 12.0%, CDC management; independently valued at A$17.4-19.6bn with an A$18.45bn midpoint at 30 September 2026",
   "ticker": null,
   "au_operational_mw": 550.0,
   "au_pipeline_mw": 810.0,
@@ -160,8 +195,29 @@
    "https://www.futurefund.gov.au/news-room/Future-Fund-acquires-further-shares-in-CDC",
    "https://infratil.com/news/cdc-independent-valuation-31-march-2026/"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "cdc",
+    "date": "2026-10-21",
+    "headline_en": "Infratil issued an unscheduled market update confirming that CDC's power delivery and construction timelines for all sites under construction remain on track and CDC-related guidance is unchanged, after investor questions prompted by NEXTDC's M3 grid delay.",
+    "headline_zh": "因NEXTDC M3并网延误引发投资者问询，Infratil发布计划外市场公告，确认CDC全部在建项目的供电交付与施工进度不变，相关指引维持不变。",
+    "source": "https://www.nzx.com/announcements/482165"
+   },
+   {
+    "operator_id": "cdc",
+    "date": "2026-10-07",
+    "headline_en": "Infratil published CDC's independent valuation at 30 September 2026 of A$17.4-19.6bn, an A$18.45bn midpoint and A$78m below 30 June, valuing Infratil's 49.69% interest at A$9,168m.",
+    "headline_zh": "Infratil公布CDC截至2026年9月30日的独立估值区间174-196亿澳元，中值184.5亿澳元，较6月30日下降7,800万澳元；Infratil所持49.69%权益估值91.68亿澳元。",
+    "source": "https://infratil.com/news-and-insights/cdc-independent-valuation-30-september-2026/"
+   },
+   {
+    "operator_id": "cdc",
+    "date": "2026-10-01",
+    "headline_en": "Chief executive Greg Boorer publicly backed binding national data centre standards applying to all developers, arguing the sector must set a higher bar than government requires to protect its social licence.",
+    "headline_zh": "首席执行官Greg Boorer公开支持对所有开发商适用的强制性全国数据中心标准，认为行业自律标准应高于政府要求，以维护社会认受性。",
+    "source": "https://certifiedstrategic.com/insights/cdc-greg-boorer-wagga-wagga-data-centre-standards"
+   },
    {
     "operator_id": "cdc",
     "date": "2026-10",
@@ -230,7 +286,7 @@
   "hq_city": "Wellington",
   "founded_year": 1994,
   "ownership_type": "ASX-listed",
-  "key_shareholders": "Widely held NZX/ASX dual listing; managed by Morrison (formerly H.R.L. Morrison & Co)",
+  "key_shareholders": "NZX/ASX dual listed (IFT), externally managed by Morrison. Holds 49.69% of CDC Data Centres at 30 September 2026, down from 49.72% at 30 June, independently valued at A$9,168m.",
   "ticker": "NZX:IFT / ASX:IFT",
   "au_operational_mw": null,
   "au_pipeline_mw": null,
@@ -245,7 +301,7 @@
    "https://infratil.com/news/infratil-full-year-results-for-the-year-ended-31-march-2026/infratil-fy2026-full-year-result-media-release/",
    "https://infratil.com/news/cdc-independent-valuation-31-march-2026/"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
    {
     "operator_id": "infratil",
@@ -303,8 +359,15 @@
    "https://investor.equinix.com/news-events/press-releases/detail/964/equinix-and-pgim-real-estate-open-first-xscale-data",
    "https://newsroom.equinix.com/2025-09-22-Equinix-Selected-for-SMAP-Cable-Landing-in-Perth-and-Sydney"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "equinix",
+    "date": "2026-10-21",
+    "headline_en": "Opened an Enhanced Performance Innovation Center at SY5 in Sydney, a liquid-cooled test environment inside the live IBX where enterprises run GPU platforms under production conditions before committing to a deployment; SY5 is among the first five such sites globally.",
+    "headline_zh": "在悉尼SY5开设Enhanced Performance Innovation Center：设于在运IBX内部的液冷验证环境，供企业在接近生产的条件下测试GPU平台后再决定部署；SY5为全球首批五个站点之一。",
+    "source": "https://blog.equinix.com/blog/2026/10/21/inside-epic-where-enterprises-test-liquid-cooling-before-they-scale-ai/"
+   },
    {
     "operator_id": "equinix",
     "date": "2025-09",
@@ -345,8 +408,8 @@
   "au_facility_count": 6,
   "announced_investment_aud_bn": 2.12,
   "key_customers": "Australian Government agencies (SYD1 Certified Strategic), Telstra, Optus, Vocus, cloud & enterprise tenants; Queensland Government (iseek); Defence/SA Government (YourDC)",
-  "background_en": "DigiCo Infrastructure REIT is the first ASX-listed data centre REIT, externally managed by HMC Capital.\n- Created by HMC Capital; listed December 2024 via a A$2.4bn IPO, the largest Australian float that year.\n- Australian portfolio: former Global Switch Sydney campus at Ultimo (SYD1, 120MVA allocated, Certified Strategic), iseek in Brisbane and Townsville, YourDC's two Adelaide sites.\n- US assets in Dallas, Kansas City and Los Angeles after the Chicago sale.\n- Group planned IT capacity ~238MW; billed capacity targeted at 85MW+ from July 2026.\n- The 88MW SYD1 expansion is the key growth project.",
-  "background_zh": "DigiCo Infrastructure REIT是ASX首只数据中心REIT，由HMC Capital外部管理。\n- HMC Capital组建，2024年12月以24亿澳元IPO上市，为当年澳洲最大IPO。\n- 澳洲资产：原Global Switch悉尼Ultimo园区（SYD1，已分配120MVA，Certified Strategic认证）、iseek布里斯班及Townsville设施、YourDC阿德莱德两站。\n- 出售芝加哥后，美国保留Dallas、Kansas City、Los Angeles资产。\n- 集团规划IT容量约238MW，2026年7月起计费容量目标85MW以上。\n- SYD1 88MW扩建是核心增长项目。",
+  "background_en": "ASX-listed data centre REIT, externally managed by HMC Capital.\n- Executed a 15-year, 71 MW contract at SYD1 on 15 October 2026 with an unnamed investment-grade global technology firm, taking the campus to 100% contracted across 88 MW\n- 20 MW was reallocated from existing contracted capacity; the first 10 MW of the 52 MW expansion is due to be income-producing in late Q4 FY27, the balance progressively through FY28\n- SHAPE Australia appointed head contractor on the expansion under a roughly A$800m fixed-price design and construct contract\n- FY27 underlying EBITDA guidance of A$120-125m reaffirmed; the build is funded from existing liquidity, debt facilities and US asset sale proceeds with no new equity",
+  "background_zh": "ASX上市数据中心REIT，由HMC Capital外部管理。\n- 2026年10月15日在SYD1签署15年期、71 MW合同，交易对手为未具名的投资级全球科技企业，园区88 MW全部签约\n- 其中20 MW由既有签约容量调配；52 MW扩建部分的首批10 MW预计FY27第四季度末产生收入，其余在FY28内分批投产\n- 扩建总包为SHAPE Australia，采用约8亿澳元固定总价设计施工合同\n- 重申FY27 Underlying EBITDA指引1.20-1.25亿澳元；建设资金来自现有流动性、债务额度及美国资产出售所得，不增发股本",
   "website": "https://www.digi-co.com.au",
   "sources": [
    "https://www.hmccapital.com.au/investment-strategies/digital-infrastructure/digico-infrastructure-reit/asx-announcements/digico-announces-customer-wins-provides-earnings-guidance/",
@@ -356,8 +419,15 @@
    "https://www.fool.com.au/2026/08/21/digico-infrastructure-reit-posts-fy26-earnings-beat-outlines-expansion-plans/",
    "https://www.globalswitch.com/announcement/agreement-reached-for-the-sale-of-global-switch-australia-to-hmc-capital/"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "digico",
+    "date": "2026-10-15",
+    "headline_en": "Executed a 15-year, 71 MW contract at SYD1 with an unnamed investment-grade global technology firm, taking the campus to 100% contracted across 88 MW, and appointed SHAPE Australia head contractor on the 52 MW expansion under a roughly A$800m fixed-price design and construct contract.",
+    "headline_zh": "在SYD1与未具名投资级全球科技企业签署15年期、71 MW合同，园区88 MW全部签约；同时确定SHAPE Australia为52 MW扩建总包，合同为约8亿澳元固定总价设计施工。",
+    "source": "https://announcements.asx.com.au/asxpdf/20261015/pdf/075bvgvp50315w.pdf"
+   },
    {
     "operator_id": "digico",
     "date": "2026-08",
@@ -516,8 +586,15 @@
    "https://www.globenewswire.com/news-release/2022/06/08/2459170/0/en/STACK-Infrastructure-Expands-APAC-Footprint-into-Australia-with-124MW-of-Capacity-across-Melbourne-Canberra-and-Perth.html",
    "https://www.datacentermap.com/australia/melbourne/stack-infrastructure-mel01a/"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "stack-infrastructure",
+    "date": "2026-10-15",
+    "headline_en": "Mandated lead arrangers, underwriters and bookrunners for a five-year A$8.6bn (about US$6bn) loan to fund its Melbourne data centre project, taking the facility to market as the AI credit complex came under selling pressure.",
+    "headline_zh": "就一笔五年期86亿澳元（约60亿美元）贷款委任牵头安排行、包销行与簿记行，用于墨尔本数据中心项目；该笔融资在AI相关信用资产承压之际进入市场。",
+    "source": "https://www.bloomberg.com/news/articles/2026-10-15/blue-owl-s-stack-eyes-6-billion-loan-as-selloff-hits-ai-sector"
+   },
    {
     "operator_id": "stack-infrastructure",
     "date": "2026-08",
@@ -788,15 +865,15 @@
   "hq_city": "Sydney",
   "founded_year": 2019,
   "ownership_type": "Private (PE)",
-  "key_shareholders": "Founders Oliver Curtis & Tim Rosenfeld; US$10bn debt facility led by Blackstone and Coatue (Feb 2026); US$505m equity round led by Coatue (Apr 2026); ~US$2bn of August 2026 commitments from Jane Street, Blackstone and NVIDIA; ASX IPO priced at A$11.00 per share for ~A$7.1bn (US$4.9bn) at an implied ~A$43.7bn, bookbuild 6-9 October 2026, debut targeted 22-23 October 2026",
+  "key_shareholders": "Private. ASX float withdrawn 9 October 2026; the company is pursuing private capital, with a Nasdaq listing reported as the likely alternative but not company-confirmed. Nvidia about 7.2%; Maas Group 3.2%; other backers with undisclosed stakes include Coatue Management, Blackstone funds, Jane Street, Ellerston Capital, Regal Partners and Wilson Asset Management. Co-founders Oliver Curtis and Tim Rosenfield (co-CEOs) and Jonathan Levee. US$10bn debt facility led by Blackstone (February 2026); US$2bn equity round August 2026 above a US$10.5bn post-money valuation.",
   "ticker": null,
   "au_operational_mw": null,
   "au_pipeline_mw": 1600.0,
   "au_facility_count": null,
   "announced_investment_aud_bn": 73.3,
   "key_customers": "OpenAI (anchor for Malaysian capacity), Meta (reported: ~55,000 GPUs across Victorian and Tasmanian sites, plus Indonesian supply), AI labs and enterprises via NVIDIA DGX Cloud; the CDC Data Centres hosting relationship ended at 42MW",
-  "background_en": "Firmus Technologies is Australia's largest AI/GPU cloud story and the vehicle taking NVIDIA, Blackstone and Coatue capital into local AI compute.\n- Sydney-headquartered, co-CEOs Oliver Curtis and Tim Rosenfeld; builds immersion-cooled 'AI factories' on NVIDIA's DSX design and sells GPU cloud rather than colocation.\n- Priced an ASX IPO at A$11.00 per share for ~A$7.1bn at an implied ~A$43.7bn - Australia's second-largest float; prospectus 8 October, debut targeted 22-23 October 2026.\n- Over 900MW contracted across seven sites globally with only two operating; Australian sites are Launceston and Bell Bay (288MW, lodged) in Tasmania, Melbourne and South Australia.\n- The 1.6GW, A$73.3bn Project Southgate partnership with CDC ended in October 2026 after only 42MW was deployed at CDC's Melbourne site; CDC cited Firmus' Asian expansion and funding scalability.\n- Tasmanian delivery is slowed by Hydro Tasmania supply priority and Marinus Link delays, shifting focus to the 600MW South Australian supply deal (c.2032 infrastructure).",
-  "background_zh": "Firmus是澳洲最大的AI/GPU云叙事，也是NVIDIA、Blackstone与Coatue资本进入本地AI算力的主要通道。\n- 总部悉尼，联席CEO为Oliver Curtis与Tim Rosenfeld；基于NVIDIA DSX架构建设浸没式液冷\"AI工厂\"，出售GPU算力而非传统托管。\n- ASX IPO定价每股11澳元，募资约71亿澳元，隐含估值约437亿澳元，为澳洲史上第二大IPO；10月8日递交招股书，拟10月22-23日挂牌。\n- 全球七个站点签约容量逾900MW，目前仅两处在运；澳洲站点为塔州Launceston与Bell Bay（288MW，已申报）、墨尔本及南澳。\n- 与CDC的1.6GW、733亿澳元Southgate合作已于2026年10月终止，实际仅在CDC墨尔本设施落地42MW；CDC方面称顾虑其亚洲扩张与资金可持续性。\n- 塔州推进受制于Hydro Tasmania既有用户优先及Marinus Link延期，重心转向南澳600MW供电协议（配套设施约2032年到位）。",
+  "background_en": "Australian AI infrastructure developer, formerly Firmus Supercomputing.\n- Withdrew its ASX listing application on 9 October 2026, the day after closing books, abandoning a A$7.1bn base offer at A$11.00 a share and an implied A$43.7bn equity value; trading had been due to start 23 October\n- The co-CEOs told shareholders the terms did not reflect long-term potential and that the company would raise from private markets instead\n- ASIC confirmed targeted inquiries on 28 October into the four joint lead managers over whether representations of investor demand had a reasonable basis and whether the banks faced conflicts as prospective sellers on listing\n- Project Southgate, the CDC partnership announced in October 2025 at up to 1.6 GW and up to A$73.3bn of potential investment, ended on 6 October 2026 after about 42 MW was deployed at CDC's Melbourne campus\n- Australian pipeline is left blank here: no company-restated national figure survives the Southgate split",
+  "background_zh": "澳洲AI基础设施开发商，前身为Firmus Supercomputing。\n- 2026年10月9日、即簿记结束次日撤回ASX上市申请，放弃每股11.00澳元、基础规模71亿澳元的发行及隐含437亿澳元估值；原定10月23日挂牌\n- 联席CEO向股东表示发行条件未反映公司长期价值，转而寻求私募市场融资\n- ASIC于10月28日确认对四家联席主承销商展开针对性问询，核查其对投资者需求的陈述是否有合理依据，以及作为上市时潜在卖方是否存在利益冲突\n- 与CDC的Project Southgate于2026年10月6日终止。该合作2025年10月公布时规模上限1.6 GW、潜在投资上限733亿澳元，实际在CDC墨尔本园区落地约42 MW\n- 本表澳洲管线留空：Southgate拆伙后公司未重新披露全国口径数字",
   "website": "https://firmus.co",
   "sources": [
    "https://firmus.co/newsroom/southgate-expansion",
@@ -804,8 +881,22 @@
    "https://www.datacenterdynamics.com/en/news/firmus-secures-10bn-debt-financing-facility-for-project-southgate-ai-factory-roll-out/",
    "https://dataxconnect.com/weekly-data-centre-news-3rd-july-2026/"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "firmus",
+    "date": "2026-10-28",
+    "headline_en": "ASIC confirmed targeted inquiries into the four joint lead managers over whether representations of investor demand had a reasonable basis and whether the banks faced conflicts as prospective sellers on listing.",
+    "headline_zh": "ASIC确认对四家联席主承销商展开针对性问询，核查其对投资者需求的陈述是否有合理依据，以及作为上市时潜在卖方是否存在利益冲突。",
+    "source": "https://www.abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+   },
+   {
+    "operator_id": "firmus",
+    "date": "2026-10-09",
+    "headline_en": "Withdrew its ASX listing application the day after closing books, abandoning a A$7.1bn base offer at A$11.00 a share and an implied A$43.7bn equity value, with the co-CEOs telling shareholders the company would instead pursue capital from private markets.",
+    "headline_zh": "在簿记结束次日撤回ASX上市申请，放弃每股11.00澳元、基础规模71亿澳元的发行及隐含437亿澳元估值；联席CEO告知股东将转向私募市场融资。",
+    "source": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230"
+   },
    {
     "operator_id": "firmus",
     "date": "2026-10",
@@ -994,7 +1085,7 @@
    "https://www.datacenterdynamics.com/en/news/goodman-files-to-develop-90mw-data-center-campus-in-sydney-australia-2/",
    "https://www.fool.com.au/2026/05/26/goodman-group-reports-87-1-billion-portfolio-value-as-data-centre-demand-grows/"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
    {
     "operator_id": "goodman",
@@ -1050,8 +1141,8 @@
   "au_facility_count": null,
   "announced_investment_aud_bn": 1.5,
   "key_customers": "Hyperscale tenants targeted via EdgeConneX (undisclosed)",
-  "background_en": "Stockland, one of Australia's oldest diversified property groups, is monetising its industrial land bank through hyperscale data centres.\n- 50:50 JV with US operator EdgeConneX (EQT-owned) finalised in March 2026.\n- On 1 October 2026 NSW approved the A$630.4m Road 1 data centre at 1-5 Khartoum Road, Macquarie Park - a 10-storey building of 49MW (34.3MW IT load) adjoining a 76.4MW facility approved in March.\n- Other identified projects: a 168MW Western Sydney filing and a 250MW campus at Cherry Lane, Laverton North in Melbourne's west.\n- Management has flagged 5-10% of group capital (A$750m-1.5bn) for data centres, implying A$14-15bn of total project capital with partners.",
-  "background_zh": "Stockland是澳洲历史最悠久的综合地产集团之一，正以超大规模数据中心变现工业土地储备。\n- 2026年3月与美国运营商EdgeConneX（EQT持有）成立50:50合资公司。\n- 2026年10月1日，新州批准Macquarie Park的Road 1项目（1-5 Khartoum Road），10层楼、49MW（IT负载34.3MW）、6.304亿澳元，紧邻3月获批的76.4MW设施。\n- 其余项目包括西悉尼168MW申报项目及墨尔本西部Laverton North的Cherry Lane 250MW园区。\n- 管理层计划将集团5-10%资本（7.5-15亿澳元）投向数据中心，对应与合作方合计约140-150亿澳元项目资本。",
+  "background_en": "ASX-listed diversified property group, in a 50:50 data centre joint venture with EdgeConneX.\n- NSW DPHI approved SSD-80814238 on 1 October 2026, a ten-storey data centre at 1-5 Khartoum Road, Macquarie Park: 34.3 MW of IT load across eight data halls with site power capped at 49 MW, capital investment value A$630.4m. It is separate from the March 2026 consent (SSD-63235720, 76.4 MW) immediately to the north-west\n- The joint venture disclosed about 450 MW of secured power arrangements across an initial three sites in Sydney and Melbourne on 14 October 2026, with four further opportunities identified. That is a secured-power figure, not IT load, and no per-site split was published\n- Stated intent is 5-10% of capital allocated to data centres over five years or more",
+  "background_zh": "ASX上市多元化地产集团，与EdgeConneX各持50%组建数据中心合资平台。\n- 新州DPHI于2026年10月1日批复SSD-80814238：Macquarie Park、1-5 Khartoum Road十层数据中心，8个机房合计IT负载34.3 MW，场地用电上限49 MW，资本投资额6.304亿澳元。该项目与西北侧2026年3月获批的SSD-63235720（76.4 MW）相互独立\n- 合资平台于2026年10月14日披露，在悉尼与墨尔本首批三个场地已落实约450 MW电力安排，另识别四个储备机会。该数字为已落实电力口径而非IT负载，且未公布分场地拆分\n- 公司口径为未来五年以上将5-10%的资本配置于数据中心",
   "website": "https://www.stockland.com.au",
   "sources": [
    "https://w.media/stockland-finalises-edgeconnex-data-centre-jv-as-ceo-plots-more-investment/",
@@ -1059,8 +1150,22 @@
    "https://w.media/nsw-approves-stockland-data-centre-for-sydney-innovation-precinct/",
    "https://inforcapital.com/news/stockland-files-to-build-168mw-data-center-in-sydney-australia/"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "stockland",
+    "date": "2026-10-14",
+    "headline_en": "The EdgeConneX joint venture disclosed about 450 MW of secured power across an initial three-site portfolio in Sydney and Melbourne, and appointed Chris Maher Managing Director Australia.",
+    "headline_zh": "与EdgeConneX的合资平台披露在悉尼、墨尔本首批三个场地已落实约450 MW电力，并任命Chris Maher为澳洲董事总经理。",
+    "source": "https://finance.yahoo.com/technology/articles/edgeconnex-enters-australia-partnership-stockland-210100055.html"
+   },
+   {
+    "operator_id": "stockland",
+    "date": "2026-10-01",
+    "headline_en": "NSW DPHI approved SSD-80814238, a ten-storey data centre at 1-5 Khartoum Road, Macquarie Park, for 34.3 MW of IT load across eight data halls with site power capped at 49 MW and a capital investment value of A$630.4m.",
+    "headline_zh": "新州DPHI批复SSD-80814238：Macquarie Park、1-5 Khartoum Road十层数据中心，8个机房合计IT负载34.3 MW，场地用电上限49 MW，资本投资额6.304亿澳元。",
+    "source": "https://w.media/stockland-wins-approval-for-49mw-10-storey-macquarie-park-data-centre/"
+   },
    {
     "operator_id": "stockland",
     "date": "2026-10",
@@ -1609,7 +1714,7 @@
   "hq_city": "New York",
   "founded_year": null,
   "ownership_type": "NASDAQ-listed",
-  "key_shareholders": "Nasdaq-listed following a US$125m IPO in February 2026; US$100m convertible note (Dec 2025) and a USD.AI debt facility of up to US$500m",
+  "key_shareholders": "Nasdaq-listed (SHAZ) since 18 February 2026 following a US$125m IPO at US$30.00 a share. Anchor investors Situational Awareness and Oaktree Capital Management; backers include Nvidia, Cisco, Digital Alpha and Two Seas Capital. A secondary ASX listing remains flagged, with no size or timetable disclosed as at 2 November 2026.",
   "ticker": "SHAZ",
   "au_operational_mw": null,
   "au_pipeline_mw": null,
@@ -1626,8 +1731,15 @@
    "https://www.abc.net.au/news/2026-09-16/visy-paper-mill-ettamogah-sharon-ai-computing/107150434",
    "https://www.datacenterdynamics.com/en/news/sharon-ai-signs-125bn-cloud-capacity-agreement-with-esds-software-solutions/"
   ],
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-11-02",
   "latest_moves": [
+   {
+    "operator_id": "sharon-ai",
+    "date": "2026-10-01",
+    "headline_en": "Closed a US$356m committed senior secured GPU-backed debt facility led by Goldman Sachs with several private credit funds, priced at a fixed 9.95% in an SPV structure, to fund more than 68,000 Nvidia GPUs across Asia-Pacific by mid-2027.",
+    "headline_zh": "完成3.56亿美元优先担保GPU抵押债务额度，由高盛牵头、多家私募信贷基金参与，采用SPV结构、固定利率9.95%，用于在2027年年中前在亚太部署逾68,000颗英伟达GPU。",
+    "source": "https://www.techpartner.news/news/sharon-ai-secures-us356m-gpu-backed-debt-facility-629380"
+   },
    {
     "operator_id": "sharon-ai",
     "date": "2026-09",
@@ -1657,19 +1769,62 @@
   "key_shareholders": "Widely held Nasdaq-listed company; founded and led by Daniel and Will Roberts; Australian-incorporated with US head office",
   "ticker": "IREN",
   "au_operational_mw": null,
-  "au_pipeline_mw": 800.0,
+  "au_pipeline_mw": 1700.0,
   "au_facility_count": 1,
   "announced_investment_aud_bn": null,
   "key_customers": "Not announced for the Australian campus; group AI cloud contracts are with US hyperscale and AI customers",
-  "background_en": "IREN is a Nasdaq-listed, Australian-founded AI cloud and data centre owner returning to Australia with an 800MW campus.\n- Started as bitcoin miner Iris Energy in 2018 and is now a vertically integrated AI cloud operator running large GPU fleets.\n- Announced its first Australian data centre campus in June 2026 at Bundey, South Australia, about 125km northeast of Adelaide.\n- Four 330kV feeder exits are secured at the utility substation, supporting up to 800MW without network augmentation - a rare pre-cleared grid position.\n- Energisation is expected to begin in 2028, into a South Australian grid targeting 100% net renewables from 2027.\n- Subsea fibre is planned to link the campus to Singapore, Indonesia, South Korea and Japan; over 200 permanent and 500+ construction roles projected.",
-  "background_zh": "IREN是在Nasdaq上市、起家于澳洲的AI云与数据中心持有方，以800MW园区重返澳洲市场。\n- 前身为2018年成立的比特币矿企Iris Energy，现已转型为垂直整合的AI云运营商，自营大规模GPU集群。\n- 2026年6月公布澳洲首个数据中心园区，位于南澳Bundey，距阿德莱德东北约125公里。\n- 已在公用变电站锁定四路330kV出线，无需电网增容即可支撑最高800MW，这种预先落实的并网条件在澳洲少见。\n- 预计2028年开始并网送电，届时南澳电网目标为2027年起实现净100%可再生。\n- 规划海缆连接新加坡、印尼、韩国、日本；预计长期岗位逾200个、施工期岗位500个以上。",
+  "background_en": "Nasdaq-listed Australian-founded operator of AI and HPC campuses.\n- Australian pipeline of about 1.7 GW: Bundey in South Australia at 800 MW, inside the announced 5 GW secured-power portfolio, and Redbank near Wagga Wagga at 900 MW, explicitly outside it\n- Redbank has no executed grid connection agreement; IREN intends to connect to the existing high-voltage network, self-fund the connection and contract new generation, firming and storage\n- Neither campus has a disclosed capacity basis, so Redbank is excluded from this database's IT-load totals",
+  "background_zh": "在美国Nasdaq上市、源自澳洲的AI与高性能计算园区运营商。\n- 澳洲管线约1.7 GW：南澳Bundey 800 MW，位于已公布的5 GW已落实电力组合之内；Wagga Wagga附近的Redbank 900 MW，明确不在其中\n- Redbank尚无已签署的并网协议；IREN计划接入既有高压网络、自行承担接入投资，并另行签约新建电源、调峰与储能\n- 两个园区均未披露容量口径，故Redbank不计入本库IT负载合计",
   "website": "https://iren.com",
   "sources": [
    "https://iren.gcs-web.com/static-files/89f56bc3-0473-4a1b-a863-c6a3dba11018",
    "https://itbrief.com.au/story/iren-signs-deal-for-800mw-south-australia-data-centre",
    "https://www.capitalbrief.com/briefing/iren-announces-south-australia-data-centre-campus-cc4cb085-d612-45e7-aee6-ed12b7c7e6b8/"
   ],
-  "last_verified": "2026-10-07",
-  "latest_moves": []
+  "last_verified": "2026-11-02",
+  "latest_moves": [
+   {
+    "operator_id": "iren",
+    "date": "2026-10-13",
+    "headline_en": "Unveiled Redbank, a proposed 900 MW campus near Wagga Wagga targeting initial energisation in 2029 and explicitly outside its announced 5 GW secured-power portfolio, taking its stated Australian pipeline to about 1.7 GW; no grid connection agreement is in place.",
+    "headline_zh": "公布Redbank项目：拟建于Wagga Wagga附近、规模900 MW，首期通电目标2029年，明确不在已公布的5 GW已落实电力组合之内，使其澳洲管线口径升至约1.7 GW；目前尚无并网协议。",
+    "source": "https://w.media/iren-plans-900mw-data-centre-campus-near-wagga-wagga/"
+   }
+  ]
+ },
+ {
+  "operator_id": "edgeconnex",
+  "name": "EdgeConneX",
+  "legal_name": "EdgeConneX, Inc.",
+  "name_zh": "EdgeConneX",
+  "category": "Hyperscale developer",
+  "hq_country": "United States",
+  "hq_city": "Herndon, Virginia",
+  "founded_year": 2009,
+  "ownership_type": "Private equity owned",
+  "key_shareholders": "Backed by EQT Infrastructure (EQT AB), majority owner since 2020. Australian activity is held through a 50:50 joint venture with Stockland (ASX: SGP).",
+  "ticker": null,
+  "au_operational_mw": null,
+  "au_pipeline_mw": 450.0,
+  "au_facility_count": null,
+  "announced_investment_aud_bn": null,
+  "key_customers": null,
+  "background_en": "Entered the Australian market on 14 October 2026 through its 50:50 joint venture with Stockland.\n- About 450 MW of power arrangements secured across an initial three-site portfolio in Sydney and Melbourne, with four further opportunities identified and more power applications in progress\n- The 450 MW is stated on a secured-power basis: it is neither IT load nor consented or constructed capacity, and no site has been named\n- Chris Maher appointed Managing Director, Australia, reporting to the Managing Director Asia Pacific\n- The joint venture's capacity is carried on the Stockland row to avoid double counting; this row records the same 450 MW as a joint venture interest",
+  "background_zh": "2026年10月14日通过与Stockland的50:50合资平台进入澳洲市场。\n- 在悉尼与墨尔本首批三个场地已落实约450 MW电力安排，另识别四个储备机会，更多接电申请在办\n- 450 MW为已落实电力口径，既非IT负载，也非已获批或已建成容量，且未公布具体场地\n- 任命Chris Maher为澳洲董事总经理，向亚太区董事总经理汇报\n- 为避免重复计算，合资平台容量计入Stockland条目；本条目所列450 MW为合资权益口径",
+  "website": "https://www.edgeconnex.com",
+  "sources": [
+   "https://finance.yahoo.com/technology/articles/edgeconnex-enters-australia-partnership-stockland-210100055.html",
+   "https://thetechcapital.com/edgeconnex-australia-stockland-venture-chris-maher/"
+  ],
+  "last_verified": "2026-11-02",
+  "latest_moves": [
+   {
+    "operator_id": "edgeconnex",
+    "date": "2026-10-14",
+    "headline_en": "Entered the Australian market through a 50:50 joint venture with Stockland, bringing about 450 MW of secured power across three initial sites and plans for hyperscale campuses in Sydney and Melbourne.",
+    "headline_zh": "通过与Stockland的50:50合资平台进入澳洲市场，首批三个场地已落实约450 MW电力，规划在悉尼与墨尔本建设超大规模园区。",
+    "source": "https://thetechcapital.com/edgeconnex-australia-stockland-venture-chris-maher/"
+   }
+  ]
  }
 ]

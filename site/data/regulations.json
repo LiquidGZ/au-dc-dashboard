@@ -111,7 +111,7 @@
      "step_no": 4,
      "title_en": "Application to connect, performance standards and AEMO advisory matters (NER cl 5.3.4, 5.3.4A)",
      "title_zh": "接入申请、性能标准及AEMO咨询事项",
-     "detail_en": "The applicant submits a formal application to connect under cl 5.3.4 with the Schedule 5.4/5.5 information and pays the application fee.\n- Information includes single-line diagrams, load characteristics, harmonics and flicker data, protection and control, and for inverter-based loads PSS/E and PSCAD models.\n- The applicant proposes performance standards for each Schedule 5.3 requirement (e.g. S5.3.5 power factor; S5.3.11 for IBL-related matters as cited by ElectraNet).\n- Where an automatic access standard cannot be met, a 'negotiated access standard' is agreed under cl 5.3.4A; AEMO advisory matters require AEMO's agreement, and AEMO assesses system strength or stability impacts where relevant.\n- The AEMC's draft ERC0394 rule (12 March 2026) lifts the large-IBL threshold from 5 MW to 30 MW and adds disturbance ride-through and instability detection standards at or above that size; AEMO is issuing interim guidelines ahead of the final rule (due 29 October 2026).\n- Powerlink notes the application stage runs 'notionally 12–18 months' for complex projects.",
+     "detail_en": "The applicant submits a formal application to connect under cl 5.3.4 with the Schedule 5.4/5.5 information and pays the application fee.\n- Information includes single-line diagrams, load characteristics, harmonics and flicker data, protection and control, and for inverter-based loads PSS/E and PSCAD models.\n- The applicant proposes performance standards for each Schedule 5.3 requirement (e.g. S5.3.5 power factor; S5.3.11 for IBL-related matters as cited by ElectraNet).\n- Where an automatic access standard cannot be met, a 'negotiated access standard' is agreed under cl 5.3.4A; AEMO advisory matters require AEMO's agreement, and AEMO assesses system strength or stability impacts where relevant.\n- The AEMC's draft ERC0394 rule (12 March 2026) lifts the large-IBL threshold from 5 MW to 30 MW and adds disturbance ride-through and instability detection standards at or above that size; AEMO is issuing interim guidelines ahead of the final rule. The AEMC extended the ERC0394 final determination and final rule to 12 November 2026; the commencement date for the new standards will be set by that rule and is not yet known.\n- Powerlink notes the application stage runs 'notionally 12–18 months' for complex projects.",
      "detail_zh": "申请人依cl 5.3.4提交正式接入申请，附Schedule 5.4/5.5规定的资料并缴纳申请费。\n- 资料包括单线图、负荷特性、谐波与闪变数据、保护与控制方案；逆变器型负荷还须提供PSS/E及PSCAD模型。\n- 申请人须逐项对Schedule 5.3要求提出性能标准，如S5.3.5功率因数、ElectraNet引用的S5.3.11逆变器型负荷条款。\n- 无法满足自动接入标准的，依cl 5.3.4A协商“协商接入标准”；AEMO咨询事项须经AEMO同意，必要时AEMO另评估系统强度与稳定性影响。\n- AEMC ERC0394规则草案（2026年3月12日）将大型逆变器型负荷门槛由5 MW提至30 MW，并对该规模以上设施新增扰动穿越及失稳检测标准；最终规则定于10月29日，AEMO先行发布过渡指引。\n- Powerlink提示，复杂项目的申请阶段“名义上需12–18个月”。",
      "authority": "TNSP/DNSP with AEMO (advisory matters under cl 5.3.4A)",
      "legal_basis": "NER cl 5.3.4 (application for connection), cl 5.3.4A (negotiated access standards), Schedules 5.3, 5.4 and 5.5; AEMC ERC0394 draft rule (new large-IBL standards in Schedule 5.3)",
@@ -261,6 +261,34 @@
     }
    ],
    "recent_changes": [
+    {
+     "jurisdiction_id": "FED",
+     "date": "2026-10-29",
+     "summary_en": "AEMC published National Electricity Rules version 255. No Chapter 2, Chapter 5 or Schedule 5.3 amendments relevant to large loads; the connection framework recorded here is current to v255. Separately, the ERC0394 final determination and final rule on large inverter-based load standards are due 12 November 2026, not 29 October - the October date was an extension notice.",
+     "summary_zh": "AEMC发布《国家电力规则》第255版。第2章、第5章及附表5.3未出现涉及大负荷的修订，本库所载接入框架与v255一致。另需说明：ERC0394关于大型逆变器型负荷技术标准的最终裁定与最终规则定于2026年11月12日发布，而非10月29日——10月的日期为延期通知。",
+     "source": "https://www.aemc.gov.au/news-centre/media-releases/new-electricity-rules-version-255"
+    },
+    {
+     "jurisdiction_id": "FED",
+     "date": "2026-10-28",
+     "summary_en": "No Commonwealth data centre bill has been introduced. Design of the mandatory national standards - renewable matching through certificate surrender, firming capacity, demand flexibility, water and efficiency performance, siting, and a no-net-costs-to-consumers principle - is still being settled. At Senate Estimates officials declined to say whether a data centre may connect to the grid before its associated renewable projects are built, leaving the central sequencing question unresolved. The standing commitment remains legislation in early 2027, with no introduction date announced. The Senate Environment and Communications References Committee reports on its Artificial Intelligence and Data Centres inquiry on 16 November 2026.",
+     "summary_zh": "联邦层面的数据中心法案尚未提交。强制性全国标准的具体设计仍在敲定中，涵盖以证书注销实现的可再生电力匹配、确定性容量、需求弹性、水耗与能效指标、选址，以及“不向用户净增成本”原则。参议院预算质询中，官员未回应数据中心可否在配套可再生项目建成前并网，关键的时序问题悬而未决。既有承诺仍为2027年初完成立法，未公布提交时间。参议院环境与通讯事务委员会将于2026年11月16日就“人工智能与数据中心”调查提交报告。",
+     "source": "https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia"
+    },
+    {
+     "jurisdiction_id": "FED",
+     "date": "2026-10-20",
+     "summary_en": "Two rule change requests lodged with the AEMC by the Minister for Climate Change and Energy under s 91 of the National Electricity Law, published 28 October. ERC0461 would require a qualifying data centre to hold a contract portfolio providing firm capacity matched to its full 24-hour demand profile, drawn from same-region PPAs, cap contracts, tolling agreements, storage and dependable demand flexibility, with a newness test keyed to final investment decision. The AER would assess the portfolio before connection, at scheduled reviews and after a material demand increase, with civil penalties as the primary enforcement and a demand-reduction obligation only where penalties are inadequate. ERC0462 would allow a large load connecting alongside generation or storage to be assessed as an integrated facility at the connection point, permit staged tranche-by-tranche assessment, and require network service providers to consider demand flexibility at enquiry stage and give written reasons if they decline to credit it. Both are pending: the AEMC has not initiated either, and no consultation timetable exists. No MW threshold is proposed - the AEMC is asked to set it.",
+     "summary_zh": "能源与气候变化部长依据《国家电力法》第91条向AEMC提交两项规则修订申请，10月28日公开。ERC0461拟要求符合条件的数据中心持有与其全日24小时负荷曲线相匹配的确定性容量合同组合，合格品种包括同一NEM区域内的PPA、价差上限合约、代工协议、储能及可依赖的需求响应，并以最终投资决策时点作为“新增电源”认定标准；由AER在接入前、定期复核时及负荷显著增加后进行评估，以民事处罚为主要手段，仅在处罚不足以达成目的时才适用压减负荷义务。ERC0462拟允许与电源或储能同址接入的大负荷按接入点整体设施评估，允许分期分批评估，并要求网络运营商在咨询阶段即考虑需求弹性、拒绝采信时须书面说明理由。两项申请均处于pending状态：AEMC尚未启动程序，亦无征询时间表；申请未设MW门槛，留待AEMC确定。",
+     "source": "https://www.aemc.gov.au/rule-changes/data-centre-contracting-obligation-firmed-energy"
+    },
+    {
+     "jurisdiction_id": "FED",
+     "date": "2026-10-12",
+     "summary_en": "AEMC chair confirmed that the renewable-matching limb of the proposed national standards and the firm-capacity limb are separate obligations in separate instruments. Renewable matching, to sit in Commonwealth legislation, may be met in the initial years with certificates from existing generators and caught up later with certificates tied to new projects. Firm-capacity contracting, to sit in the National Electricity Rules via ERC0461, is assessed before connection with a final-investment-decision newness test. The 'build first, catch up later' reporting applies to the first limb only.",
+     "summary_zh": "AEMC主席确认，拟议全国标准中的“可再生电力匹配”与“确定性容量”属于两项独立义务、分属不同法律文件。可再生匹配将写入联邦立法，初期可用既有电源的证书履约，其后再以新建项目对应的证书补足；确定性容量合同义务则通过ERC0461写入《国家电力规则》，在接入前即行评估，并以最终投资决策作为新增认定标准。“先建后补”的报道仅适用于前者。",
+     "source": "https://reneweconomy.com.au/data-centres-may-be-allowed-to-build-first-catch-up-later-on-renewable-mandate-aemcs-collyer-says/"
+    },
     {
      "jurisdiction_id": "FED",
      "date": "2026-09",
@@ -521,6 +549,20 @@
    "recent_changes": [
     {
      "jurisdiction_id": "NSW",
+     "date": "2026-10-15",
+     "summary_en": "The Electricity Infrastructure Investment Amendment Bill 2026 was reported among bills passed in the 13-15 October sitting week; assent and commencement are not yet confirmed and this entry should be treated as unverified until they are. If assented, it would allow the Minister to declare a large load access scheme by Gazette order over all or part of NSW, set a 5 MW instantaneous threshold for large load infrastructure variable by regulation, and empower regulations to modify or disapply provisions of the National Electricity Rules and the National Electricity (NSW) Law for scheme operation and large load connection. The declaration power existing is not the same as a scheme existing: none has been declared, and where one is, access would be allocated competitively on merit criteria rather than first come first served. Scheme design consultation is flagged for late 2026 to the first half of 2027.",
+     "summary_zh": "《2026年电力基础设施投资修正案》据报已在10月13-15日会期通过，但御准与生效日期尚未确认，在确认前本条目应视为待核实。若获御准，该法案将授权部长通过宪报令在新州全境或部分区域宣告设立大负荷接入机制，将“大负荷基础设施”门槛定为瞬时5 MW（可经条例调整），并授权以条例修改或排除适用《国家电力规则》及《国家电力（新州）法》中与机制运作、大负荷接入相关的条款。需注意：拥有宣告权不等于机制已设立——目前尚未宣告任何机制；一旦设立，接入容量将按择优标准竞争性分配，而非先到先得。机制设计征询预计在2026年底至2027年上半年展开。",
+     "source": "https://thehouseinreview.com/2026/10/16/in-the-house-13-15-october-2026/"
+    },
+    {
+     "jurisdiction_id": "NSW",
+     "date": "2026-10-01",
+     "summary_en": "Transgrid's Network Capacity Allocation Policy remains contractual rather than a rule, and can be amended without consultation. The conditional Network Connection Agreement carries a three-month clock from signature within which all readiness criteria must be met - including FIRB approval for foreign-controlled proponents and a performance standards package accepted by AEMO and Transgrid - with failure terminating the agreement and forfeiting the capacity allocation. For foreign proponents the FIRB timeline therefore sits on the critical path for retaining capacity rather than running in parallel. The Q4 2026 capacity update has not issued, and the 25-year data centre forecast Transgrid is developing with the distribution network operators has no announced date.",
+     "summary_zh": "Transgrid的网络容量分配政策属合同安排而非规则，可在不经征询的情况下修改。附条件的网络接入协议自签署起设有三个月时限，须在此期间满足全部readiness条件——包括外资控股项目方取得FIRB批准，以及经AEMO与Transgrid认可的性能标准文件包——逾期则协议终止、已分配容量作废。因此对外资项目方而言，FIRB审批时间表位于保住容量的关键路径上，而非可并行处理的事项。2026年第四季度容量更新尚未发布；Transgrid与各配电网运营商合作编制的25年数据中心预测亦无公布时间。",
+     "source": "https://www.transgrid.com.au/"
+    },
+    {
+     "jurisdiction_id": "NSW",
      "date": "2026-09",
      "summary_en": "The Electricity Infrastructure Investment Amendment Bill 2026, which lets the Minister declare large load access schemes for infrastructure of 5 MW or more, passed the Legislative Assembly on 15 September 2026 and now sits with the Legislative Council.",
      "summary_zh": "授权部长对5 MW及以上设施宣布大负荷接入计划的Electricity Infrastructure Investment Amendment Bill 2026，于2026年9月15日通过新州众议院，现待上议院审议。",
@@ -740,6 +782,20 @@
    "recent_changes": [
     {
      "jurisdiction_id": "VIC",
+     "date": "2026-10-30",
+     "summary_en": "The Municipal Association of Victoria, the peak body for all 79 Victorian councils, resolved at its October State Council to seek a moratorium on approvals for all new or expanded data centres until a comprehensive planning and environmental framework is established. Eight councils brought data centre motions, including Melbourne, Geelong, Maribyrnong and Hume. The substantive grievance is the Development Facilitation Program, under which proponents lodge directly with the Minister for Planning as significant economic development, displacing council as responsible authority. The State restated existing policy and did not respond to the moratorium request. Victoria entered caretaker on 3 November ahead of the 28 November state election, so no moratorium is likely before the new Parliament. This is political pressure on an unimplemented policy, not a regulatory change.",
+     "summary_zh": "维州市政协会（MAV，代表全州79个地方政府）在10月州务会议通过决议，要求在建立完整的规划与环境框架之前，暂停受理所有新建及扩建数据中心的审批。八个地方政府提交了相关议案，包括墨尔本、吉朗、Maribyrnong与Hume。核心诉求指向Development Facilitation Program：该机制下项目方以“重大经济发展”名义直接向规划部长申报，地方政府被排除在责任机构之外。州政府仅重申既有政策，未就暂停审批请求作出回应。维州已于11月3日进入看守期，州选举定于11月28日，新议会成立前出台暂停措施的可能性很低。此事属于对尚未落地政策的政治施压，而非监管变更。",
+     "source": "https://www.abc.net.au/news/2026-10-30/data-centre-moratorium-called-by-municipal-association-victor/107324748"
+    },
+    {
+     "jurisdiction_id": "VIC",
+     "date": "2026-10-27",
+     "summary_en": "The Sustainable Data Centre Action Plan remains policy, not a binding instrument; the operating statutes are still the Planning and Environment Act 1987 and Environment Protection Act 2017. Its planning limbs require Amendment VC324 to the Victoria Planning Provisions, for which notice has been given to councils. VC324 would introduce a data centre land-use definition and policy, prohibit data centres on residentially zoned land and within 150 m of any residential building, restrict them in rural zones absent proximate critical infrastructure, and make EPA Victoria a referral authority for every data centre application rather than only licensable ones. A separate amendment would add WorkSafe Victoria, Fire Rescue Victoria, VicGrid and the relevant water corporation as referral authorities - the VicGrid referral is the one that bears on grid connection, and has no NSW or Queensland equivalent. Proposed efficiency settings include design WUE below 1.0 on potable water or 1.6 on non-potable, measured per ISO/IEC 30132-9:2022. None of it is in force, approval timing is uncertain and exposed to the election, and nothing applies retrospectively to applications lodged before 22 September 2026.",
+     "summary_zh": "《可持续数据中心行动计划》仍属政策文件而非具约束力的法律文书，实际适用的仍是1987年《规划与环境法》和2017年《环境保护法》。其规划相关内容须经维州规划条款修订案VC324落地，该修订案已向地方政府发出通知。VC324拟引入数据中心用地定义与政策，禁止在住宅分区用地及任何住宅建筑150米范围内建设，在缺乏邻近关键基础设施的农村分区予以限制，并将维州EPA设为所有数据中心申请的转介机构（而非仅限需持证项目）。另一项修订拟增列WorkSafe Victoria、Fire Rescue Victoria、VicGrid及相关水务公司为转介机构——其中VicGrid的转介直接关系并网，新州与昆州均无对应安排。拟议能效要求包括设计WUE低于1.0（自来水）或1.6（非自来水），按ISO/IEC 30132-9:2022计量。上述内容均未生效，批准时间不确定且受选举影响，且不溯及2026年9月22日前已申报的项目。",
+     "source": "https://www.corrs.com.au/insights/data-centre-regulation-in-australia-spotlight-on-victoria-and-nsw"
+    },
+    {
+     "jurisdiction_id": "VIC",
      "date": "2026-09",
      "summary_en": "Victoria published the Sustainable Data Centre Action Plan on 22 September 2026, creating a stand-alone 'data centre' planning land-use term, prohibiting the use in residential and Green Wedge zones with a 150 m buffer from dwellings, requiring operators to offset operational electricity with new renewable generation and storage and to fund all connection and augmentation costs, setting design WUE of 1.0 (potable) or 1.6 (non-potable), and making VicGrid a statutory referral authority for every data centre application.",
      "summary_zh": "维州于2026年9月22日发布Sustainable Data Centre Action Plan：设立独立的\"data centre\"规划用途术语，住宅区及Green Wedge Zone禁止并与住宅建筑保持150米退让；运营商须以新建可再生发电加储能抵消运营用电，并自行承担全部接入与扩建费用；设计WUE不高于1.0（自来水）或1.6（非饮用水）；VicGrid成为所有数据中心申请的法定转介机构。",
@@ -957,6 +1013,13 @@
     }
    ],
    "recent_changes": [
+    {
+     "jurisdiction_id": "QLD",
+     "date": "2026-10-02",
+     "summary_en": "The Premier announced that Queensland will take data centre assessment from local councils to the State, under a framework modelled on its renewable energy changes, with data centres treated like mining, renewables and tourism projects. Proponents would need a social impact assessment and a community benefit agreement executed with the local council before lodging a development application. Announced only: no instrument named, no thresholds, rollout stated as coming weeks. Western Downs Regional Council has been assured it remains assessment manager for the Zerra project, and Zerra has applied for prescribed process status, which would hand the decision to the Coordinator-General.",
+     "summary_zh": "州长宣布昆州将把数据中心的审批权限从地方政府上收至州政府，框架参照此前可再生能源项目的改革，数据中心将比照矿业、可再生能源与旅游项目管理。项目方须在递交开发申请前完成社会影响评估，并与地方政府签署社区回馈协议。目前仅为宣布阶段：未指明法律文书、未设门槛，仅表示“未来数周”推出。Western Downs地方政府已获告知仍为Zerra项目的审批管理机构；Zerra已申请prescribed process资格，若获准将由Coordinator-General决定。",
+     "source": "https://www.abc.net.au/news/2026-10-02/qld-state-to-take-data-centre-approvals-from-local-councils/107221348"
+    },
     {
      "jurisdiction_id": "QLD",
      "date": "2026-10",

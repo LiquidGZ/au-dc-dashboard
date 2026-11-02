@@ -142,5 +142,17 @@
   "as_of": "2026-09",
   "kpi": false,
   "kpi_order": null
+ },
+ {
+  "metric_id": "aemo_dc_consumption_2036_twh",
+  "label_en": "Data centre electricity consumption 2035-36 (AEMO)",
+  "label_zh": "数据中心用电量2035-36年（AEMO）",
+  "value": 34.0,
+  "unit": "TWh",
+  "notes": "2026 Electricity Statement of Opportunities, Step Change (central) scenario: data centre consumption rises from about 5 TWh in 2025-26, roughly 3% of grid-supplied electricity across about 165 operating facilities, to about 34 TWh by 2035-36, roughly 13%. The forecast is net of project attrition through the connection process, the gap between connected capacity and actual utilisation, and gradual ramp-up - it is not a sum of the connection queue.",
+  "source": "https://www.aemo.com.au/newsroom/media-release/2026-esoo",
+  "as_of": "2026-08",
+  "kpi": false,
+  "kpi_order": null
  }
 ]

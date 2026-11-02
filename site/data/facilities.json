@@ -401,12 +401,14 @@
   "power_source_notes": "Ausgrid North Shore network; requires EIS before community consultation (early planning stage as of Apr 2026).",
   "cooling": null,
   "certifications": null,
-  "description_en": "A proposed five-storey, 140MW extension of AirTrunk's Sydney North footprint across two sites in the Lane Cove West business park, disclosed in council planning updates in 2026.",
-  "description_zh": "AirTrunk拟在Lane Cove West商务园两个地块上扩建140 MW、五层的悉尼北项目，2026年经市议会规划通报披露，仍处早期规划阶段。",
+  "description_en": "NSW State Significant Development SSD-108835458 (\"Mars Road Data Centre\"), covering 3-4 Apollo Place and 87-91 Mars Road as a single 140 MW application up to 37.4 m in height.\n- Status: Prepare EIS — SEARs issued, EIS being prepared; Lane Cove Council has lodged a SEARs response\n- The A$4.25bn green loan of October 2026 funds SYD3 at Huntingwood and has no bearing on this site\n- Competing Lane Cove West proposals have fallen away: Goodman withdrew its 90 MW Project Mars application on 28 September 2026, and the 16-20 Mars Road proposal was withdrawn with part of the site placed on the market\n- AirTrunk is, as at late October 2026, the only operator still pursuing a data centre consent in the Lane Cove West Business Park\n- The planning portal states 140 MW without a basis; whether it is IT load is not confirmed",
+  "description_zh": "新州州重大项目SSD-108835458（Mars Road数据中心），将3-4 Apollo Place与87-91 Mars Road合并为单一申请，140 MW，建筑高度上限37.4米。\n- 当前阶段：编制EIS——SEARs已核发，环评报告编制中，Lane Cove市政府已提交SEARs意见\n- 2026年10月的42.5亿澳元绿色贷款用于Huntingwood的SYD3，与本项目无关\n- 同片区竞争项目相继退出：Goodman于2026年9月28日撤回90 MW的Project Mars申请；16-20 Mars Road项目撤回，部分地块挂牌出售\n- 截至2026年10月下旬，AirTrunk是Lane Cove West商务园内唯一仍在推进数据中心审批的运营商\n- 规划门户标注140 MW但未说明口径，是否为IT负载尚未确认",
   "sources": [
-   "https://inthecove.com.au/2026/04/12/two-more-data-centres-planned-for-lane-cove-west-business-park/"
+   "https://www.planningportal.nsw.gov.au/major-projects/projects/mars-road-data-centre",
+   "https://www.lanecove.nsw.gov.au/Development/State-Significant-Developments",
+   "https://inthecove.com.au/2026/09/28/goodman-withdraws-project-mars-data-centre/"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "capacity_basis": "IT load"
  },
  {
@@ -497,14 +499,14 @@
   "power_source_notes": "Adjacent to Sydney West 330/132kV bulk supply point; initially filed at 320MW (2024), now tracked at 400MW (ITK/RenewMap). Bouygues awarded ~$1.3bn build contract. Design PUE 1.15, ~80% lower water use than conventional.",
   "cooling": "hybrid (liquid-ready)",
   "certifications": "ISO 27001 (AirTrunk group)",
-  "description_en": "Seven-storey, ~123,000 sqm hyperscale build next to SYD1 that AirTrunk bills as the largest independent hyperscale data centre in APJ; first phases energised 2025 with the campus scaling toward 400MW.",
-  "description_zh": "紧邻SYD1的七层、约12.3万平方米超大规模项目，AirTrunk称之为亚太及日本地区最大的独立超大规模数据中心；首期2025年通电，园区规划容量400 MW。",
+  "description_en": "AirTrunk's Western Sydney hyperscale campus at Huntingwood, under construction and expanding.\n- A$4.25bn green loan closed 27 October 2026: 14 lead banks underwriting, syndicated to 32 institutions, SMBC, HSBC and UOB as green loan coordinators\n- A$4.25bn is the facility size; the US$2.98-3.0bn figure in some coverage is the same loan converted\n- Construction of the expansion is underway with A W Edwards as head contractor; completion expected mid-2028\n- The 2021 launch release stated 320+ MW of IT load; AirTrunk has not restated SYD3 on an IT-load basis since, so the 400 MW carried here is a reported campus target rather than an operator-confirmed IT-load figure",
+  "description_zh": "AirTrunk位于悉尼西部Huntingwood的超大规模园区，在建并扩容中。\n- 2026年10月27日完成42.5亿澳元绿色贷款：14家主承销行包销，银团扩至32家机构，SMBC、汇丰、大华担任绿色贷款协调人\n- 42.5亿澳元为融资规模；部分报道的29.8-30亿美元为同一笔贷款的折算口径\n- 扩建工程已开工，总包为A W Edwards，预计2028年年中建成\n- 2021年项目发布时披露IT负载320 MW以上，此后AirTrunk未再按IT负载口径更新；本表400 MW为媒体报道的园区目标值，非运营商确认的IT负载",
   "sources": [
-   "https://airtrunk.com/airtrunk-syd3-is-expanding/",
-   "https://www.datacenterdynamics.com/en/news/airtrunk-files-to-develop-320mw-campus-in-sydney-australia/",
-   "https://itkservices3.com/background/data_centres_australia_top10_construction"
+   "https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/",
+   "https://www.mingtiandi.com/real-estate/data-centres/airtrunk-secures-3b-green-loan-to-expand-syd3-data-centre-in-western-sydney/",
+   "https://airtrunk.com/airtrunk-expands-western-sydney-region-with-new-syd3-hyperscale-data-centre-asia-pacifics-largest/"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "capacity_basis": "IT load"
  },
  {
@@ -1487,20 +1489,21 @@
   "year_announced": 2021,
   "year_commissioned": null,
   "it_load_mw_operational": null,
-  "it_load_mw_planned": 350.0,
+  "it_load_mw_planned": 365.0,
   "site_area_ha": null,
   "capex_aud_m": null,
   "key_tenants": "Undisclosed hyperscalers",
   "power_source_notes": "Sydney West 330/132kV bulk supply area (Transgrid/Endeavour); planned capacity lifted from 300MW to 350MW; 124,000 sqm technical space. Ground broken Mar 2026 with Multiplex; IDA-endorsed Mar 2026.",
   "cooling": "hybrid (liquid-ready)",
   "certifications": "Uptime Tier IV (target)",
-  "description_en": "NEXTDC's 350MW hyperscale campus at Horsley Park, land-banked in 2021 and finally under construction from March 2026 to serve hyperscale cloud and AI demand in Western Sydney.",
-  "description_zh": "NEXTDC在Horsley Park的350 MW超大规模园区，2021年购地储备，2026年3月正式开工，面向西悉尼的超大规模云和AI需求。",
+  "description_en": "NEXTDC's Horsley Park campus in western Sydney, Phase 1 under construction.\n- Phase 1 approved 24 December 2025 under SSD-63741210: six data centre buildings, 250 MW operational capacity\n- NEXTDC markets S4 at 365 MW of IT capacity across 124,000 sqm of technical space\n- A separate Phase 2 application (SSD-108864209) was placed on exhibition 13 October - 10 November 2026; it is carried as its own row because it is a distinct consent\n- Note the two bases do not add: the consents are expressed as operational capacity and maximum power consumption, the 365 MW as IT capacity",
+  "description_zh": "NEXTDC位于悉尼西部Horsley Park的园区，一期在建。\n- 一期于2025年12月24日获批（SSD-63741210）：6栋数据中心楼，运行容量250 MW\n- NEXTDC对外口径为IT容量365 MW，技术机房面积12.4万平方米\n- 二期为独立申请（SSD-108864209），2026年10月13日至11月10日公示，本库按独立条目收录\n- 注意两组数字口径不同、不可相加：审批文件按运行容量与最大用电功率表述，365 MW为IT容量",
   "sources": [
    "https://www.nextdc.com/data-centres/sydney-data-centres/s4-sydney",
-   "https://www.datacenterdynamics.com/en/news/australias-nextdc-breaks-ground-on-sydney-data-center/"
+   "https://www.planningportal.nsw.gov.au/major-projects/projects/nextdc-s4-data-centre-horsley-park",
+   "https://www.planningportal.nsw.gov.au/major-projects/projects/nextdc-s4-data-centre-phase-2-horsley-park"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "capacity_basis": "IT load"
  },
  {
@@ -2367,7 +2370,7 @@
    "https://iren.gcs-web.com/news-releases/news-release-details/iren-announces-first-australian-data-center-campus-800mw-south",
    "https://www.abc.net.au/news/2026-06-19/proposed-data-centre-in-south-australia-dividing-locals/106810776"
   ],
-  "last_verified": "2026-09-15",
+  "last_verified": "2026-11-02",
   "capacity_basis": "IT load"
  },
  {
@@ -3614,19 +3617,20 @@
   "it_load_mw_operational": 0.0,
   "it_load_mw_planned": 1000.0,
   "site_area_ha": 27500.0,
-  "capex_aud_m": null,
+  "capex_aud_m": 41000.0,
   "key_tenants": "AI hyperscalers (target)",
   "power_source_notes": "Off-grid: on-site wind, solar, batteries and gas; initial ~240MW IT phase then up to 1GW; closed-loop cooling; EPA referral pending; construction from late 2029, opening ~2032",
   "cooling": "liquid-ready",
   "certifications": null,
-  "description_en": "A gigawatt-scale renewable-powered AI factory proposed on Karajarri country south of Broome by Gingerah Energy (Traditional Owners, Fugro and Longreach), with a ~240MW first phase targeted for 2032.",
-  "description_zh": "Gingerah Energy（Karajarri传统土地所有者、Fugro与Longreach合资）拟在Broome以南Karajarri土地上建设的吉瓦级可再生能源AI工厂，首期约240 MW，目标2032年投运。",
+  "description_en": "Gigawatt-scale campus proposed in the Great Sandy Desert about 100 km south of Broome, paired with its own generation rather than a grid connection.\n- EPBC Act referral lodged; public comment closed 4 November 2026, controlled-action decision pending. A WA planning application has been submitted; no state environmental submission as at late October 2026\n- Data centre staged 48 MW, 240 MW, 620 MW and 1,000 MW; the proponent describes the end state as 1 GW+ of IT load, so this row is carried on an IT-load basis\n- Generation is separate and much larger: about 5.2 GW solar and 1.5 GW wind across 27,520 ha, 5 GWh of battery storage and up to 1.5 GW of dispatchable capacity, open-cycle gas as the reference technology with the fuel source unsettled; wind and solar are intended to cover about 85% of demand\n- Pre-FID: no anchor tenant, FEED not commenced, FID on the first phase targeted 2029 and first operation 2030-2032\n- Capex above A$40bn excluding chips and fit-out",
+  "description_zh": "拟建于布鲁姆以南约100公里大沙沙漠的吉瓦级园区，自带电源而非依赖并网。\n- 已提交EPBC法referral，公众意见期至2026年11月4日，受控行为认定待决；西澳规划申请已递交，截至10月下旬尚未提交州环保审批\n- 数据中心分期为48 MW、240 MW、620 MW、1,000 MW；业主表述终期为1 GW以上IT负载，故本条目按IT负载口径计入\n- 配套电源规模远大于负载：27,520公顷场地内约5.2 GW光伏、1.5 GW风电，5 GWh储能，另有最多1.5 GW可调度电源（参考方案为开式燃机，燃料来源未定）；风光合计拟覆盖约85%用电\n- 尚未FID：无锚定租户，FEED未启动，首期FID目标2029年，投运目标2030-2032年\n- 资本开支逾400亿澳元，不含芯片与机电装修",
   "sources": [
-   "https://www.abc.net.au/news/2026-04-20/plans-emerge-gigawatt-scale-ai-data-centre-kimberley/106567332",
+   "https://reneweconomy.com.au/plans-unveiled-for-gigawatt-scale-data-centre-powered-by-6-7-gw-of-wind-and-solar-in-remote-kimberley/",
+   "https://w.media/gingerah-seeks-anchor-tenant-for-up-to-1gw-data-centre-in-western-australia/",
    "https://wainvestments.com.au/projects/gingerah-energy-hub/"
   ],
-  "last_verified": "2026-09-15",
-  "capacity_basis": "Site generation"
+  "last_verified": "2026-11-02",
+  "capacity_basis": "IT load"
  },
  {
   "facility_id": "stack-perth",
@@ -3683,17 +3687,16 @@
   "power_source_notes": "Two on-site substations proposed; site is 1.3km from Transgrid's new Wagga Wagga Terminal Station. 384 standby diesel generators and 13MW of rooftop solar proposed. Grid capacity still to be established; land requires rezoning from rural.",
   "cooling": "Closed-loop mechanical cooling",
   "certifications": null,
-  "description_en": "CDC Data Centres lodged a SEARs application (SSD-144289240) on 21 September 2026 for a campus of up to 1.4GW on 103.4 hectares at 216 Ashfords Road, Gregadoo, about 11km south of Wagga Wagga, with capex of up to A$15 billion. Four single-storey buildings totalling 189,325sqm would be delivered at roughly 240MW each, with the pipeline running to 2034.",
-  "description_zh": "CDC Data Centres 于 2026 年 9 月 21 日就 216 Ashfords Road, Gregadoo 递交 SEARs 申请（SSD-144289240），用地 103.4 公顷，位于 Wagga Wagga 以南约 11 km，满建容量 1.4 GW，资本开支最高 150亿澳元。四栋单层厂房合计 189,325 ㎡，单栋约 240 MW，分期落地至 2034 年。场地距 Transgrid 新建的 Wagga Wagga Terminal Station 仅 1.3 km，自建两座变电站，配 384 台柴发与 13 MW 屋顶光伏；用地目前仍为 rural 分区，需先行调整规划，电网容量亦待落实。",
+  "description_en": "CDC's proposed Wagga Wagga campus, declared State Significant and at scoping stage.\n- The scoping report states total power demand of up to 1.4 GW. That is a site demand figure, not IT load, so this row is excluded from IT-load totals; CDC has not published an IT-load figure\n- Wagga Wagga City Council resolved on 12 October 2026, in confidential session, to sell the council-owned Ashfords Road land to CDC, conditional on at least A$150m of community benefits, with CDC proposing a further A$75m. The council framed it as a commercial land transaction, not a planning decision\n- A petition of more than 6,500 signatures was presented on 27 October 2026 and goes to councillors on 16 November; the sale procedure had already commenced and a rescission motion was out of time\n- Planning: scoping report lodged with DPHI seeking project-specific SEARs, run alongside a planning proposal to add a site-specific permitted use to Wagga Wagga LEP 2010 while retaining RU1 zoning. No EIS lodged, no approval; assessment expected to take about twelve months\n- Power: dedicated connection to the Transgrid 330 kV substation about 1.3 km north via Lumea, two on-site substations, a STATCOM, up to 384 diesel generators with about 6,400 t of diesel storage, a 13.1 MWp rooftop solar array and closed-loop cooling. Network augmentation approvals are not settled\n- Site about 103.8 ha; investment about A$15bn excluding GST",
+  "description_zh": "CDC拟建的Wagga Wagga园区，已认定为州重大项目，处于scoping阶段。\n- Scoping报告口径为场地总用电需求最高1.4 GW，属场地需求而非IT负载，故本条目不计入IT负载合计；CDC未披露IT负载数字\n- Wagga Wagga市政府于2026年10月12日闭门会议决议，将Ashfords Road市属土地出售予CDC，附条件为社区回馈不低于1.5亿澳元，CDC另行提出追加7,500万澳元；市政府定性为商业土地交易而非规划审批\n- 逾6,500人联署请愿书于2026年10月27日提交，将于11月16日提交议员审议；此时出售程序已启动，撤销动议已过时限\n- 规划进度：已向DPHI提交scoping报告申请项目专属SEARs，并同步推进规划提案，拟在保留RU1分区的前提下为该地块增设特定许可用途。尚未提交EIS、尚未获批，评估预计约十二个月\n- 电力方案：经Lumea专线接入北侧约1.3公里处的Transgrid 330 kV变电站，场内两座变电站、一套STATCOM、最多384台柴油发电机及约6,400吨储油、13.1 MWp屋顶光伏，闭式循环冷却；电网增容审批尚未落实\n- 场地约103.8公顷，投资约150亿澳元（不含GST）",
   "sources": [
-   "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/",
-   "https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146",
-   "https://www.mingtiandi.com/real-estate/data-centres/cdc-proposes-10-5b-new-south-wales-data-centre/",
-   "https://urbandigest.com.au/urban-digest-weekly-57-nsw-ssd-updates-21-september-2026/",
-   "https://haveyoursay.wagga.nsw.gov.au/ashford-road-gregadoo-data-centre-proposal"
+   "https://w.media/cdc-plans-aud-15bn-1-4gw-data-centre-campus-near-wagga-wagga/",
+   "https://www.dailyadvertiser.com.au/story/9367871/wagga-wagga-council-approves-15b-cdc-data-centre-land-deal/",
+   "https://www.dailyadvertiser.com.au/story/9382122/more-than-6500-people-sign-petition-over-wagga-data-centre-concerns/",
+   "https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146"
   ],
-  "last_verified": "2026-10-07",
-  "capacity_basis": "IT load"
+  "last_verified": "2026-11-02",
+  "capacity_basis": "Total power demand"
  },
  {
   "facility_id": "hyperdc-moorabool",
@@ -4321,5 +4324,70 @@
   ],
   "last_verified": "2026-10-07",
   "capacity_basis": "IT load"
+ },
+ {
+  "facility_id": "iren-redbank",
+  "name": "IREN Redbank AI Data Centre Campus",
+  "operator": "IREN",
+  "operator_id": "iren",
+  "owner": "IREN Limited (Nasdaq: IREN)",
+  "state": "NSW",
+  "city_suburb": "Gregadoo, Wagga Wagga",
+  "address": "Southern outskirts of Wagga Wagga, NSW",
+  "lat": -35.195,
+  "lng": 147.395,
+  "stage": "Planning",
+  "type": "AI / HPC campus",
+  "year_announced": 2026,
+  "year_commissioned": null,
+  "it_load_mw_operational": null,
+  "it_load_mw_planned": 900.0,
+  "site_area_ha": null,
+  "capex_aud_m": null,
+  "key_tenants": "AI cloud (IREN own GPU cloud and third-party customers)",
+  "power_source_notes": "Outside IREN's announced 5 GW secured-power portfolio: no executed grid connection agreement. IREN intends to connect to the existing high-voltage network and self-fund the connection, and to contract new generation, firming and storage.",
+  "cooling": "Closed-loop; about 3 ML fill every six months during construction",
+  "certifications": null,
+  "description_en": "IREN's second proposed Australian campus, announced 13-15 October 2026 on the southern outskirts of Wagga Wagga, and a separate project from the 800 MW Bundey campus in South Australia.\n- 900 MW, with initial energisation targeted for 2029 and a staged build over six to eight years\n- IREN has not stated whether the 900 MW is IT load or facility power, so this row is excluded from IT-load totals pending disclosure\n- Explicitly outside IREN's announced 5 GW secured-power portfolio: there is no connection agreement or energy supply contract behind the figure, unlike Bundey, for which a transmission connection agreement was announced in June 2026\n- At scoping stage: a scoping report to DPHI to obtain SEARs was signalled for end-October 2026, with community drop-in sessions on 4 and 5 November. No EIS, no consent\n- Investment reported above A$10bn by Capital Brief citing unnamed sources; IREN has not published a figure\n- Sits in the same locality as CDC's Ashfords Road campus; the two together represent up to 2.3 GW of proposed - not approved and not contracted - capacity",
+  "description_zh": "IREN在澳第二个拟建园区，2026年10月13-15日公布，位于Wagga Wagga南郊，与南澳800 MW的Bundey园区为两个独立项目。\n- 规模900 MW，首期通电目标2029年，分期建设周期六至八年\n- IREN未说明900 MW为IT负载还是场地用电功率，在口径明确前本条目不计入IT负载合计\n- 明确不在IREN已公布的5 GW已落实电力组合之内：该规模背后没有并网协议或购电合同，这一点与2026年6月已宣布输电接入协议的Bundey不同\n- 处于scoping阶段：计划于2026年10月底向DPHI提交scoping报告以取得SEARs，社区开放日定于11月4日至5日；尚无EIS、尚未获批\n- Capital Brief援引匿名消息称投资逾100亿澳元，IREN本身未披露金额\n- 与CDC的Ashfords Road园区同处一地，两者合计为最高2.3 GW的拟建规模——既未获批，也未签约",
+  "sources": [
+   "https://w.media/iren-plans-900mw-data-centre-campus-near-wagga-wagga/",
+   "https://www.telecompaper.com/news/iren-proposes-900-mw-data-centre-campus-in-regional-australia--1585738",
+   "https://iren.com/data-centers/bundey"
+  ],
+  "last_verified": "2026-11-02",
+  "capacity_basis": "Not disclosed"
+ },
+ {
+  "facility_id": "nextdc-s4-phase2",
+  "name": "NEXTDC S4 Phase 2, Horsley Park",
+  "operator": "NEXTDC",
+  "operator_id": "nextdc",
+  "owner": "NEXTDC (ASX: NXT)",
+  "state": "NSW",
+  "city_suburb": "Horsley Park, Sydney",
+  "address": "6 Johnston Crescent, Horsley Park NSW",
+  "lat": -33.8318,
+  "lng": 150.8491,
+  "stage": "Planning",
+  "type": "Hyperscale / wholesale colocation",
+  "year_announced": 2026,
+  "year_commissioned": null,
+  "it_load_mw_operational": null,
+  "it_load_mw_planned": 134.4,
+  "site_area_ha": 21.33,
+  "capex_aud_m": null,
+  "key_tenants": "Undisclosed",
+  "power_source_notes": null,
+  "cooling": null,
+  "certifications": null,
+  "description_en": "A separate State Significant Development application for the second phase of NEXTDC's S4 campus, adjoining Phase 1 and sharing its electricity, water, access and security infrastructure.\n- SSD-108864209, on public exhibition 13 October to 10 November 2026. Not approved\n- The planning portal describes a maximum power consumption of 134.4 MW across two buildings (EF, four storeys; G, two to three storeys), maximum height 38.67 m, about 36,000 sqm GFA, plus plant, diesel storage and substation works on a 21.33 ha site\n- Carried on a maximum-power-consumption basis and therefore excluded from IT-load totals\n- Secondary coverage reporting A$1.79bn or A$3.50bn of capex and 180 MW is inconsistent with the portal; no capital investment value is published on the portal page",
+  "description_zh": "NEXTDC S4园区二期的独立州重大项目申请，紧邻一期并共用其供电、给水、交通与安防设施。\n- SSD-108864209，2026年10月13日至11月10日公示，尚未获批\n- 规划门户表述为最大用电功率134.4 MW，含两栋建筑（EF栋四层、G栋二至三层），最高38.67米，建筑面积约3.6万平方米，另有机电、储油及变电站工程，场地21.33公顷\n- 按最大用电功率口径收录，故不计入IT负载合计\n- 二手报道中17.9亿或35.0亿澳元资本开支、180 MW等数字与规划门户不符；门户页面未公布资本投资额",
+  "sources": [
+   "https://www.planningportal.nsw.gov.au/major-projects/projects/nextdc-s4-data-centre-phase-2-horsley-park",
+   "https://urbandigest.com.au/ssd-108864209-1-79b-nextdc-data-centre-expansion-proposed-in-horsley-park/"
+  ],
+  "last_verified": "2026-11-02",
+  "capacity_basis": "Maximum power consumption"
  }
 ]

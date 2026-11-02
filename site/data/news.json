@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-02T06:58:54Z",
- "added_this_run": 4,
- "total_items": 1667,
- "earliest": "2019-03-19",
+ "fetched_at": "2026-11-02T07:32:58Z",
+ "added_this_run": 20,
+ "total_items": 1687,
+ "earliest": "2019-03-18",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
-   "in_feed": 100,
-   "new": 1
+   "in_feed": 88,
+   "new": 5
   },
   "gnews-dc-au-2": {
-   "in_feed": 28,
-   "new": 0
+   "in_feed": 29,
+   "new": 1
   },
   "gnews-operators": {
-   "in_feed": 96,
+   "in_feed": 100,
    "new": 2
   },
   "gnews-grid": {
-   "in_feed": 9,
+   "in_feed": 8,
    "new": 0
   },
   "gnews-zh": {
@@ -34,29 +34,44 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 69,
-   "new": 1
+   "in_feed": 95,
+   "new": 12
   }
  },
  "by_month": {
-  "2026-11": 33,
-  "2026-10": 1542,
+  "2026-11": 40,
+  "2026-10": 1544,
   "2026-09": 53,
   "2025-07": 1,
   "2021-10": 1,
   "2021-06": 1,
   "2021-04": 1,
+  "2021-01": 1,
   "2020-12": 2,
   "2020-11": 3,
-  "2020-10": 21,
+  "2020-10": 29,
   "2020-07": 1,
   "2019-07": 2,
-  "2019-06": 1,
+  "2019-06": 2,
   "2019-04": 3,
-  "2019-03": 2
+  "2019-03": 3
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Labor pressed to reject inner-Melbourne data centre before Vic election - AFR",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXd3TTd6cW1qdEx1VEpUWEx4Um10dGN5dWdhY0lwLVdieU9xX2lWVGtEdWVqTjVobnFSR1dwbkFDU0xhVEpTY1dSZV9mendEZmxVZHQzNW9HZWh4OTRwTGVZR1VSMXhkTWE1NTlIdzZmWXdKRjNWeTh3Nm9ucXNHbUdqMG1NZkllT04zU0FHejU0OUtxTjhOd2VGNkJ4LTNQeUZOTGU0bUhicmFtUjkwTlVUaWN6ODFFSHlUd0QwQ1FIU3lJS3FBbHhBUi0?oc=5",
+   "summary": "Labor pressed to reject inner-Melbourne data centre before Vic election    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-02T07:25:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
   {
    "title": "Westkon Precast backs Data Centre Build Expo - Inside Construction",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGM0NS1kekFtXzBLdDVrZThFRkJyY05qNjNwYmk1VTRkZXVNdVgyYzNxQm5ORFEwVElyMnJzWU9xOFZCSnI3RFBpQ0JMSkhyZWs5UFJfelpseTB0dEhxLVIzdDhZNnRPUHRLYTVtUkVMMERzbGxpNmlUYTJ3cDBMWnVzTGpkbzF4cERB?oc=5",
@@ -68,6 +83,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-11-02T06:58:54Z"
+  },
+  {
+   "title": "Australia Data Center Market 2026 | Worth USD 8.2 Billion by 2034 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm5hQmN5S0hrQl83dlF6SWNORDBSZEx3Q3pwZGJsVUhnSFBoYU5YY2l3bklvWkRYSHA2Y3VzbWdjS2xWZUU3aXg1cE9jNGlYWVdtZEN0ZkhFTUtCc0ZoZW13ZUsyYmRkMVAyZ0hGbC1SRV9kcmxEeVl5a3hIWVBTbXdkd0drUzZBTDBDM0FpcFJRRzNXYUtqMUl6R3JLMDl5?oc=5",
+   "summary": "Australia Data Center Market 2026 | Worth USD 8.2 Billion by 2034    openPR.com",
+   "publisher": "openPR.com",
+   "published": "2026-11-02T06:45:13Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "Australia’s 1GW Project Ares Data Centre Faces Regulatory Delays in the Northern Territory - Construction Review",
@@ -82,6 +109,18 @@
     "NT"
    ],
    "first_seen": "2026-11-02T06:35:18Z"
+  },
+  {
+   "title": "Energy North delays 1GW Australia data centre project - ET Datacenters",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUENDU2dLRnhQWV9uTDkxQVhCT3FzMkF0Y3NLQy1WOHdJQk9zUThYNmxQQ01BZW9hVFc4MlBjTXd6NTBWVjM1dTB0a3dUS2NnM3BSaEk1NnVGc254Q2lNSENkS0J4ejdKa1BmN2k3RTV6TmRKWmxJeFZ4NTI0MnBoLUljQkF6amx5NzBZNC03MVJHNldfbzBNb3ZrWHVKZEJqRTU4Mm9YNWNQLXgxcFU0b3ctYS1tU2NGeU5mWXNqNlkxbWFNcHJMWXUtU19aUnRUdUtuMU9ZVmNSMFlIRldiQdIB5AFBVV95cUxPU0RJTWowN3BsUURmZ0laOWZKemc4RHNwcE5YYUJxa1dkemcwYmc1REFsemhvOWw1OUQ3UUlzVFZ0QXI5MXVRWEVDQWRud2FvUXZ2U0d3Ul95Y0V6Mmk3cjdMYXdKajcyM0hvTXdnal9YZUFaaW9IM1JaeTh0a29rV3FUOHF4NVBsZkRrdDhUTFhjWl81SW9RUGNWRlhNMlBOYnNXUkY4dm8ySC1yLUVLQmFXelBBU19hNTA1WWp5OG02bXhreDg4ZmVqTjZiU1VkSmJLMXEzWFFMYWlyc0l2Z0RVNGY?oc=5",
+   "summary": "Energy North delays 1GW Australia data centre project    ET Datacenters",
+   "publisher": "ET Datacenters",
+   "published": "2026-11-02T06:21:07Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "Topic | Education | Australian Financial Review - AFR",
@@ -172,6 +211,18 @@
    "first_seen": "2026-11-02T06:35:18Z"
   },
   {
+   "title": "Australia housing approvals point to weaker 2027 outlook - CFOtech Australia",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYU1xWlFDZzJHQ25PWTdmT0IxTXBDbjlzWHFzR0ltaTZCd0JDVGFvcWxIVzMyb0t3NzN3cWx6MjBfYll3Rjh0alFZdXFKYUcyWXJXOVBHZEcxWTZyc2VTX216eGQzZ2t2U0Etejh6dWhtZFdaSmQ2d01EN1pldzJ4a254OGNvOHB3S2dER1Rn?oc=5",
+   "summary": "Australia housing approvals point to weaker 2027 outlook    CFOtech Australia",
+   "publisher": "CFOtech Australia",
+   "published": "2026-11-02T01:55:55Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "Heidi Health goes to war with rival GP software giant over AI plans - AFR",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3NGUmhyTkFfWlAyNUx3QUZnTTRITzJMMG9xalBKLUQxWllvSi1ZTXZQWTRYWUktdTFMYzFmWkxvUW1hczNSV1p0Z2Y3NjFTX0QwWWt5VDE1Y2RpWFZnTy1YRm1uczlYa1VSYVdEVnVIMFVVNkZEZ2lSQVVnX1dQeC1VeE5GaGpXMzlTSGI0ODhkSWhaRDlJTVpTbjNhLUJfRV9GRXVCWWFWVHZ2dXVGRGx2ZXE?oc=5",
    "summary": "Heidi Health goes to war with rival GP software giant over AI plans    AFR",
@@ -218,6 +269,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-11-02T06:35:18Z"
+  },
+  {
+   "title": "Topic | Paris Agreement | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjNnptaTFiUXZZdU9JZ1VKcDE0djVXSDdaZGhaZ0xuYmlaeE4zaU02TWZrS08yTmkxR0xtWEZEcElGSV9uOTJ2UGZib3c5cFpYOFdOWjRNX3Q?oc=5",
+   "summary": "Topic | Paris Agreement | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-02T00:19:50Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "Why the Olympic Games could leave Brisbane short of ice cubes - AFR",
@@ -322,6 +385,18 @@
    "first_seen": "2026-11-02T00:01:49Z"
   },
   {
+   "title": "FILE PHOTO: FILE PHOTO: Australian outback data centre pulls timeline after regulator stalls - The Daily News | Texas' Oldest Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdG1WZVJRUEJSUmRNMFpzZk5MS204bmYtWU9qVWlJbnRRa0dDdW5zTUdVOUpXdTVoX19vWWhWVWZuMGsxTTJCSjByejhIN2MxWnpqb0ZSZGp5TFpKZWdXRXV6RGpGdmhyaFN0THJOam9SS083TUVzVUwteGxsM3dpd1hLVll2bzhwbGhLVEFHX3BieHVXaDRHeFhRaWtvdGlxX2tOZmZTOWctOGJZZ1Q2ay1GamtNUDBRLXR4M3VVWEp6TEF5ejZMMWFsQzFGZnk2UGtXZHNGUV9TaUhNYjJWV1lqeGRRNjhNXzFpbzI0WktoQWNIOTBPd0ZOVWpiWThJTU5yZ09ZVXh5SU5qU1JoTzMtdw?oc=5",
+   "summary": "FILE PHOTO: FILE PHOTO: Australian outback data centre pulls timeline after regulator stalls    The Daily News | Texas' Oldest Newspaper",
+   "publisher": "The Daily News | Texas' Oldest Newspaper",
+   "published": "2026-11-01T21:36:51Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls By Reuters - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjI5WjBCMzVnY3RfT3NVdzRpazVBOGF0blV1VFlfLVhKXzNZMmROQ3piQVExcVJSLS1GMkt4Z3ZjWURWdnRONW5RWl8xVktlT3o1ZWxEMU5JTGJEREsyNlQ2ekVMeEdPd2NPSUhKZFZvenhWRDhvcHRRVDl6WEVuVi1Ic3RmSjl6MHEzeUdrMVowNHdPakZRT0dubmFtbHVGWS00Z0QwaDdldWgtb2tvNnY3UG9Sb015X2FfT1NfNkg1RllFZXlkX29EQ3lTMGc?oc=5",
    "summary": "Exclusive-Australian outback data centre pulls timeline after regulator stalls By Reuters    Investing.com",
@@ -344,6 +419,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-11-02T00:01:49Z"
+  },
+  {
+   "title": "Energy North drops data centre start timeline in Australia as regulator review slows project - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREU4czJaR19KV2VrclFOM3VmRGVhWmVGWTEzcmJ6aVQxTHpYRFExSVV2VTc4TENwTi1pUmlaNFZFUHNJMDl2QXAzS2xITFg4LW4tTVp4dXJSTUhaZk94YVBwekYtWjNybE1peXR3Skk2R0ZYeGgwRVJnd2VKVXhKWEhFWkpDX3NUSVM1S3dR?oc=5",
+   "summary": "Energy North drops data centre start timeline in Australia as regulator review slows project    Traders Union",
+   "publisher": "Traders Union",
+   "published": "2026-11-01T21:25:22Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "Data centre demand to reach 34TWh by 2036, AEMO reports - Utility Magazine",
@@ -2153,6 +2240,22 @@
    "first_seen": "2026-10-30T00:29:37Z"
   },
   {
+   "title": "coNEXA to invest AU$250m in recycled water network to supply NextDC’s S4 Sydney - W.Media",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXZGQURwOUMxWkItWldkZmloV04zdkEwV2NpWXM4VjlFdTF0X3RkRHc5OTk3WTlmQVJnbjlJdm1FV1QyY3pIU3AyZXhaaTJsUW1xd3RiZ3FhUzNzR2xaWkU0ejQ4NUwtcVFrbzJ6N1k2YkpMQXVxQUdKMlRZRHV1ZTJ0c3NMT0NPWS1waXJFX1VYUGFMTjN0NURn?oc=5",
+   "summary": "coNEXA to invest AU$250m in recycled water network to supply NextDC’s S4 Sydney    W.Media",
+   "publisher": "W.Media",
+   "published": "2026-10-29T02:37:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "Shape Australia Accelerates Diversification with Data Centre Push and Record Backlog - The Globe and Mail",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZWFfMXJsRXhpS0ZoY0psejlRRDgyWGlqVU5Wcjg1M05qM1pWRDRCMC1DSVBLX3BJQW12RDIyZDBBdDNWeGk4R0ViQ2dramJqbU5HbmJMZ0FTV0lrRjJVblhKeUdaMDNqTWktaURlekh6ZmN1bWZBRUJPcFgyZnZydng4dmMzd1d0Y2MwYjFFNHd5dkpDM21aaUZUZGNfRGJ0ejdWdVd1eTQwUkVUSXItV0EydHllNi1uUjhZX1NJSVBlUlFKbnFGWmVYcjhKUGdCbDFOdUVGWWhoUnVIb1Z5ZmxOdVNPY2JEQmpoMElTZGlVZlBaaVp4Nw?oc=5",
    "summary": "Shape Australia Accelerates Diversification with Data Centre Push and Record Backlog    The Globe and Mail",
@@ -3331,6 +3434,20 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-29T00:31:00Z"
+  },
+  {
+   "title": "Nextdc Confirms Compliance With Financial Covenants - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkxzTUl4bFh2NWZXSkpZY2lySUZlSEx3ZWhiQXVINXVGcFRhLTJjQUtWdHQwcDhORTlVYjNtZjIwYk9MeUt0SVpfM0otbWZXY195Q2FicWJ2alV0OVMtVGpiWUt5Z3lhYlRobElhWC15SUhBZUQ0VnQxd1ZBUmxxbDV1ajRQSllPQkRBVF8wNzRreEpJSnNNSkRmMA?oc=5",
+   "summary": "Nextdc Confirms Compliance With Financial Covenants    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-27T23:42:51Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "NEXTDC (ASX:NXT) Is the Balance Sheet Really as Strong as Management Says - Stocks Down Under",
@@ -20822,6 +20939,18 @@
    "first_seen": "2026-10-21T23:47:01Z"
   },
   {
+   "title": "RAC News, Analysis, Announcements & Results | Racura Oncology Ltd - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1UFFUZ1F2Yjh2WVk5TjRqVlJUUUlabFpobzhJbXFlZlVqN1hlbXNobjZnYmwwMzhsMkc3ZEYxcHNrNkZLakhaZFBVNA?oc=5",
+   "summary": "RAC News, Analysis, Announcements & Results | Racura Oncology Ltd    AFR",
+   "publisher": "AFR",
+   "published": "2021-01-02T11:41:36Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "CMA News, Analysis, Announcements & Results | Carma Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hekVjRktyakI3c0gzYThiWFh3NVFMZm1ESGZVR3dNNHFjMzM4WG9HRWpDVkNUZDFIUEdQTVBpNzFJTHJFb2I3SFVkaw?oc=5",
    "summary": "CMA News, Analysis, Announcements & Results | Carma Limited    AFR",
@@ -20918,6 +21047,18 @@
    "first_seen": "2026-10-27T00:08:05Z"
   },
   {
+   "title": "LKE News, Analysis, Announcements & Results | Lake Resources NL - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0ODNUb2Q2YVJiT1MtTVNsVy12UGtlRlRZMFdhRXN3dkFCRnlya2RudTRwNTdMRXNYbXlSeUY4TVM0Z2loSmVqN0toUQ?oc=5",
+   "summary": "LKE News, Analysis, Announcements & Results | Lake Resources NL    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T15:45:25Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "HLS News, Analysis, Announcements & Results | Healius Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40UUMyQmNOaWVpMEU4UTF3YkJ4Ri1JV2Z3U1FHR214SF9IZ0UyYVM5NVY4WjZXR3pTbE44VEVlUllhUGVDY3RTczZWdw?oc=5",
    "summary": "HLS News, Analysis, Announcements & Results | Healius Limited    AFR",
@@ -20942,6 +21083,18 @@
    "first_seen": "2026-10-15T21:18:46Z"
   },
   {
+   "title": "CGR News, Analysis, Announcements & Results | CGN Resources Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JRzZnTm5PbTMwN2Z4Qm1fWlB1RDh4Y3VVS3RBNnJ0VzV5NUozRzRfb2E3ZzZYOElWY3BJZTg2NGtDZ2dMY3czUjRNcw?oc=5",
+   "summary": "CGR News, Analysis, Announcements & Results | CGN Resources Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T06:03:55Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "SPK News, Analysis, Announcements & Results | Spark New Zealand Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03ZlVnSXBNRFJ3X3B4VjNjOGI3RTNTY0RRTGxGWXVTM3llNURYN2VvS250VDVHcUtkWXFjNlo5d0tyaGNvUTNkM2VYTQ?oc=5",
    "summary": "SPK News, Analysis, Announcements & Results | Spark New Zealand Limited    AFR",
@@ -20954,6 +21107,18 @@
    "first_seen": "2026-11-02T06:35:18Z"
   },
   {
+   "title": "SXE News, Analysis, Announcements & Results | Southern Cross Electrical Engineering Ltd - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pRnBaNWh4RTNSN3JtZ1ZoTGo2QmdEX0IwQ084ejhTdzE5ZWVhUWZzdm42S0cydjFKcGFpUThmNWlZaUlFQ3FleDY5NA?oc=5",
+   "summary": "SXE News, Analysis, Announcements & Results | Southern Cross Electrical Engineering Ltd    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T04:11:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "IMD News, Analysis, Announcements & Results | Imdex Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QWDVJd2RiOE9udU9VUHZvYTFYdmNmWnpsbHBGTTVRQWpzZjQtaW1DNDh4Yjh3SHF3MU1hOU5GSGZ2Z1V5Rm1HSjRuNA?oc=5",
    "summary": "IMD News, Analysis, Announcements & Results | Imdex Limited    AFR",
@@ -20964,6 +21129,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-20T23:31:32Z"
+  },
+  {
+   "title": "PGF News, Analysis, Announcements & Results | PM Capital Global Opportunities Fund Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4dVBEeVV0UHZEUWVCekZQcmtNa2lKcmZzc1FWZWE2V2xleFZLZkk1dWM4M2RsaE5jRVhEOUs5dU52czRPQXNYTzJlTQ?oc=5",
+   "summary": "PGF News, Analysis, Announcements & Results | PM Capital Global Opportunities Fund Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T03:54:49Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "APA News, Analysis, Announcements & Results | APA Group - AFR",
@@ -21026,6 +21203,18 @@
    "first_seen": "2026-10-20T23:31:32Z"
   },
   {
+   "title": "ADH News, Analysis, Announcements & Results | Adairs Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIMHZuNzFGSG1iQV9IcHk2bFE3Zi0tajZfbVRyQklVa3hlV0RJTjFoYktTUGJ2UlJDRTE2Vmk4ZFQ1TndQY0lvZlAxZw?oc=5",
+   "summary": "ADH News, Analysis, Announcements & Results | Adairs Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T01:10:12Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "GLB News, Analysis, Announcements & Results | Globe International Limited - AFR",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53X2p0UDlJNDJyb2YzWW5JSWowQVNiamdKTXlyZzZlX3pMQlpfN0dpTkNUa1Q2ZkJlUFN5OHBBcXlZRExuTjY2a1g0Zw?oc=5",
    "summary": "GLB News, Analysis, Announcements & Results | Globe International Limited    AFR",
@@ -21036,6 +21225,30 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-20T23:31:32Z"
+  },
+  {
+   "title": "CWP News, Analysis, Announcements & Results | Cedar Woods Properties Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MV3NCYTJBN1JwRWtNLTAwajlYTS10ODNDRjk1R0dXX0tneGtGT0tod2JfVEg2eHRQdE5YS29OR21iYjk0dnZrUzZ4RQ?oc=5",
+   "summary": "CWP News, Analysis, Announcements & Results | Cedar Woods Properties Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T01:00:44Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
+   "title": "EQT News, Analysis, Announcements & Results | EQT Holdings Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FRUNwMG1CNG1Teko5YUx2TXliUldVZzdkRVlfMXg4c1JmVktNdTctVWNpdjhCNHNNcDk0cXd3d1BCUjB4MG8zaFpyVQ?oc=5",
+   "summary": "EQT News, Analysis, Announcements & Results | EQT Holdings Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T00:40:21Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "PRU News, Analysis, Announcements & Results | Perseus Mining Limited - AFR",
@@ -21084,6 +21297,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-16T23:06:34Z"
+  },
+  {
+   "title": "SRV News, Analysis, Announcements & Results | Servcorp Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvaUpnRXZ2WW11anBGUWNMMGVnNXZKWGNSTGhiVUstb2ZsR2NSTmZUWFlyRzZqYW13VWFkZ3BpUEVXYmpXVmF1anJpaw?oc=5",
+   "summary": "SRV News, Analysis, Announcements & Results | Servcorp Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-19T23:41:01Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   },
   {
    "title": "WGN News, Analysis, Announcements & Results | Wagners Holding Company Limited - AFR",
@@ -21170,6 +21395,18 @@
    "first_seen": "2026-10-27T00:08:05Z"
   },
   {
+   "title": "People | Lindsay Fox News, Features and Galleries | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44NkJVQ0l2RlJXR2dlWlRRd0thdUVlM2hRSTBJaEJSbTA3QlZSU1Q3UUV6WjJqYWI1UW12cGZVOTBXZG1PX3ZKZDJOUHBEQ09fbjRLZDVjME9mWkww?oc=5",
+   "summary": "People | Lindsay Fox News, Features and Galleries | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2019-06-27T12:14:30Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
    "title": "People | Bruce Mathieson News, Features and Galleries | Australian Financial Review - AFR",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85TjMyeWY3Y0J6dnFOT1hrRGx3bl9kME50RFVZaDNyUUZuS19ZSGFuSU93bnJJcWlKSDZudEdkWjZHYzZvcFIxdng0R0RJZ1ZCRmFDYy1mVTRFZmFLWTJoYTVlMkE?oc=5",
    "summary": "People | Bruce Mathieson News, Features and Galleries | Australian Financial Review    AFR",
@@ -21240,6 +21477,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-14T21:17:30Z"
+  },
+  {
+   "title": "Topic | Cash | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EWEV5ZkJEVkFLVExtbDQ5TUlTNTZ4R3BuLWFyNXNBcW1iT0NTNTA3c0JrWmZLd1FteWc0ekhuQ2RvSnBCMFE2cGVB?oc=5",
+   "summary": "Topic | Cash | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2019-03-18T22:53:02Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-02T07:32:58Z"
   }
  ]
 }

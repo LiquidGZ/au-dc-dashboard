@@ -22,10 +22,10 @@
     "Operational": 697.0,
     "Under Construction": 1143.0,
     "Approved": 84.0,
-    "Planning": 1592.0,
+    "Planning": 192.0,
     "Withdrawn": 0.0
    },
-   "fullbuild_mw": 3516.0,
+   "fullbuild_mw": 2116.0,
    "share_of_tracked_operational": 35.9
   },
   {
@@ -66,22 +66,22 @@
    "pipeline_mw": 537.0,
    "pipeline_basis": "operator-reported",
    "announced_investment_aud_bn": 9.75,
-   "facility_count": 23,
+   "facility_count": 24,
    "by_stage": {
     "Operational": 15,
     "Under Construction": 4,
     "Approved": 1,
-    "Planning": 3,
+    "Planning": 4,
     "Withdrawn": 0
    },
    "mw_by_stage": {
     "Operational": 562.15,
-    "Under Construction": 366.4,
+    "Under Construction": 381.4,
     "Approved": 150.0,
     "Planning": 698.0,
     "Withdrawn": 0.0
    },
-   "fullbuild_mw": 1776.5,
+   "fullbuild_mw": 1791.5,
    "share_of_tracked_operational": 18.8
   },
   {
@@ -477,6 +477,34 @@
    "share_of_tracked_operational": 0.0
   },
   {
+   "operator_id": "iren",
+   "name": "IREN",
+   "has_profile": true,
+   "category": "AI/GPU cloud",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 1700.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": null,
+   "facility_count": 1,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 1,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0.0,
+   "share_of_tracked_operational": 0.0
+  },
+  {
    "operator_id": "firmus",
    "name": "Firmus Technologies",
    "has_profile": true,
@@ -638,10 +666,10 @@
     "Operational": 0.0,
     "Under Construction": 0.0,
     "Approved": 0.0,
-    "Planning": 0.0,
+    "Planning": 1000.0,
     "Withdrawn": 0.0
    },
-   "fullbuild_mw": 0.0,
+   "fullbuild_mw": 1000.0,
    "share_of_tracked_operational": 0.0
   },
   {
@@ -698,34 +726,6 @@
     "Withdrawn": 0.0
    },
    "fullbuild_mw": 800.0,
-   "share_of_tracked_operational": 0.0
-  },
-  {
-   "operator_id": "iren",
-   "name": "IREN",
-   "has_profile": true,
-   "category": "AI/GPU cloud",
-   "operational_mw": null,
-   "operational_basis": "not disclosed",
-   "pipeline_mw": 800.0,
-   "pipeline_basis": "operator-reported",
-   "announced_investment_aud_bn": null,
-   "facility_count": 0,
-   "by_stage": {
-    "Operational": 0,
-    "Under Construction": 0,
-    "Approved": 0,
-    "Planning": 0,
-    "Withdrawn": 0
-   },
-   "mw_by_stage": {
-    "Operational": 0.0,
-    "Under Construction": 0.0,
-    "Approved": 0.0,
-    "Planning": 0.0,
-    "Withdrawn": 0.0
-   },
-   "fullbuild_mw": 0,
    "share_of_tracked_operational": 0.0
   },
   {
@@ -810,6 +810,34 @@
     "Withdrawn": 0.0
    },
    "fullbuild_mw": 812.3,
+   "share_of_tracked_operational": 0.0
+  },
+  {
+   "operator_id": "edgeconnex",
+   "name": "EdgeConneX",
+   "has_profile": true,
+   "category": "Hyperscale developer",
+   "operational_mw": null,
+   "operational_basis": "not disclosed",
+   "pipeline_mw": 450.0,
+   "pipeline_basis": "operator-reported",
+   "announced_investment_aud_bn": null,
+   "facility_count": 0,
+   "by_stage": {
+    "Operational": 0,
+    "Under Construction": 0,
+    "Approved": 0,
+    "Planning": 0,
+    "Withdrawn": 0
+   },
+   "mw_by_stage": {
+    "Operational": 0.0,
+    "Under Construction": 0.0,
+    "Approved": 0.0,
+    "Planning": 0.0,
+    "Withdrawn": 0.0
+   },
+   "fullbuild_mw": 0,
    "share_of_tracked_operational": 0.0
   },
   {
@@ -1593,25 +1621,25 @@
    "other_basis_mw": 0.0
   },
   "NSW": {
-   "count": 55,
+   "count": 57,
    "by_stage": {
     "Operational": 21,
     "Under Construction": 9,
     "Approved": 6,
-    "Planning": 18,
+    "Planning": 20,
     "Withdrawn": 1
    },
    "mw_by_stage": {
     "Operational": 1235.5,
-    "Under Construction": 1687.0,
+    "Under Construction": 1702.0,
     "Approved": 626.9,
-    "Planning": 5728.0,
+    "Planning": 4328.0,
     "Withdrawn": 90.0
    },
    "operational_mw": 421.5,
-   "planned_mw": 11664.4,
-   "fullbuild_mw": 9367.4,
-   "other_basis_mw": 2300.0
+   "planned_mw": 12713.8,
+   "fullbuild_mw": 7982.400000000001,
+   "other_basis_mw": 4734.4
   },
   "NT": {
    "count": 5,
@@ -1731,13 +1759,13 @@
     "Operational": 62.0,
     "Under Construction": 200.0,
     "Approved": 0.0,
-    "Planning": 192.0,
+    "Planning": 1192.0,
     "Withdrawn": 120.0
    },
    "operational_mw": 24.0,
    "planned_mw": 1574.0,
-   "fullbuild_mw": 574.0,
-   "other_basis_mw": 1000.0
+   "fullbuild_mw": 1574.0,
+   "other_basis_mw": 0.0
   }
  },
  "by_stage": {
@@ -1747,23 +1775,23 @@
   },
   "Under Construction": {
    "count": 22,
-   "planned_mw": 2790.4
+   "planned_mw": 2805.4
   },
   "Approved": {
    "count": 12,
    "planned_mw": 2108.9
   },
   "Planning": {
-   "count": 42,
-   "planned_mw": 9002.0
+   "count": 44,
+   "planned_mw": 8602.0
   },
   "Withdrawn": {
    "count": 2,
    "planned_mw": 210.0
   }
  },
- "facility_count": 134,
- "other_basis_mw_total": 12580.0,
+ "facility_count": 136,
+ "other_basis_mw_total": 14014.4,
  "disclosed_operational_mw_sites": 874.4,
- "planned_mw_sites": 29367.0
+ "planned_mw_sites": 30416.3
 }
