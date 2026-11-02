@@ -159,3 +159,5 @@ ul.dots li { margin: .22rem 0; }
 .drawer-close { position: absolute; right: .8rem; top: .6rem; border: 0; background: none; font-size: 1.6rem; cursor: pointer; color: var(--muted); }
 .drawer h2 { font-size: 1.2rem; margin-right: 2rem; } .drawer dl.kv { margin: .8rem 0; } .drawer .facs li { font-size: .82rem; margin: .2rem 0; }
 footer { padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: .75rem; text-align: center; }
+
+.asof-sep { opacity: .45; margin: 0 .15rem; }
