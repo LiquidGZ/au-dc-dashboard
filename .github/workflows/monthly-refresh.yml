@@ -1,0 +1,238 @@
+name: Monthly data refresh (Claude)
+
+# Runs the day after the monthly review and works its queue: researches each flagged item,
+# edits the current workbook edition in place, and opens a PULL REQUEST. It never writes to main.
+# The database is reviewed by a person before it goes live - that is the whole point of the
+# pull request, and of the validator that runs before one is opened.
+
+on:
+  schedule:
+    - cron: "0 22 2 * *"      # 22:00 UTC on the 2nd = 09:00 AEDT on the 3rd
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "Month to work, YYYY-MM. Blank = last month."
+        required: false
+      force:
+        description: "Run even when the review queued nothing."
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Check the Claude credential is configured
+        env:
+          OAUTH: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          APIKEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$OAUTH" ] && [ -z "$APIKEY" ]; then
+            echo "::error::Add a repository secret named CLAUDE_CODE_OAUTH_TOKEN (from 'claude setup-token') or ANTHROPIC_API_KEY before this workflow can run."
+            exit 1
+          fi
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Locate project root
+        id: root
+        run: |
+          DIR=""
+          if [ -f scripts/build_data.py ]; then
+            DIR="."
+          else
+            for d in */; do
+              if [ -f "${d}scripts/build_data.py" ]; then DIR="${d%/}"; break; fi
+            done
+          fi
+          if [ -z "$DIR" ]; then
+            echo "::error::Could not find scripts/build_data.py anywhere in the repository."
+            ls -la; exit 1
+          fi
+          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
+
+      - name: Install dependencies
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: pip install -r scripts/requirements.txt
+
+      # Nothing to work if last month's review raised nothing. Checked by shape, so this stays
+      # correct across repositories whose reviews emit different sections.
+      - name: Read the review queue
+        id: queue
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: |
+          MONTH="${{ inputs.month }}"
+          [ -z "$MONTH" ] && MONTH=$(date -u -d "last month" +%Y-%m)
+          export MONTH
+          echo "month=$MONTH" >> "$GITHUB_OUTPUT"
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          month = os.environ["MONTH"]
+          path = f"review/{month}.json"
+          try:
+              r = json.load(open(path, encoding="utf-8"))
+          except OSError:
+              print("items=0"); print("detail=no review file"); raise SystemExit
+          total, parts = 0, []
+          for k, v in r.items():
+              if k == "window" or not isinstance(v, (list, dict)):
+                  continue
+              total += len(v)
+              if v:
+                  parts.append(f"{len(v)} {k.replace('_', ' ')}")
+          print(f"items={total}")
+          print("detail=" + (", ".join(parts) or "nothing flagged"))
+          PY
+
+      - name: Stop if the queue is empty
+        if: steps.queue.outputs.items == '0' && inputs.force != true
+        run: |
+          echo "Review for ${{ steps.queue.outputs.month }} queued nothing (${{ steps.queue.outputs.detail }}) — nothing to refresh."
+          echo "::notice::No refresh needed for ${{ steps.queue.outputs.month }}."
+
+      - name: Work on a branch
+        if: steps.queue.outputs.items != '0' || inputs.force == true
+        id: branch
+        run: |
+          BR="refresh/${{ steps.queue.outputs.month }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BR"
+          echo "name=$BR" >> "$GITHUB_OUTPUT"
+
+      # Build first so the agent reads the same JSON the site reads, rather than parsing the
+      # workbook itself to find out what is currently recorded.
+      - name: Build the current data
+        if: steps.queue.outputs.items != '0' || inputs.force == true
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: python scripts/build_data.py
+
+      - name: Research the queue and edit the workbook
+        if: steps.queue.outputs.items != '0' || inputs.force == true
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: |
+            --max-turns 120
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,TodoWrite"
+            --disallowedTools "Bash(git push:*),Bash(git commit:*),Bash(gh pr:*),Bash(gh issue:*)"
+          prompt: |
+            You are updating an Australian data-centre database that an investment committee reads.
+            The working directory is the repository root (project root: ${{ steps.root.outputs.dir }}).
+
+            ## What to do
+            Work the monthly review queue for ${{ steps.queue.outputs.month }}:
+            `review/${{ steps.queue.outputs.month }}.md` is the brief, `review/${{ steps.queue.outputs.month }}.json`
+            the machine-readable version. It queued: ${{ steps.queue.outputs.detail }}.
+
+            Current state is in `site/data/*.json`, freshly built — read those rather than the workbook.
+            The live workbook is the only `.xlsx` in `data/source/`. **Edit that file in place.** Do not
+            create another edition and do not rename it: a scheduled job already opened this month's
+            edition and the site's "Database as of" stamp is its filename date.
+
+            Make your edits with a Python script using openpyxl, run it, and keep the script at
+            `scripts/_refresh_${{ steps.queue.outputs.month }}.py` so the change is auditable. Never
+            retype a cell's contents from tool output, which may be truncated.
+
+            ## Rules that matter more than coverage
+            1. **Verify before you write.** The queue matches headlines to facilities by keyword and
+               is frequently wrong about *what happened*. Check every claim against a primary source:
+               company announcements, exchange filings, planning portals, regulator pages. If the
+               queue's framing does not match the record, correct the record and say so in your notes.
+            2. **Never estimate.** If a figure is not publicly disclosed, leave the cell blank. A blank
+               is information; a guess is a liability.
+            3. **Capacity basis is the most common error.** This database counts only `IT load` in its
+               headline. Proponents often publish site demand, grid capacity, maximum power consumption
+               or generation capacity instead. If a source does not say the figure is IT load, set
+               `capacity_basis` accordingly (`Total power demand`, `Site/grid power`, `Site generation`,
+               `Maximum power consumption`, `Not disclosed`) rather than counting it as IT load.
+            4. **Announced is not committed is not approved.** Say which, in the row's description.
+            5. **Do not source from this repository.** Its own review issues and briefs are public and
+               indexed by search engines; they are not corroboration.
+            6. Set `last_verified` to today on every row you touch, and add a `Changelog` row.
+            7. Bilingual fields: `*_en` and `*_zh`. Write the Chinese as a data-centre practitioner
+               would write it - natural professional prose, not a translation of the English. Keep
+               proper nouns (company, project and place names) in English. Use dot points for anything
+               longer than a sentence or two.
+            8. Leave the regulation step text alone unless a dated statement in it has been overtaken
+               by events; record new regulatory developments as `Reg_Changes` rows instead.
+
+            ## When you are done
+            Run `python scripts/build_data.py` and confirm it succeeds, then write your notes to
+            `review/${{ steps.queue.outputs.month }}-refresh.md`:
+            - what you changed and why, grouped by facility / operator / regulation, with sources
+            - **anything you were unsure about, and anything you deliberately left alone** - this is
+              the most valuable part of the note, so do not trim it
+            - any queue item whose premise turned out to be wrong
+
+            Do not commit, push, or open a pull request. The workflow does that.
+
+      - name: Validate the edition
+        if: steps.queue.outputs.items != '0' || inputs.force == true
+        id: validate
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: |
+          python scripts/build_data.py
+          python scripts/validate_edition.py --markdown review/${{ steps.queue.outputs.month }}-validation.md
+
+      - name: Open the pull request
+        if: steps.queue.outputs.items != '0' || inputs.force == true
+        working-directory: ${{ steps.root.outputs.dir }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MONTH: ${{ steps.queue.outputs.month }}
+          BRANCH: ${{ steps.branch.outputs.name }}
+          DETAIL: ${{ steps.queue.outputs.detail }}
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "::notice::Claude made no changes for ${MONTH}; no pull request opened."
+            exit 0
+          fi
+          git commit -m "data: work the ${MONTH} review queue"
+          git push --force-with-lease origin "$BRANCH"
+
+          DIR="${{ steps.root.outputs.dir }}"
+          BODY=pr-body.md
+          {
+            echo "Worked the **${MONTH}** review queue (${DETAIL})."
+            echo
+            echo "Researched and edited by Claude in CI. **Nothing here is live until this is merged** —"
+            echo "merging triggers the ordinary build, which archives the superseded workbook, rebuilds"
+            echo "the JSON and deploys."
+            echo
+            echo "## What changed"
+            echo
+            cat "${DIR}/review/${MONTH}-refresh.md" 2>/dev/null || echo "_No notes file was written — read the diff carefully._"
+            echo
+            echo "## Validation"
+            echo
+            cat "${DIR}/review/${MONTH}-validation.md" 2>/dev/null || echo "_Validator produced no report._"
+            echo
+            echo "## How to review this"
+            echo
+            echo "The workbook is a binary, so read **\`site/data/*.json\`** instead — those diffs show every"
+            echo "field that moved. \`facilities.json\` and \`operators.json\` carry the figures;"
+            echo "\`regulations.json\` carries the regulatory changes."
+          } > "$BODY"
+
+          gh pr create \
+            --title "Monthly data refresh — ${MONTH}" \
+            --body-file "$BODY" \
+            --base main --head "$BRANCH" \
+            --label data-review 2>/dev/null \
+          || gh pr create --title "Monthly data refresh — ${MONTH}" --body-file "$BODY" --base main --head "$BRANCH"
