@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-02T07:32:58Z",
- "added_this_run": 20,
- "total_items": 1687,
+ "fetched_at": "2026-11-03T02:42:32Z",
+ "added_this_run": 34,
+ "total_items": 1721,
  "earliest": "2019-03-18",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
-   "in_feed": 88,
-   "new": 5
+   "in_feed": 76,
+   "new": 10
   },
   "gnews-dc-au-2": {
-   "in_feed": 29,
-   "new": 1
+   "in_feed": 60,
+   "new": 9
   },
   "gnews-operators": {
-   "in_feed": 100,
-   "new": 2
+   "in_feed": 97,
+   "new": 12
   },
   "gnews-grid": {
-   "in_feed": 8,
+   "in_feed": 7,
    "new": 0
   },
   "gnews-zh": {
@@ -31,25 +31,26 @@
   },
   "itnews": {
    "in_feed": 20,
-   "new": 0
+   "new": 1
   },
   "afr": {
-   "in_feed": 95,
-   "new": 12
+   "in_feed": 57,
+   "new": 2
   }
  },
  "by_month": {
-  "2026-11": 40,
-  "2026-10": 1544,
+  "2026-11": 66,
+  "2026-10": 1550,
   "2026-09": 53,
   "2025-07": 1,
+  "2022-04": 1,
   "2021-10": 1,
   "2021-06": 1,
   "2021-04": 1,
   "2021-01": 1,
   "2020-12": 2,
   "2020-11": 3,
-  "2020-10": 29,
+  "2020-10": 30,
   "2020-07": 1,
   "2019-07": 2,
   "2019-06": 2,
@@ -58,6 +59,330 @@
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Data centre builders abandon Sydney - Information Age | ACS",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3R1RWhzOWEzeHJqWWNZYjg0bldSNEdSNnRQSHJSV0s1LXpVYlFOSkJlVWFNbmRqSHIwVEVCNDZWbnFnMTVjQ2M2Y3RQYWl1ckFfbmNOTEhXalhvcy1QdG9HQTFQRDMtLXNEUm9PNGFyVVRMRjU0TFI5WnRQTE5vdg?oc=5",
+   "summary": "Data centre builders abandon Sydney    Information Age | ACS",
+   "publisher": "Information Age | ACS",
+   "published": "2026-11-03T02:19:39Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Australian outback data centre pulls timeline after regulator stalls - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc1MzY2oyc0dyenJGUFpWS01IcHl6dDM2cm9JbTZTNkdNN1NPeFFCR3l1SlF2UWlWdGgwUnBXU2VkUVB0WnFmSXd1c0N4cDNacmJ0dmM3cFhkT05tR1RsaTE3WHNLSWZ4TC1vdHJRVzhXTGt4YnNQQ3JVTEZiem9veGQyRFBMV09OTm1ackJPUnFxLWFXZUQ4S0s4aGN4eURfUHFiaUVqSHpzbi12UW5hMDV5TWpMeV9ZSlk5YTNR?oc=5",
+   "summary": "Australian outback data centre pulls timeline after regulator stalls    www.marketscreener.com",
+   "publisher": "www.marketscreener.com",
+   "published": "2026-11-03T02:02:03Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Australia’s Project Ares Data Center Drops Its June 2028 Target - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWhLWmQzODBGeDUyMFEtUTFfMGd4cTAxSVc5dlJ3cjJvWVJ6UHRPaWdZcE9kTGVMampMSkRyOW5uQlV5YW43Qk55QzdudEgyTFBwSDBhZEJ1eFhLZXJsd3QtUy1WZ0tzSEdobDdQTmxueGVpTU9PT08xMDRMMWZBSXRSSkF1T3JVV2RaRG95NEQwNGl1cVE?oc=5",
+   "summary": "Australia’s Project Ares Data Center Drops Its June 2028 Target    Finimize",
+   "publisher": "Finimize",
+   "published": "2026-11-03T02:01:24Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "NextDC faces new class action investigation after FY27 downgrade - Lawyerly",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnlEaTQ2ajNtd2RzZDlmOXhWZjB2S3lfVXZ5ZkVUd1BITDc3TzJNblR3c1BxY0RiSFJva3FuUzFMWGltamFhYWt1REZfaHo2UG02ZWdjQl9PdnJzWThGZmhyOHlsU3NVY0lXUThnLTU2SW9jLTBEdGdUUDVMd21VLURSVVl3T1lrNXBNTVFQbUpTdmtiQzEyMw?oc=5",
+   "summary": "NextDC faces new class action investigation after FY27 downgrade    Lawyerly",
+   "publisher": "Lawyerly",
+   "published": "2026-11-02T23:19:09Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Australia's Data Centre Rollout Creates More Work for Lawyers - Law.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVNVVFRkSVF0aGk4VmstbHB1cnBhM1BzYVU3RWg0cWpVeE9ha1BUMF9yaXpCRFlxMkozSG1iNEduQm4tQU5RMENDME5Ja2R6b3pGOFdpNUJiTHdRZlZHR3k2cTBNZ19xX1dWUjNoeFZsVGxXMW1qMERNRFZ2bGJ4UktLVmRZMnJRRFJmRHhjY2c2UDFRbWZpMnh0dV8zaWxTczl2UzZabU5hUFlXV0RUSldxeW0?oc=5",
+   "summary": "Australia's Data Centre Rollout Creates More Work for Lawyers    Law.com",
+   "publisher": "Law.com",
+   "published": "2026-11-02T22:33:46Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "ByteBridge Appoints Jonathan Buchanan as Country Manager, Australia to Drive AI Infrastructure Growth - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUHh3djJEd2N4dmtfMFZEZklwVDVhbGZOV0JCVlBqbGRIcXVVQzRlYjJVQTFuMGRobDE4WEc5VXFzOWtOTnF0alBLNlJmeVRSa2kzN3ZZRmRuYVFXVGtZeVIzdjFLUG04R3BQSGpsNzJHcG5MQ0pnaHZETnhQN01MMkVSRnZqeVVXdXdYSmJianV1bFRzRDBYSldEQ2tLTjZlYTlpcmRBTlhDXzhvTWstVW5KS3NRRTlWVnlFbFFjS3F6U3F6dTJTajN3bm5rNU5iSjRoT3kxX1VuZw?oc=5",
+   "summary": "ByteBridge Appoints Jonathan Buchanan as Country Manager, Australia to Drive AI Infrastructure Growth    EIN News",
+   "publisher": "EIN News",
+   "published": "2026-11-02T22:00:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Data-centre building approvals rebound strongly - Green Street News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmtmWFBJSnhNSVhkQ3QydmYycndmWi1MN1I5cnE4UFpUVUZSMFhOUlVOZVJSUUstUTJ6VDJsNDA4OEFHTUtpaldTUGV1amh0cVd4WThBQlRyT3RlcUlEVWFhQzNwNmxIRFN2LUg0SEVuRm05T1ZFQ0taVFVqYTZacXJteTNMc3h3R0tmVw?oc=5",
+   "summary": "Data-centre building approvals rebound strongly    Green Street News",
+   "publisher": "Green Street News",
+   "published": "2026-11-02T21:50:26Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "NT data centre pulls timeline after regulator stalls",
+   "link": "https://www.itnews.com.au/news/nt-data-centre-pulls-timeline-after-regulator-stalls-630067?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+   "summary": "More time needed to set environmental parameters.",
+   "publisher": "",
+   "published": "2026-11-02T20:23:00Z",
+   "source_id": "itnews",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "NextDC faces second class action probe over $140M revenue hit - Lawyerly",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVhSZ1V5dzFxQmU0NmdxMDBiamxfajYxQVVIdmstTW5wVlk2V2VfNVRTYTkxdGxGOVhEWTVoMzRQekUydlV5bGJ2VzhqM1VPcWp3MFhLMVc1OFRVcUdZZlhJTFgyZVgyc2lEOHlyUWRyU0UxRVNRZzNyOG42S2RRUVBvb3hmOVpmMFprY0trRjBHZ0k?oc=5",
+   "summary": "NextDC faces second class action probe over $140M revenue hit    Lawyerly",
+   "publisher": "Lawyerly",
+   "published": "2026-11-02T18:16:43Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Is Lower FY2027 Revenue Guidance Altering The Investment Case For NEXTDC Stock? - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVg2Y1A2MlBhTnJ0U2RSdHRmbklFXzFERkxJR0I1WUx0X1N1RWF0X2FxSG92YlZJYnlNRHlsZlM4TGctMlBnMkU4MndYbzZhWDhQdWtsWTZjZ21BbW1BaGNZVDJZQTlEVElFcE9FV19rYXZNRktFYzJFUW9WVUtCeGRWMkJtUjYxMi1SbmxSSU5XUTEzRkFmSktOaXJJd0FIMTBCUk1pTVJHVTBPR0dWeXZYRFpBWUNPN1Q1X0lJeUd4WlpFLTdz0gHMAUFVX3lxTE52YzZNWHVkZGV6c1VtRktFajVJWEpMRjhiaVlFRmpBcXJNcExkNkdmS3o1U0FKQ0FMNVpBaHRPZC1ZZzRFZlpBaXJEZWxPRXZOZnVybWpObnFVMzA2bkVid2FPN3JINFV5TGlZRVE5Tm9FYWl3Y0w3b29BV3Z2cjJYd29sQ25aajVRcDNGYi1KRXkzcUdYWUFjRnh0OFBSOVRjOVI3cGZfcmlxWVhQRGxtSHhKcFdBSVlwcm1sQnpFSlhMQlo2ZzBaQTFzWQ?oc=5",
+   "summary": "Is Lower FY2027 Revenue Guidance Altering The Investment Case For NEXTDC Stock?    Simply Wall St",
+   "publisher": "Simply Wall St",
+   "published": "2026-11-02T17:35:40Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Rogers expands D2D roaming coverage to international markets - Data Center Dynamics",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSG1qY1FlLTNQaUxaOThBb0p0WVdxNVBwNHV3NTJsa29UN0t0VGxQUlZseW5JSDJ6Vk5LdTBxR3pPblVhb2E1eENZc21pc2tiQ2NOYnZkR3NEWEpadWlhVXlvTmlRc2Z0REZ5Q2h0Q0Q3R2ZDUFNmNDhYbXhSQUZIV3hWRkRoelFLSGRGck5TdVlmWklub1B5Z01CR28ybzVRTlFpajNzcw?oc=5",
+   "summary": "Rogers expands D2D roaming coverage to international markets    Data Center Dynamics",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-11-02T14:46:57Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Goodman Plans 2,150 Sydney Homes Across the Street From Its $1B Data Centre - Mingtiandi",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnB2dXphUjdNdXliQ2x2LTBZUHM0Q3NtcVJkOUpOcU5FZkxlU2ZtdUY3eDVLQmpHVklKSWVNV1QzMG5QWk5wR1hPRnBaM09EaUttU3l0emFLenBWOUdpUEFPZ3lmMjBIcHRxSEw5UTMtNmpBNU1DNFB2Wjh4RDN6LUEwRVh1YklfTmhPOEFqSHpFWkVHdGgwVGwxem1wSjd6?oc=5",
+   "summary": "Goodman Plans 2,150 Sydney Homes Across the Street From Its $1B Data Centre    Mingtiandi",
+   "publisher": "Mingtiandi",
+   "published": "2026-11-02T13:36:59Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Spotswood residents take on $1.47b data centre - Information Age | ACS",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmxrT1hvMzNQLWhnUXUxQWF6NF9HQS1qMkx5VFFvOUlKQk9waWV1TjdLMjBTOVlHaVVJbUhhaVJTR2dvTjBSMFZJd3VlM3ZnU1lVSi14TndKV1hENDBOR2plZ1FxN0tCcDRyTHV4NkhBMXB1YWxMMnJRSmpvMWxEN0JlZlhQdW5XY2VhOEFXMA?oc=5",
+   "summary": "Spotswood residents take on $1.47b data centre    Information Age | ACS",
+   "publisher": "Information Age | ACS",
+   "published": "2026-11-02T12:40:05Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Why power regulators now decide where AI data centres go - Capacity Media",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXQyRkJBVUJ6OEtOaGZvbER2Q1NYVy1mMHUxQ1lsRFZfb2RHd2xGQjh4SVBZVmx0eTRKcVNzMGpWamRiX04ya3kzUzhwRFhtRjh3QUxOeFZKakNqR1RiUWU1TmR5VXJHQWt2ZElWa0NjdjhhaE1VcFBuMmlzUjhWd3RhX3dLSllYNkFsRm0yd2JBbU0?oc=5",
+   "summary": "Why power regulators now decide where AI data centres go    Capacity Media",
+   "publisher": "Capacity Media",
+   "published": "2026-11-02T12:27:07Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Raye’s Summer Tour Runs On DiGiCo Quantum, Say FOH And Monitor Engineers - UK Broadcast News | 02/11/2026 - 4RFV",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVhoeXNsV2FoUGxFUVRuNGdtWnlVMHNSMHdDVl9lRWp0NE1XbUE5NFlyaVdvcERBcmZ0eXQ3S0pRcVpDVzRBTDJwZXo2aXJ4bVpHSXJ4UXFjM3R4YTd6dDk1ZktxcFhnRmxhZUVsaWVndS1YTW9jaVlrTVBQdlNPN0ZxbGxncDVKckVVWGZPN0t4Y1RJRlVOdGZ2MGRhXzQydVdkQ053d0ZmM1N0bG16RlRkVmY?oc=5",
+   "summary": "Raye’s Summer Tour Runs On DiGiCo Quantum, Say FOH And Monitor Engineers - UK Broadcast News | 02/11/2026    4RFV",
+   "publisher": "4RFV",
+   "published": "2026-11-02T11:40:30Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "NEXTDC (ASX:NXT) Cuts FY27 Earnings Guidance by A$140 Million After Jemena Suspends M3 Power Works - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNU5oR0E4Wm1OclJFa3B3SFdzUWx1dU9laG9sOVcyOWF6YnYyYkJXemxfeUNqUGR2LWk1aW91cGxlNmhIai1VcC1zT0JGdGNic3JBcmlHRnp1Y2JkM2dBODJack95b282Z0NnWmZmX0xfUkR1Y0V6ZFlkc3BzT3Z2RmctZzgtbXpObkU0YVlncXZSZ2tjbkRBWUtOUlZNVUx5dzl4VWswM2dJb1JPQ182Mk5uTy1ZaG1iWUtMemVxd2Zwa3pQWEVDTXlTYnd2QQ?oc=5",
+   "summary": "NEXTDC (ASX:NXT) Cuts FY27 Earnings Guidance by A$140 Million After Jemena Suspends M3 Power Works    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-02T11:36:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "OpenAI May Rebrand Data Centers as 'AI Computing Campuses' - Tempo.co English",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnVxdHd4UmZuWE5oVDh0LUU2RVFYVUlwb0FhUDN3OVJkMlFmZTVkOV92S1I3X01GdzYyZ18xN0l5Vi1HRWdUQklLTU5raW1aVDNFN292Wkp6dUpBZkFNdGllSjhrVGFrOUJwc2JtdGFRU2FaS1YxYzJfVW1pQzJQaFhFMGtIbHhMQ1hFVHFJTngzYVU?oc=5",
+   "summary": "OpenAI May Rebrand Data Centers as 'AI Computing Campuses'    Tempo.co English",
+   "publisher": "Tempo.co English",
+   "published": "2026-11-02T10:59:38Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "META_TITLE_QUOTE - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kaEF0RVp2MFhGaEFXRy16XzJwMUd3NnROVU9JbFRjQkYyYU9nY0RqcVBQd3dwY1pxRFVoSjBvcWhyRGkxSzJnamdWQ21PQQ?oc=5",
+   "summary": "META_TITLE_QUOTE    Yahoo Finance",
+   "publisher": "Yahoo Finance",
+   "published": "2026-11-02T10:36:41Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Power Setback, Broker Backing: Is ASX 200's NextDC (ASX:NXT) Oversold? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2dqYnZuMlBFM3ZLYlYzZUlnSjZfUjFXckVLR2tzS28wS19KaEJIa2l6UHVndW9lVk9ZWTdFZDFQZXdxOURJN3RFS2tWR2MxQ0VVM2hMODNlSHU5dHd6eE44S0Y1My1QZXI2VGxncDVQd0FONnhmNm1NQ00taHpIR1NMa2JHZmNmRU80MDFoUEpJRVdncTRubExkbkNhSXVpdjhyUzhOcDN5OGtnb3BNbmpQdmloSTVsQ3FncjZvWQ?oc=5",
+   "summary": "Power Setback, Broker Backing: Is ASX 200's NextDC (ASX:NXT) Oversold?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-02T10:24:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "AI data centre boom sparks backlash as SA moves to tighten planning laws - 7NEWS",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblpnWC1aU2pCY1pESjVxREFmRnB5RnpqN1NQd1NqSk8wRVVDdmpMZ2dIRTl4OGVPc2hXSmY0bmdMbVdJVzhyOTBtdWtpVXVjbXVqenNnMFljNHBCRTlpZkRlQ25TUzlZa0xZNGNITmNSTzBRYTh1QkxnMkRSNkwtQ3VPMkxjbFZFaEJtMWw1R29nMmNoZG9Nby02MEVBdG9DeEl4eUVDQlQ2X1BtQlpXZjRB0gG3AUFVX3lxTE1QaEZzV0dkTmh2WjRRMktOVmwtc0gzQVFGQlpETEZYZ0k0bWFiSHE4OVZ4OXlMVFNYdkVkbmJIajRCb0RObTd3dGs2SkE0Um04Z0hvYUU5ZkRITFR5UFpFcUQ0Ri1DUENHaXR6MEowdVJwV2FvQVMxenV5dlRSdUV5N1Y3d0ZILXF3NXBvcHF2dDBQNGZ5T3ptOHhlNVl0OVM0ajM3OWNkRDBGN19iNVYwQjBId0VvTQ?oc=5",
+   "summary": "AI data centre boom sparks backlash as SA moves to tighten planning laws    7NEWS",
+   "publisher": "7NEWS",
+   "published": "2026-11-02T09:32:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [
+    "AWS"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "How Is DigiCo Infrastructure REIT (ASX:DGT) Funding Its Data-Centre Expansion? - Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeURpdzk4SUpyLWxraXUzRXdiZ3JVSDhDeFBOY1U0dTJXUGZ3ajh0WHhoQXhEcXVYRGY5cFhwbi11ekEydkxZQ1VfVFBWaG5lcThRUGgyRC1COFpyQk1ZRWhrTjVENVZ6c3J0UnVXNTRFTm5FeEVWaVJPZEE3a2xhUUJkUW56SU5Fd2o3YzJNOTRKbWt1QTVlbnY1SFhDYmdGR1h3alVFenQwbF9Wd1NYLVdSTzY?oc=5",
+   "summary": "How Is DigiCo Infrastructure REIT (ASX:DGT) Funding Its Data-Centre Expansion?    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-02T09:01:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "DigiCo Infrastructure REIT"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Rolling with the punches: NextDC braces for another strike against pay - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTG9sSTJHVXJ3dzZBSVFNYzJGUWhYS3doWC0ybUZacDgwWXBXcndXOGhDeFpzVmVEYnM2aVVRVkdlTXRtekRFaHpackdZOHN4R0Qxam9IRE1mN0tIaE94bnhIbjVfWmwxbVhkdjdYZUtKcjhHVVFtbXYtb0RRM3ZiZ28zX2YwZE43QWVocVNYaVBzQXJ3ck9PbXhYcUtfMUVlWTZZZmMwYlNaNHBuRk5HNVBGVEI3bWFwRWNlNmpld3c2VjlXRFA3VzhR?oc=5",
+   "summary": "Rolling with the punches: NextDC braces for another strike against pay    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-02T09:00:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Australian Dollar dips further amid mixed data with RBA decision in focus | FXStreet - شبكة تواصل الإخبارية",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSm1JbXNDN20zd1BHYnJ6RGltaTBMQ2RJR3Fja2NCVVFMaWRVbU5NTFRndm5FV3RVNnN5TDlxZ3FXNlA3YlNUX0dWT29LQU1LTmhR?oc=5",
+   "summary": "Australian Dollar dips further amid mixed data with RBA decision in focus | FXStreet    شبكة تواصل الإخبارية",
+   "publisher": "شبكة تواصل الإخبارية",
+   "published": "2026-11-02T08:44:54Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "Environmental checks delay massive NT data centre - The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFVaOS1UQ3hHdE11UlFtSGV3eXVKOVhNbHJsRU5FYjhUV0RvcGRIV3dyLTFsUVptQ2JXcEloUEYzQkt1UFplSUNGbGE0dlExN2dyVkNVcmdoZ05Gc3RhLTZRa3dqengyY2ZlZ0JOcHFCd0pCVkJKYi0zZTlCMHZEb1FiZS1HYkZsSW5aWEJMTDd3NTBydWxjNDZiZ3YxczdFb3ZqcmJpLWZIc1NGVDVVLXVSUXZNaEZZazdRWENXUGR3eURfOVl4VUlMdVNhNDNkcEJOUm93?oc=5",
+   "summary": "Environmental checks delay massive NT data centre    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-11-02T08:34:49Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
+   "title": "NEXTDC (ASX:NXT): Can Capacity Growth Keep Pace With Capital Needs? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTYxTHZ4d1RVLUZLMzZWaUp2RGkxd1pGLUt3WXVmT0lJaVJoZGxtenhkQ0NoeUJMeWFEWXhxSzFTLXlEREpaSWNqeTdnVHhQemZRckRXb2lNQVNJTGl3SGVkZHk0Uy1WdTNJT1EtM001S1RtcVdDY2EyeUVoZEwxZC1GSUFwb3B0dFRoSFczVGc2eFRlZVJ5dTF2VEhaVDhReEp1UjVqS1h1V1BT?oc=5",
+   "summary": "NEXTDC (ASX:NXT): Can Capacity Growth Keep Pace With Capital Needs?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-02T08:34:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
   {
    "title": "Labor pressed to reject inner-Melbourne data centre before Vic election - AFR",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXd3TTd6cW1qdEx1VEpUWEx4Um10dGN5dWdhY0lwLVdieU9xX2lWVGtEdWVqTjVobnFSR1dwbkFDU0xhVEpTY1dSZV9mendEZmxVZHQzNW9HZWh4OTRwTGVZR1VSMXhkTWE1NTlIdzZmWXdKRjNWeTh3Nm9ucXNHbUdqMG1NZkllT04zU0FHejU0OUtxTjhOd2VGNkJ4LTNQeUZOTGU0bUhicmFtUjkwTlVUaWN6ODFFSHlUd0QwQ1FIU3lJS3FBbHhBUi0?oc=5",
@@ -121,6 +446,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
+   "title": "AI-driven data centre growth demands a new approach to environmental monitoring - iTWire",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlSODJNOGRrdExtclVCZ1h5d3VNeHB5ZE5mTkxaYWo1RjVnTnc4NnJTZTlJc253c1J2NzE3a0owekNCS2JWbWNzSlg2YmVXZDZQZk9PTGs4T2g4LWFTMzdNTFNLdmNGWm1Ybl9vUVNpbTgtcmNVTjFhWnJqbElzdzd4TDhoaVlSU2VPNG9IYkNrRjQyaUY0SHFUSmN4dDREVE16UGNzejFTR240dVBlT1ZfQlZRV3FDbnVTcDVsS0tQZ05ZY2c?oc=5",
+   "summary": "AI-driven data centre growth demands a new approach to environmental monitoring    iTWire",
+   "publisher": "iTWire",
+   "published": "2026-11-02T06:07:05Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "Topic | Education | Australian Financial Review - AFR",
@@ -577,6 +914,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-31T23:50:42Z"
+  },
+  {
+   "title": "Vanguard Australian Property Securities Index ETF (VAP.AX) stock price, news, quote and history - Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pM2ZOSEd3U3Jpd0FCM1JPNzBRLTZVRjZRazc4QnJyLWk2VFplTzk2Ym5NZXhqc0ZKZTNDVF85TnBWYk5SUzB4NG5ieUtsX0hBZEJWaQ?oc=5",
+   "summary": "Vanguard Australian Property Securities Index ETF (VAP.AX) stock price, news, quote and history    Yahoo Finance Australia",
+   "publisher": "Yahoo Finance Australia",
+   "published": "2026-10-31T22:12:21Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "Data centres are the latest hot topic. Here's where they could be built in the Illawarra - Illawarra Mercury",
@@ -1131,6 +1480,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-31T00:14:46Z"
+  },
+  {
+   "title": "Australia Builds Its AI Grid Without a Nuclear Option - Environmental Leader",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNy0tOF9aRTZXVU1EQTAyZndVRDhYWlUzSTZ6XzZLVm5PeWhISEV2RUxrQkxNRWF1d2lXWVlWS081bVBOaVczWU0zUHlMZERHSjdnek9jSzdWTFB2c1dwRXp4QTFpdG5HZFJrOEhoQ2xPaUl2bGR4N2FqQ0laT0xrU0NIUXVNNkNjUFdyZ211YlRibTJCR0JSOHZ0VWpqSEtlQkRyMHp3RHZ1cXk3?oc=5",
+   "summary": "Australia Builds Its AI Grid Without a Nuclear Option    Environmental Leader",
+   "publisher": "Environmental Leader",
+   "published": "2026-10-30T07:00:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "Finnish police launch investigation over Google data centre site - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -2764,6 +3125,20 @@
    "first_seen": "2026-11-02T00:01:49Z"
   },
   {
+   "title": "How Is the Grid Delay Affecting NEXTDC (ASX:NXT)? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXhnd3FYYlVDN0x4N0dxaFBVZmswemR3WDlxZFdVdHQ2cHFoSms5QUVlcG9XME5TaTVQN09zZnRWd0wxeUl3Ti1QVGdoWmpYNXc5bHRUUC1NTGw5QVhuZ3F0S3pPZU1jOFFWSGlQZGxmY2syNVRnYmVZa2FVSjRpelNTZlJFTGgzZ1ozZFRodHZFX2lfS3c?oc=5",
+   "summary": "How Is the Grid Delay Affecting NEXTDC (ASX:NXT)?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-28T22:18:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
    "title": "NextDC faces potential ASX 50 removal - grafa.com",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nRmQyS2Qwd19YNkpKSGZHRnlSTjc4ZVFwNnUwQkJ1akVWRi16bkpfS19YTmd3MEdPczd4ZzFUSjBxNC1ZRV9KNVFLWnNpNGQwTFNQTW1IREdzdzUtT2s4YUJrWHY5ekFaQTZDN050VHdacVg1NGRoQndkZkROZw?oc=5",
    "summary": "NextDC faces potential ASX 50 removal    grafa.com",
@@ -2958,6 +3333,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-29T00:31:00Z"
+  },
+  {
+   "title": "Oceania Data Center Market: Existing and Upcoming Facilities, Capacity, and Colocation Pricing, 2026-2031 | Pipeline Tops 10 GW as Australia Drives Investment - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUNDd2pUamxUdDg4VDhXVFl2WURXNHNNNDVDMnJJNjYwWFhMbldWdDA0T1J3TE5qUjlMU3RCX3pyeWZkVWUwTk9OZk5VQ25EZDhpNmlDV2RJTTQ0enBDcEFoTFFzQmVUX013RjBIMC1zeTFoNVZuZFg4SGNMUTBEOC1kcl80Y0hjVnVfXw?oc=5",
+   "summary": "Oceania Data Center Market: Existing and Upcoming Facilities, Capacity, and Colocation Pricing, 2026-2031 | Pipeline Tops 10 GW as Australia Drives Investment    Yahoo Finance UK",
+   "publisher": "Yahoo Finance UK",
+   "published": "2026-10-28T14:26:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "Mallesons, G+T advise AirTrunk on USD2.9bn green loan - Law.asia",
@@ -3182,6 +3569,20 @@
     "SA"
    ],
    "first_seen": "2026-10-29T00:31:00Z"
+  },
+  {
+   "title": "ASX 50 Data Centre Giant NEXTDC (ASX:NXT) Meets Its Covenants: How Deep Is Its Liquidity? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3pQc2xUTHJWc29TSnlsRF9NakE5M1RwcjJ6X25OakllR01XeTgyNENjYW9VUW81OEN2UUxnZHFMQkdRUFB2TUdPQjROeFVXTUozc1lLNHZQSHRMWDduRmw5UkczRTZENjYzMkNSWWw5UVdjQU9EUnppNWYybnI5TkQ4bldqY3dDVXdia0I0LTdhVk9mbUNLdTVhV1c0QWpQclNHYm9lWXI0Q2VtbGJjU2xpaGtHNXNCZW9MN0tka0ZsNWw2Tk85Q2hB?oc=5",
+   "summary": "ASX 50 Data Centre Giant NEXTDC (ASX:NXT) Meets Its Covenants: How Deep Is Its Liquidity?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-28T06:34:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "NEXTDC"
+   ],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "S.African activists push back on data centre rush - The Australian",
@@ -3720,6 +4121,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-10-28T00:08:54Z"
+  },
+  {
+   "title": "Why Did Maas Group Holdings (ASX:MGH) Slide After Firmus Withdrew Its Listing? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkM4WlFtd1pPWWhhVVFFU2JNdi1KZkRFS09nNU55dmtCb2JaY3VOMC1PRjJqS1J1cFIwcmhzV0RwWGxtQ1c3OVJ4TmtqWVlsOWVyYW4zcTE2WXcxV2ZrZUZLQU1WLVA3WGM4T1FfcWtMdnp6WThYSEhSdVdxYWVKVi1odHVISUhINnBDR1NrNThTRW5OUUNDYkNYWEFaRnlKSm9Bb2VyWEozN1R4MnlHTlVNdjJ6WEk?oc=5",
+   "summary": "Why Did Maas Group Holdings (ASX:MGH) Slide After Firmus Withdrew Its Listing?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-27T11:27:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "NEXTDC Limited (ASX:NXT): What Does the FY26 Contracted Capacity Expansion Mean for Data Centre Delivery? - Kalkine",
@@ -20903,6 +21316,18 @@
    "first_seen": "2026-10-20T23:31:32Z"
   },
   {
+   "title": "John Black - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44UUJFZkdwME1ocVJiYjQyTGdvbVluNHFNWUxCWllhcmdodGRFZVNkMjEtanIyZkUyb3VtUTRvMi1LWVJfNGtMeUx4REhfUE5EZFE?oc=5",
+   "summary": "John Black    AFR",
+   "publisher": "AFR",
+   "published": "2022-04-20T07:59:15Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
+  },
+  {
    "title": "Topic | Hawthorn Hawks | Australian Financial Review - AFR",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zZ0dVSGxCZVlMY2VPWF9scGxDeEhmb2xsZHVONEhHR0NwT1YtTjZiRjZ2bGRmZlBfc2Fic1FTVy1xZ0RnOHpNX2tfbll6a2RVWGlreHNMcw?oc=5",
    "summary": "Topic | Hawthorn Hawks | Australian Financial Review    AFR",
@@ -21249,6 +21674,18 @@
    "operators": [],
    "states": [],
    "first_seen": "2026-11-02T07:32:58Z"
+  },
+  {
+   "title": "SPL News, Analysis, Announcements & Results | Starpharma Holdings Limited - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TQXZrRDdhWXFtdWxhWjZCUS1SeUg2YUp3ODZWc1JtZzJjU0tTR1NDaDItUlVHb0JmanhScTdvelNnM0VraXVzVDhwMA?oc=5",
+   "summary": "SPL News, Analysis, Announcements & Results | Starpharma Holdings Limited    AFR",
+   "publisher": "AFR",
+   "published": "2020-10-20T00:23:59Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-03T02:42:32Z"
   },
   {
    "title": "PRU News, Analysis, Announcements & Results | Perseus Mining Limited - AFR",
