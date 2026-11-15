@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-14T01:07:17Z",
- "added_this_run": 34,
- "total_items": 2392,
+ "fetched_at": "2026-11-15T00:29:51Z",
+ "added_this_run": 13,
+ "total_items": 2405,
  "earliest": "2019-03-18",
  "errors": [],
  "per_source": {
   "gnews-dc-au": {
-   "in_feed": 68,
-   "new": 6
+   "in_feed": 63,
+   "new": 2
   },
   "gnews-dc-au-2": {
-   "in_feed": 26,
-   "new": 9
+   "in_feed": 25,
+   "new": 2
   },
   "gnews-operators": {
    "in_feed": 100,
-   "new": 12
+   "new": 2
   },
   "gnews-grid": {
-   "in_feed": 9,
+   "in_feed": 8,
    "new": 0
   },
   "gnews-zh": {
@@ -34,12 +34,12 @@
    "new": 0
   },
   "afr": {
-   "in_feed": 57,
+   "in_feed": 86,
    "new": 7
   }
  },
  "by_month": {
-  "2026-11": 711,
+  "2026-11": 724,
   "2026-10": 1569,
   "2026-09": 53,
   "2025-07": 1,
@@ -60,6 +60,123 @@
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Company | Clean Energy Finance Corporation News, Analysis, Announcements and Results | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuRVNqYXdlN19nM1N6c3VRdG4zUXFLU0tfNktvTk9oWC1VWUYzMXQ2aTBQdm5VZklOcWxYSHJ2ZXRYZ0pLdDgyWXV6ZjNYbWE4R29NcWJXZGNPS0N1b19XcXJRSVQzcHJzYVYzWmVVTDZGTzA?oc=5",
+   "summary": "Company | Clean Energy Finance Corporation News, Analysis, Announcements and Results | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-14T23:07:11Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "Topic | Company mergers | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV2JqM2NqejhxUkdvTEpMcm1QUlFoOTllU2c3Z09YSHhIUGtlMF9RNmkyZkZMbklJbEszZ3AzZzV5RU95RnZyand4RmpZVndiOHlSbmlXUXpKUQ?oc=5",
+   "summary": "Topic | Company mergers | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-14T23:07:09Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "Topic | ESG investing | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NNjNvZHJXOEIydHcxY3IyRHBwZDZZcEdJcmpzY1BaNDBWd1FTdk9xVkdWYjdYdmE0M2loRzJXR0hGSzh6Q0NnWnpKdWxKZ211S2VINFZXOA?oc=5",
+   "summary": "Topic | ESG investing | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-14T23:07:08Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "Topic | Trump's America | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YS1RaQTJSbURUc21vMXBoQjVna1JiSDRvdXI5eWFJRHRKMUFmUV9ZMGlSSzZJQlM5MlduV2I4eF8wTnpfd2NBY0ROLTNJWjZaX1c2LWgtMVJ0UQ?oc=5",
+   "summary": "Topic | Trump's America | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-14T23:07:06Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "Topic | Courts | Australian Financial Review - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oUXp5UkplcE82VzZsNHUtTXRWOHdzeXB5b2RPR210dUVaUUpWVTRuYU90US03anl2VjZuSjkyRFhLeWlkejF4OGd2cU8?oc=5",
+   "summary": "Topic | Courts | Australian Financial Review    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-14T22:08:47Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "AirTrunk Files $11B Data Campus Plans in India - Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeko1UkRBOTN3b2w0QTBpTHlVSHNqcTdSWnRtTjMtWklqN084My1uVE5SS3l0LU9iOWd3WndEMDlRcFV5SjAtSjR2S2xOdHVfYjZ2b0hMWlFZWHB1bUNoWTYyTmFpTFM5eUs4MjdjbmYyQV8zUmFqcGZ2d1QwUHhGRG1CeEI2dm82QkUyN0lwZmU2UQ?oc=5",
+   "summary": "AirTrunk Files $11B Data Campus Plans in India    Briefs Finance",
+   "publisher": "Briefs Finance",
+   "published": "2026-11-14T13:15:00Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "AirTrunk"
+   ],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India - Data Center Dynamics",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNllhT0lWWmgxYmtJNXU1ajlYbEZsaDZSc3RwWnFWMGhMbkliQVBUWUJBaUlhMHp0ckRic0FFZHFKa0lvLTZmZWFGY3g0QUdvLWdRcGg4RWFvUkp4WXNGQkZhbWtTc1JpS3VxWmVEcG5iV0MzVktQOWxSUDNBS2FpOVdCSXNKT25wcUJGc0RjUVVXYWk4UFNiU09wUmhiUVVoaWY0cVgtbUwwZUNSX3R0cjJDWVpOQzBZbU9Z?oc=5",
+   "summary": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India    Data Center Dynamics",
+   "publisher": "Data Center Dynamics",
+   "published": "2026-11-14T11:01:10Z",
+   "source_id": "gnews-operators",
+   "language": "en",
+   "operators": [
+    "AirTrunk"
+   ],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "Blackstone’s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
+   "summary": "Blackstone’s AirTrunk Advances $11 Billion India Data Center Bet    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-11-14T06:08:00Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [
+    "AirTrunk",
+    "Blackstone"
+   ],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
+   "title": "We should be wary of building data centres on the Gold Coast - Gold Coast Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWUxvU2lNeW1YMFNFdFowd1k3STZCeTVpZjhuZXdLRTdXWUZBXzdSS3I1MVpyY3hYMDV1SGZDeUtONTBzVGVqY3FBeTJuWkJXOGltNmE2S2tjZXlsM2luaEg3NlZZTi12ZXNmb2V5QUFLTTk2bnlvS2NzUk5TTlg4eDNDdDlIOXZLN081Y01fZVdaMHM5Z1cyc1k1MFhFSk1jZXVnRjRHMWdMcFRvSVJRY1RfQlVlUzlHSzBheDJEUlNjOXpTbVYyUm5OU29LcHNoYl9Md2dOSkl2SHg3bzdmOTRBeTN0SmE4VWtNM2VWVS1xSVVOVWk1ODZOYWxFU3lIWnVhaHFIdVBYeThGUFFvUUVVYkRhZw?oc=5",
+   "summary": "We should be wary of building data centres on the Gold Coast    Gold Coast Bulletin",
+   "publisher": "Gold Coast Bulletin",
+   "published": "2026-11-14T06:05:07Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
   {
    "title": "Uncomfortable truth as $155 billion invested in Australian data centres - Yahoo News Australia",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUm5KRm85NTNnTjl6VVltUnVnQzhrSHBNWUVaZmY0Nk1ZSFlVLThZYXpLNHJ4NGxIU2dQVVBReUlZbVJxeXZ4SktiTjlRcGNuZFdTRWMyaERWSU1XU1BUQWlwanhmWnZMa0ZVNkFTR1RIWFhBMm1reTZLellVUndOaWttR3U0NnBIVXh3QXRmVXZfR3VIQ1M1YU1KeGZYNzZoTEZmS1hYajRLVlpSYmdERg?oc=5",
@@ -85,6 +202,18 @@
    "first_seen": "2026-11-14T01:07:17Z"
   },
   {
+   "title": "Stocks sway as Wall Street heads for a winning week despite turbulence - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa29BdmsxUzg3Zk9pVW1KRHJjRFZIeWduOUNHUWdOckFJdmdMRVBGcXZmcEpKcjgzNTl4SlhpQlRmUTJUY0hVU1ZGRVU0dnNzOERONnRfb3pCTUg0SHdJQVgxVjQ3TjlIY21SQi1vZXBhV0dnTk9EMXR2UHJOQXRWeFVEQzdzTlpDYTNITkNTNE9SSjBYcnROY1VQT1hra1QyOU1YaFVDWmIxM2xqUUdMblo1QnhaODEzY2kxQXVPMmh0X0ZCR1JYYg?oc=5",
+   "summary": "Stocks sway as Wall Street heads for a winning week despite turbulence    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-13T20:51:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
    "title": "New Principal Community Partner | Welcome to the team, Firmus - Tasmania Jack Jumpers",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUFHTFpxT1lENDVVTGpLaHdDMEVLcDNMVjk4NEs2OGU3dlhNZTlOaVJHempmNU1KaVc5ak90aDc5RXZqSEswVjBqNDA5c2d3enYxSnJ0Z3BnNjBnUUFyTl9UVHRxMjY4T05sUzBmY0pjWHNzdW9uX052TmkxUWlWUG9FLW9vQkpaOUlCSGFiQXNSeDFFVnVBTWlrOE96UkY1UTJDd3Z3RDVoOWtUQllr?oc=5",
    "summary": "New Principal Community Partner | Welcome to the team, Firmus    Tasmania Jack Jumpers",
@@ -97,6 +226,18 @@
     "TAS"
    ],
    "first_seen": "2026-11-14T01:07:17Z"
+  },
+  {
+   "title": "AMD falls 9%, Intel drops 6% as chip stocks slide on Friday - Invezz",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXltZDhrSmpQNGpqaGFMRVAxbUI1Qk40NnhVSl9HVjY0bUdfQ1AwYkZvNjJWckxCTHZRMEtqcXZESTBhRHdzdG0tV0ZkMC0tSG5Ub1NZUVNVQngzQ0JuYmpISzNjR0NzSUExS2RQS3NERmk1ZGppSjZTLXlMUFdoS19RVkZWa29oSFRDb1I5V0JCOGtaNUNNY0JhSVZ4aXNoWlFBS3FsQUxSS3k2amc?oc=5",
+   "summary": "AMD falls 9%, Intel drops 6% as chip stocks slide on Friday    Invezz",
+   "publisher": "Invezz",
+   "published": "2026-11-13T18:03:08Z",
+   "source_id": "gnews-dc-au-2",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
   },
   {
    "title": "The AI sector has a big, Jensen Huang-shaped hole to fill - AFR",
@@ -2245,6 +2386,18 @@
    "first_seen": "2026-11-14T01:07:17Z"
   },
   {
+   "title": "Australian Data Centre Expo - Data Centre Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eWE5WnRQR3ViVlRCQ3dlaGxxUkJzdGVTRVZMeVZndkhob2JzaFp4enItaXlYbm1OV2ZZbXF0QzFzcjk5M2pxaFBUdEJrc0xuSDE4OFNnZmNtMUhxSHJUWEhWU1M?oc=5",
+   "summary": "Australian Data Centre Expo    Data Centre Magazine",
+   "publisher": "Data Centre Magazine",
+   "published": "2026-11-10T08:00:00Z",
+   "source_id": "gnews-dc-au",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
+  },
+  {
    "title": "DigiCo Infrastructure REIT (ASX:DGT): How SYD1 Expansion and Asset Sales Shape Its 2026 Plans - Kalkine",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFhmRFh4QVpjaEl5Um1CY1Y3MkpLZXo4VW8xT1AxZnQzM0V0SENvTXh2THFoX0ZmMWRkWEptQkJCaFdXYjR5aXRmeHc4UmVuaVR2M21VQ0tzZThoWWc0MExOckYxMi1PZGNhOXVGYzllMHpWX2xOeUdWalVNT3RjZm5lMU9SZFJkTDhzRElWSjlvS25IZk9vdE5UVnVabko0WEotam8tNGxHdFJtSGJmXzBwUmNQQWhxcVZESlVvdG5tYjVvTExPNQ?oc=5",
    "summary": "DigiCo Infrastructure REIT (ASX:DGT): How SYD1 Expansion and Asset Sales Shape Its 2026 Plans    Kalkine",
@@ -3033,6 +3186,18 @@
    ],
    "states": [],
    "first_seen": "2026-11-10T03:03:04Z"
+  },
+  {
+   "title": "Origin Energy CEO Frank Calabria faces succession questions after 10 years - AFR",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hTY2x2bXo5dG8zSVdpU04yd1pMUkxFbEg1WjBEOTlpZWhQbm85OFdHWEVON0hQTklFekwxNVk5YXdKUVN0alBhekdVVDdyLUJRZGJUbkwzS291YnVkZ2l0SGVwSTRzVFFLMXZ4X3l1V2xEelN0Sm44U0daMHMyRm83RW5ZeXRjLXFBRWZNMjctX01pb09MZ2QzVS1tWVF1UVMtV0VUUWh1Vl9SNnZoN2czYXplWWQ1ZFE?oc=5",
+   "summary": "Origin Energy CEO Frank Calabria faces succession questions after 10 years    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-09T09:00:00Z",
+   "source_id": "afr",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "first_seen": "2026-11-15T00:29:51Z"
   },
   {
    "title": "Data Center Boss Vows Engagement After Backlash Tanks Stock - Bloomberg.com",
